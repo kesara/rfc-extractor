@@ -1,0 +1,15 @@
+{
+    "abstract": "In the Resource Public Key Infrastructure (RPKI), Signed Objects are defined as Cryptographic Message Syntax (CMS) protected content types.  A Signed Object contains a signing-time attribute, representing the purported time at which the object was signed by its issuer.  RPKI repositories are accessible using the rsync and RPKI Repository Delta protocols, allowing Relying Parties (RPs) to synchronize a local copy of the RPKI repository used for validation with the remote repositories.  This document describes how the CMS signing-time attribute can be used to avoid needless retransfers of data when switching between different synchronization protocols. This document updates RFC 6488 by mandating the presence of the CMS signing-time attribute and disallowing the use of the binary-signing- time attribute. ",
+    "authors": [
+        {
+            "author": "Job Snijders",
+            "email": "job@fastly.com",
+            "role": null
+        },
+        {
+            "author": "Tom Harrison",
+            "email": "job@fastly.com",
+            "role": null
+        }
+    ]
+}

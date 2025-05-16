@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes an architecture for protocols and services to support Unmanned Aircraft System Remote Identification and tracking (UAS RID), plus UAS-RID-related communications.  This architecture adheres to the requirements listed in the Drone Remote Identification Protocol (DRIP) Requirements document (RFC 9153). ",
+    "authors": [
+        {
+            "author": "Stuart W. Card",
+            "email": "stu.card@axenterprize.com",
+            "role": null
+        },
+        {
+            "author": "Adam Wiethuechter",
+            "email": "stu.card@axenterprize.com",
+            "role": null
+        },
+        {
+            "author": "Robert Moskowitz",
+            "email": "stu.card@axenterprize.com",
+            "role": null
+        },
+        {
+            "author": "Shuai Zhao",
+            "email": "stu.card@axenterprize.com",
+            "role": "editor"
+        },
+        {
+            "author": "Andrei Gurtov",
+            "email": "stu.card@axenterprize.com",
+            "role": null
+        }
+    ]
+}

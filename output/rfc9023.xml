@@ -1,0 +1,25 @@
+{
+    "abstract": "This document specifies the Deterministic Networking IP data plane when operating over a Time-Sensitive Networking (TSN) sub-network. This document does not define new procedures or processes.  Whenever this document makes statements or recommendations, these are taken from normative text in the referenced RFCs. ",
+    "authors": [
+        {
+            "author": "Bal\u00e1zs Varga",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": "editor"
+        },
+        {
+            "author": "J\u00e1nos Farkas",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Andrew G. Malis",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Stewart Bryant",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        }
+    ]
+}

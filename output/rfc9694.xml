@@ -1,0 +1,10 @@
+{
+    "abstract": "This document defines best practices for defining new top-level media types.  It also introduces a registry for top-level media types, and contains a short history of top-level media types.  It updates RFC 6838. ",
+    "authors": [
+        {
+            "author": "Martin J. D\u00fcrst",
+            "email": "duerst@it.aoyama.ac.jp",
+            "role": null
+        }
+    ]
+}

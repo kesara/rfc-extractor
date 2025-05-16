@@ -1,0 +1,30 @@
+{
+    "abstract": "Floor control is a means to manage joint or exclusive access to shared resources in a (multiparty) conferencing environment. Thereby, floor control complements other functions -- such as conference and media session setup, conference policy manipulation, and media control -- that are realized by other protocols.  This document specifies the Binary Floor Control Protocol (BFCP). BFCP is used between floor participants and floor control servers, and between floor chairs (i.e., moderators) and floor control servers.  This document obsoletes RFC 4582. ",
+    "authors": [
+        {
+            "author": "Gonzalo Camarillo",
+            "email": "gonzalo.camarillo@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Keith Drage",
+            "email": "gonzalo.camarillo@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Tom Kristensen",
+            "email": "gonzalo.camarillo@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "J\u00f6rg Ott",
+            "email": "gonzalo.camarillo@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Charles Eckel",
+            "email": "gonzalo.camarillo@ericsson.com",
+            "role": null
+        }
+    ]
+}

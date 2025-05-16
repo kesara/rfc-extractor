@@ -1,0 +1,20 @@
+{
+    "abstract": "This specification defines a convention for HTTP response header fields that allow cache directives to be targeted at specific caches or classes of caches.  It also defines one such header field, the CDN-Cache-Control response header field, which is targeted at content delivery network (CDN) caches. ",
+    "authors": [
+        {
+            "author": "Stephen Ludin",
+            "email": "sludin@ludin.org",
+            "role": null
+        },
+        {
+            "author": "Mark Nottingham",
+            "email": "sludin@ludin.org",
+            "role": null
+        },
+        {
+            "author": "Yuchen Wu",
+            "email": "sludin@ludin.org",
+            "role": null
+        }
+    ]
+}

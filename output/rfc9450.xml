@@ -1,0 +1,25 @@
+{
+    "abstract": "The wireless medium presents significant specific challenges to achieve properties similar to those of wired deterministic networks. At the same time, a number of use cases cannot be solved with wires and justify the extra effort of going wireless.  This document presents wireless use cases (such as aeronautical communications, amusement parks, industrial applications, pro audio and video, gaming, Unmanned Aerial Vehicle (UAV) and vehicle-to-vehicle (V2V) control, edge robotics, and emergency vehicles), demanding reliable and available behavior. ",
+    "authors": [
+        {
+            "author": "Carlos J. Bernardos",
+            "email": "cjbc@it.uc3m.es",
+            "role": "editor"
+        },
+        {
+            "author": "Georgios Papadopoulos",
+            "email": "cjbc@it.uc3m.es",
+            "role": null
+        },
+        {
+            "author": "Pascal Thubert",
+            "email": "cjbc@it.uc3m.es",
+            "role": null
+        },
+        {
+            "author": "Fabrice Theoleyre",
+            "email": "cjbc@it.uc3m.es",
+            "role": null
+        }
+    ]
+}

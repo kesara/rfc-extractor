@@ -1,0 +1,25 @@
+{
+    "abstract": "This document describes operational problems that are known to occur when using DHCPv6 relays with prefix delegation.  These problems can prevent successful delegation and result in routing failures.  To address these problems, this document provides necessary functional requirements for operating DHCPv6 relays with prefix delegation.  It is recommended that any network operator using DHCPv6 prefix delegation with relays ensure that these requirements are followed on their networks. ",
+    "authors": [
+        {
+            "author": "Ian Farrer",
+            "email": "ian.farrer@telekom.de",
+            "role": null
+        },
+        {
+            "author": "Naveen Kottapalli",
+            "email": "ian.farrer@telekom.de",
+            "role": null
+        },
+        {
+            "author": "Martin Hunek",
+            "email": "ian.farrer@telekom.de",
+            "role": null
+        },
+        {
+            "author": "Richard Patterson",
+            "email": "ian.farrer@telekom.de",
+            "role": null
+        }
+    ]
+}

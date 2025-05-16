@@ -1,0 +1,15 @@
+{
+    "abstract": "This document describes revisions to operational practices to separate the function of the \"arpa\" top-level domain in the DNS from its historical operation alongside the DNS root zone. ",
+    "authors": [
+        {
+            "author": "Kim Davies",
+            "email": "kim.davies@iana.org",
+            "role": null
+        },
+        {
+            "author": "Jari Arkko",
+            "email": "kim.davies@iana.org",
+            "role": null
+        }
+    ]
+}

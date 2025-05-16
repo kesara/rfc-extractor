@@ -1,0 +1,30 @@
+{
+    "abstract": "This document specifies the Distributed Denial-of-Service Open Threat Signaling (DOTS) signal channel, a protocol for signaling the need for protection against Distributed Denial-of-Service (DDoS) attacks to a server capable of enabling network traffic mitigation on behalf of the requesting client.  A companion document defines the DOTS data channel, a separate reliable communication layer for DOTS management and configuration purposes. ",
+    "authors": [
+        {
+            "author": "Tirumaleswar Reddy.K",
+            "email": "kondtir@gmail.com",
+            "role": "editor"
+        },
+        {
+            "author": "Mohamed Boucadair",
+            "email": "kondtir@gmail.com",
+            "role": "editor"
+        },
+        {
+            "author": "Prashanth Patil",
+            "email": "kondtir@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Andrew Mortensen",
+            "email": "kondtir@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Nik Teague",
+            "email": "kondtir@gmail.com",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "abstract": "This document describes the Base45 encoding scheme, which is built upon the Base64, Base32, and Base16 encoding schemes. ",
+    "authors": [
+        {
+            "author": "Patrik F\u00e4ltstr\u00f6m",
+            "email": "paf@netnod.se",
+            "role": null
+        },
+        {
+            "author": "Fredrik Ljunggren",
+            "email": "paf@netnod.se",
+            "role": null
+        },
+        {
+            "author": "Dirk-Willem van Gulik",
+            "email": "paf@netnod.se",
+            "role": null
+        }
+    ]
+}

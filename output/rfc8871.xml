@@ -1,0 +1,20 @@
+{
+    "abstract": "This document describes a solution framework for ensuring that media confidentiality and integrity are maintained end to end within the context of a switched conferencing environment where Media Distributors are not trusted with the end-to-end media encryption keys.  The solution builds upon existing security mechanisms defined for the Real-time Transport Protocol (RTP). ",
+    "authors": [
+        {
+            "author": "Paul E. Jones",
+            "email": "paulej@packetizer.com",
+            "role": null
+        },
+        {
+            "author": "David Benham",
+            "email": "paulej@packetizer.com",
+            "role": null
+        },
+        {
+            "author": "Christian Groves",
+            "email": "paulej@packetizer.com",
+            "role": null
+        }
+    ]
+}

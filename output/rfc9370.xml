@@ -1,0 +1,40 @@
+{
+    "abstract": "This document describes how to extend the Internet Key Exchange Protocol Version 2 (IKEv2) to allow multiple key exchanges to take place while computing a shared secret during a Security Association (SA) setup.  This document utilizes the IKE_INTERMEDIATE exchange, where multiple key exchanges are performed when an IKE SA is being established.  It also introduces a new IKEv2 exchange, IKE_FOLLOWUP_KE, which is used for the same purpose when the IKE SA is being rekeyed or is creating additional Child SAs.  This document updates RFC 7296 by renaming a Transform Type 4 from \"Diffie-Hellman Group (D-H)\" to \"Key Exchange Method (KE)\" and renaming a field in the Key Exchange Payload from \"Diffie-Hellman Group Num\" to \"Key Exchange Method\".  It also renames an IANA registry for this Transform Type from \"Transform Type 4 - Diffie- Hellman Group Transform IDs\" to \"Transform Type 4 - Key Exchange Method Transform IDs\".  These changes generalize key exchange algorithms that can be used in IKEv2. ",
+    "authors": [
+        {
+            "author": "Cen Jung Tjhai",
+            "email": "cjt@post-quantum.com",
+            "role": null
+        },
+        {
+            "author": "Martin Tomlinson",
+            "email": "cjt@post-quantum.com",
+            "role": null
+        },
+        {
+            "author": "Graham Bartlett",
+            "email": "cjt@post-quantum.com",
+            "role": null
+        },
+        {
+            "author": "Scott Fluhrer",
+            "email": "cjt@post-quantum.com",
+            "role": null
+        },
+        {
+            "author": "Daniel Van Geest",
+            "email": "cjt@post-quantum.com",
+            "role": null
+        },
+        {
+            "author": "Oscar Garcia-Morchon",
+            "email": "cjt@post-quantum.com",
+            "role": null
+        },
+        {
+            "author": "Valery Smyslov",
+            "email": "cjt@post-quantum.com",
+            "role": null
+        }
+    ]
+}

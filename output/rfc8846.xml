@@ -1,0 +1,15 @@
+{
+    "abstract": "This document provides an XML schema file for the definition of CLUE data model types.  The term \"CLUE\" stands for \"Controlling Multiple Streams for Telepresence\" and is the name of the IETF working group in which this document, as well as other companion documents, has been developed.  The document defines a coherent structure for information associated with the description of a telepresence scenario. ",
+    "authors": [
+        {
+            "author": "Roberta Presta",
+            "email": "roberta.presta@unina.it",
+            "role": null
+        },
+        {
+            "author": "Simon Pietro Romano",
+            "email": "roberta.presta@unina.it",
+            "role": null
+        }
+    ]
+}

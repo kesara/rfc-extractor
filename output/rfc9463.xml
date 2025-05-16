@@ -1,0 +1,30 @@
+{
+    "abstract": "This document specifies new DHCP and IPv6 Router Advertisement options to discover encrypted DNS resolvers (e.g., DNS over HTTPS, DNS over TLS, and DNS over QUIC).  Particularly, it allows a host to learn an Authentication Domain Name together with a list of IP addresses and a set of service parameters to reach such encrypted DNS resolvers. ",
+    "authors": [
+        {
+            "author": "Mohamed Boucadair",
+            "email": "mohamed.boucadair@orange.com",
+            "role": "editor"
+        },
+        {
+            "author": "Tirumaleswar Reddy.K",
+            "email": "mohamed.boucadair@orange.com",
+            "role": "editor"
+        },
+        {
+            "author": "Dan Wing",
+            "email": "mohamed.boucadair@orange.com",
+            "role": null
+        },
+        {
+            "author": "Neil Cook",
+            "email": "mohamed.boucadair@orange.com",
+            "role": null
+        },
+        {
+            "author": "Tommy Jensen",
+            "email": "mohamed.boucadair@orange.com",
+            "role": null
+        }
+    ]
+}

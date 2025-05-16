@@ -1,0 +1,15 @@
+{
+    "abstract": "This document summarizes the Internet Engineering Task Force (IETF) - Internet Society (ISOC) relationship, following a major revision to the structure of the IETF Administrative Support Activity (IASA) in 2018.  The IASA was revised under a new \"IASA 2.0\" structure by the IASA2 Working Group, which changed the IETF's administrative, legal, and financial structure.  As a result, it also changed the relationship between the IETF and ISOC, which made it necessary to revise RFC 2031. ",
+    "authors": [
+        {
+            "author": "Gonzalo Camarillo",
+            "email": "Gonzalo.Camarillo@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Jason Livingood",
+            "email": "Gonzalo.Camarillo@ericsson.com",
+            "role": null
+        }
+    ]
+}

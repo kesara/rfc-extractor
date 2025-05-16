@@ -1,0 +1,30 @@
+{
+    "abstract": "This document defines a YANG data model that can be used to configure and manage Internet Group Management Protocol (IGMP) or Multicast Listener Discovery (MLD) Proxy devices.  The YANG module in this document conforms to the Network Management Datastore Architecture (NMDA). ",
+    "authors": [
+        {
+            "author": "Hongji Zhao",
+            "email": "hongji.zhao@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Xufeng Liu",
+            "email": "hongji.zhao@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Yisong Liu",
+            "email": "hongji.zhao@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Mani Panchanathan",
+            "email": "hongji.zhao@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Mahesh Sivakumar",
+            "email": "hongji.zhao@ericsson.com",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "abstract": "This document defines the Free Lossless Audio Codec (FLAC) format and its streamable subset.  FLAC is designed to reduce the amount of computer storage space needed to store digital audio signals.  It does this losslessly, i.e., it does so without losing information. FLAC is free in the sense that its specification is open and its reference implementation is open source.  Compared to other lossless audio coding formats, FLAC is a format with low complexity and can be encoded and decoded with little computing resources.  Decoding of FLAC has been implemented independently for many different platforms, and both encoding and decoding can be implemented without needing floating-point arithmetic. ",
+    "authors": [
+        {
+            "author": "Martijn van Beurden",
+            "email": "mvanb1@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Andrew Weaver",
+            "email": "mvanb1@gmail.com",
+            "role": null
+        }
+    ]
+}

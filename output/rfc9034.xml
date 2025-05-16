@@ -1,0 +1,30 @@
+{
+    "abstract": "This document specifies a new type for the 6LoWPAN routing header containing the deadline time for data packets, designed for use over constrained networks.  The deadline time enables forwarding and scheduling decisions for time-critical machine-to-machine (M2M) applications running on Internet-enabled devices that operate within time-synchronized networks.  This document also specifies a representation for the deadline time values in such networks. ",
+    "authors": [
+        {
+            "author": "Lijo Thomas",
+            "email": "lijo@cdac.in",
+            "role": null
+        },
+        {
+            "author": "Satish Anamalamudi",
+            "email": "lijo@cdac.in",
+            "role": null
+        },
+        {
+            "author": "S.V.R. Anand",
+            "email": "lijo@cdac.in",
+            "role": null
+        },
+        {
+            "author": "Malati Hegde",
+            "email": "lijo@cdac.in",
+            "role": null
+        },
+        {
+            "author": "Charles E. Perkins",
+            "email": "lijo@cdac.in",
+            "role": null
+        }
+    ]
+}

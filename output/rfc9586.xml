@@ -1,0 +1,30 @@
+{
+    "abstract": "The UIDONLY extension to the Internet Message Access Protocol (RFCs 3501 and 9051) allows clients to enable a mode in which information about mailbox changes is returned using only Unique Identifiers (UIDs).  Message numbers are not returned in responses and cannot be used in requests once this extension is enabled.  This helps both clients and servers to reduce resource usage required to maintain a map between message numbers and UIDs.  This document defines an experimental IMAP extension. ",
+    "authors": [
+        {
+            "author": "Alexey Melnikov",
+            "email": "alexey.melnikov@isode.com",
+            "role": null
+        },
+        {
+            "author": "Arun Prakash Achuthan",
+            "email": "alexey.melnikov@isode.com",
+            "role": null
+        },
+        {
+            "author": "Vikram Nagulakonda",
+            "email": "alexey.melnikov@isode.com",
+            "role": null
+        },
+        {
+            "author": "Ashutosh Singh",
+            "email": "alexey.melnikov@isode.com",
+            "role": null
+        },
+        {
+            "author": "Luis Alves",
+            "email": "alexey.melnikov@isode.com",
+            "role": null
+        }
+    ]
+}

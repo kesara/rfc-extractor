@@ -1,0 +1,20 @@
+{
+    "abstract": "This specification defines a metadata format that an OAuth 2.0 client or authorization server can use to obtain the information needed to interact with an OAuth 2.0 protected resource. ",
+    "authors": [
+        {
+            "author": "Michael B. Jones",
+            "email": "michael_b_jones@hotmail.com",
+            "role": null
+        },
+        {
+            "author": "Phil Hunt",
+            "email": "michael_b_jones@hotmail.com",
+            "role": null
+        },
+        {
+            "author": "Aaron Parecki",
+            "email": "michael_b_jones@hotmail.com",
+            "role": null
+        }
+    ]
+}

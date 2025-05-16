@@ -1,0 +1,20 @@
+{
+    "abstract": "This document specifies the format, contents, and semantics of Domain Name Registration Data (DNRD) escrow deposits for a domain name registry. ",
+    "authors": [
+        {
+            "author": "Gustavo Lozano",
+            "email": "gustavo.lozano@icann.org",
+            "role": null
+        },
+        {
+            "author": "James Gould",
+            "email": "gustavo.lozano@icann.org",
+            "role": null
+        },
+        {
+            "author": "Chethan Thippeswamy",
+            "email": "gustavo.lozano@icann.org",
+            "role": null
+        }
+    ]
+}

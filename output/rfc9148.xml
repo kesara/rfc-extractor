@@ -1,0 +1,25 @@
+{
+    "abstract": "Enrollment over Secure Transport (EST) is used as a certificate provisioning protocol over HTTPS.  Low-resource devices often use the lightweight Constrained Application Protocol (CoAP) for message exchanges.  This document defines how to transport EST payloads over secure CoAP (EST-coaps), which allows constrained devices to use existing EST functionality for provisioning certificates. ",
+    "authors": [
+        {
+            "author": "Peter van der Stok",
+            "email": "stokcons@bbhmail.nl",
+            "role": null
+        },
+        {
+            "author": "Panos Kampanakis",
+            "email": "stokcons@bbhmail.nl",
+            "role": null
+        },
+        {
+            "author": "Michael C. Richardson",
+            "email": "stokcons@bbhmail.nl",
+            "role": null
+        },
+        {
+            "author": "Shahid Raza",
+            "email": "stokcons@bbhmail.nl",
+            "role": null
+        }
+    ]
+}

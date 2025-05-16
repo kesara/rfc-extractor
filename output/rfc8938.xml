@@ -1,0 +1,30 @@
+{
+    "abstract": "This document provides an overall framework for the Deterministic Networking (DetNet) data plane.  It covers concepts and considerations that are generally common to any DetNet data plane specification.  It describes related Controller Plane considerations as well. ",
+    "authors": [
+        {
+            "author": "Bal\u00e1zs Varga",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": "editor"
+        },
+        {
+            "author": "J\u00e1nos Farkas",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Lou Berger",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Andrew G. Malis",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Stewart Bryant",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        }
+    ]
+}

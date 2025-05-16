@@ -1,0 +1,25 @@
+{
+    "abstract": "Knowledge and experience on how to operate IPv4 networks securely is available, whether the operator is an Internet Service Provider (ISP) or an enterprise internal network.  However, IPv6 presents some new security challenges.  RFC 4942 describes security issues in the protocol, but network managers also need a more practical, operations-minded document to enumerate advantages and/or disadvantages of certain choices.  This document analyzes the operational security issues associated with several types of networks and proposes technical and procedural mitigation techniques.  This document is only applicable to managed networks, such as enterprise networks, service provider networks, or managed residential networks. ",
+    "authors": [
+        {
+            "author": "\u00c9ric Vyncke",
+            "email": "evyncke@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Kiran Kumar Chittimaneni",
+            "email": "evyncke@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Merike Kaeo",
+            "email": "evyncke@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Enno Rey",
+            "email": "evyncke@cisco.com",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "abstract": "This document specifies extensions to the Path Computation Element Communication Protocol (PCEP) that enable the inclusion of vendor- specific information in stateful Path Computation Element (PCE) operations.  These extensions allow vendors to incorporate proprietary data within PCEP messages, facilitating enhanced network optimization and functionality in environments requiring vendor- specific features.  The extensions maintain compatibility with existing PCEP implementations and promote interoperability across diverse network deployments.  RFC 7470 defines a facility to carry vendor-specific information in stateless PCEP messages.  This document extends this capability for the stateful PCEP messages.  This document updates RFC 7470 to specify that Enterprise Numbers are managed through the \"Private Enterprise Numbers (PENs)\" registry. ",
+    "authors": [
+        {
+            "author": "Cheng Li",
+            "email": "c.l@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Haomian Zheng",
+            "email": "c.l@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Siva Sivabalan",
+            "email": "c.l@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Samuel Sidor",
+            "email": "c.l@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Zafar Ali",
+            "email": "c.l@huawei.com",
+            "role": null
+        }
+    ]
+}

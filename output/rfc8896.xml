@@ -1,0 +1,30 @@
+{
+    "abstract": "This document is an extension to the base Application-Layer Traffic Optimization (ALTO) protocol.  It extends the ALTO cost information service so that applications decide not only 'where' to connect but also 'when'.  This is useful for applications that need to perform bulk data transfer and would like to schedule these transfers during an off-peak hour, for example.  This extension introduces the ALTO Cost Calendar with which an ALTO Server exposes ALTO cost values in JSON arrays where each value corresponds to a given time interval. The time intervals, as well as other Calendar attributes, are specified in the Information Resources Directory and ALTO Server responses. ",
+    "authors": [
+        {
+            "author": "Sabine Randriamasy",
+            "email": "Sabine.Randriamasy@nokia-bell-labs.com",
+            "role": null
+        },
+        {
+            "author": "Y. Richard Yang",
+            "email": "Sabine.Randriamasy@nokia-bell-labs.com",
+            "role": null
+        },
+        {
+            "author": "Qin Wu",
+            "email": "Sabine.Randriamasy@nokia-bell-labs.com",
+            "role": null
+        },
+        {
+            "author": "Lingli Deng",
+            "email": "Sabine.Randriamasy@nokia-bell-labs.com",
+            "role": null
+        },
+        {
+            "author": "Nico Schwan",
+            "email": "Sabine.Randriamasy@nokia-bell-labs.com",
+            "role": null
+        }
+    ]
+}

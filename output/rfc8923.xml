@@ -1,0 +1,15 @@
+{
+    "abstract": "This document recommends a minimal set of Transport Services offered by end systems and gives guidance on choosing among the available mechanisms and protocols.  It is based on the set of transport features in RFC 8303. ",
+    "authors": [
+        {
+            "author": "Michael Welzl",
+            "email": "michawe@ifi.uio.no",
+            "role": null
+        },
+        {
+            "author": "Stein Gjessing",
+            "email": "michawe@ifi.uio.no",
+            "role": null
+        }
+    ]
+}

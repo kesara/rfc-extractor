@@ -1,0 +1,30 @@
+{
+    "abstract": "This specification defines a protocol for an HTTP- and JSON-based Security Token Service (STS) by defining how to request and obtain security tokens from OAuth 2.0 authorization servers, including security tokens employing impersonation and delegation. ",
+    "authors": [
+        {
+            "author": "Michael B. Jones",
+            "email": "mbj@microsoft.com",
+            "role": null
+        },
+        {
+            "author": "Anthony Nadalin",
+            "email": "mbj@microsoft.com",
+            "role": null
+        },
+        {
+            "author": "Brian Campbell",
+            "email": "mbj@microsoft.com",
+            "role": "editor"
+        },
+        {
+            "author": "John Bradley",
+            "email": "mbj@microsoft.com",
+            "role": null
+        },
+        {
+            "author": "Chuck Mortimore",
+            "email": "mbj@microsoft.com",
+            "role": null
+        }
+    ]
+}

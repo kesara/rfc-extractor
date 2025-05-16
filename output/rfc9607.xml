@@ -1,0 +1,20 @@
+{
+    "abstract": "This document describes the RTP payload format of the Secure Communication Interoperability Protocol (SCIP).  SCIP is an application-layer protocol that provides end-to-end session establishment, payload encryption, packetization and de-packetization of media, and reliable transport.  This document provides a globally available reference that can be used for the development of network equipment and procurement of services that support SCIP traffic.  The intended audience is network security policymakers; network administrators, architects, and original equipment manufacturers (OEMs); procurement personnel; and government agency and commercial industry representatives. ",
+    "authors": [
+        {
+            "author": "Daniel Hanson",
+            "email": "dan.hanson@gd-ms.com",
+            "role": null
+        },
+        {
+            "author": "Michael Faller",
+            "email": "dan.hanson@gd-ms.com",
+            "role": null
+        },
+        {
+            "author": "Keith Maver",
+            "email": "dan.hanson@gd-ms.com",
+            "role": null
+        }
+    ]
+}

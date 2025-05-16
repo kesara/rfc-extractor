@@ -1,0 +1,30 @@
+{
+    "abstract": "This document defines the encapsulation for MPLS performance measurement with the Alternate-Marking Method, which performs flow- based packet loss, delay, and jitter measurements on MPLS traffic. ",
+    "authors": [
+        {
+            "author": "Weiqiang Cheng",
+            "email": "chengweiqiang@chinamobile.com",
+            "role": "editor"
+        },
+        {
+            "author": "Xiao Min",
+            "email": "chengweiqiang@chinamobile.com",
+            "role": "editor"
+        },
+        {
+            "author": "Tianran Zhou",
+            "email": "chengweiqiang@chinamobile.com",
+            "role": null
+        },
+        {
+            "author": "Jinyou Dai",
+            "email": "chengweiqiang@chinamobile.com",
+            "role": null
+        },
+        {
+            "author": "Yoav Peleg",
+            "email": "chengweiqiang@chinamobile.com",
+            "role": null
+        }
+    ]
+}

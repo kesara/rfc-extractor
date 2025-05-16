@@ -1,0 +1,10 @@
+{
+    "abstract": "This document describes the data transport protocols used by Web Real-Time Communication (WebRTC), including the protocols used for interaction with intermediate boxes such as firewalls, relays, and NAT boxes. ",
+    "authors": [
+        {
+            "author": "Harald Alvestrand",
+            "email": "harald@alvestrand.no",
+            "role": null
+        }
+    ]
+}

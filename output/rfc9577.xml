@@ -1,0 +1,20 @@
+{
+    "abstract": "This document defines an HTTP authentication scheme for Privacy Pass, a privacy-preserving authentication mechanism used for authorization. The authentication scheme specified in this document can be used by Clients to redeem Privacy Pass tokens with an Origin.  It can also be used by Origins to challenge Clients to present Privacy Pass tokens. ",
+    "authors": [
+        {
+            "author": "Tommy Pauly",
+            "email": "tpauly@apple.com",
+            "role": null
+        },
+        {
+            "author": "Steven Valdez",
+            "email": "tpauly@apple.com",
+            "role": null
+        },
+        {
+            "author": "Christopher A. Wood",
+            "email": "tpauly@apple.com",
+            "role": null
+        }
+    ]
+}

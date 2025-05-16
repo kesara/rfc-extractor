@@ -1,0 +1,30 @@
+{
+    "abstract": "In network protocol exchanges, it is often useful for one end of a communication to know whether the other end is in an intended operating state.  This document provides an architectural overview of the entities involved that make such tests possible through the process of generating, conveying, and evaluating evidentiary Claims. It provides a model that is neutral toward processor architectures, the content of Claims, and protocols. ",
+    "authors": [
+        {
+            "author": "Henk Birkholz",
+            "email": "henk.birkholz@sit.fraunhofer.de",
+            "role": null
+        },
+        {
+            "author": "Dave Thaler",
+            "email": "henk.birkholz@sit.fraunhofer.de",
+            "role": null
+        },
+        {
+            "author": "Michael Richardson",
+            "email": "henk.birkholz@sit.fraunhofer.de",
+            "role": null
+        },
+        {
+            "author": "Ned Smith",
+            "email": "henk.birkholz@sit.fraunhofer.de",
+            "role": null
+        },
+        {
+            "author": "Wei Pan",
+            "email": "henk.birkholz@sit.fraunhofer.de",
+            "role": null
+        }
+    ]
+}

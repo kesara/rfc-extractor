@@ -1,0 +1,30 @@
+{
+    "abstract": "Segment Routing (SR) leverages the source routing paradigm.  SR is applicable to both Multiprotocol Label Switching (SR-MPLS) and IPv6 (SRv6) forwarding planes.  This document specifies Simple Two-Way Active Measurement Protocol (STAMP) extensions (as described in RFC 8762) for SR networks, for both the SR-MPLS and SRv6 forwarding planes, by augmenting the optional extensions defined in RFC 8972. ",
+    "authors": [
+        {
+            "author": "Rakesh Gandhi",
+            "email": "rgandhi@cisco.com",
+            "role": "editor"
+        },
+        {
+            "author": "Clarence Filsfils",
+            "email": "rgandhi@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Mach(Guoyi) Chen",
+            "email": "rgandhi@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Bart Janssens",
+            "email": "rgandhi@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Richard Foote",
+            "email": "rgandhi@cisco.com",
+            "role": null
+        }
+    ]
+}

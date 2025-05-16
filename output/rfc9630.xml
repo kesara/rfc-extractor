@@ -1,0 +1,35 @@
+{
+    "abstract": "This document specifies two solutions to meet the requirements of on- path telemetry for multicast traffic using IOAM.  While IOAM is advantageous for multicast traffic telemetry, some unique challenges are present.  This document provides the solutions based on the IOAM trace option and direct export option to support the telemetry data correlation and the multicast tree reconstruction without incurring data redundancy. ",
+    "authors": [
+        {
+            "author": "Haoyu Song",
+            "email": "hsong@futurewei.com",
+            "role": null
+        },
+        {
+            "author": "Mike McBride",
+            "email": "hsong@futurewei.com",
+            "role": null
+        },
+        {
+            "author": "Greg Mirsky",
+            "email": "hsong@futurewei.com",
+            "role": null
+        },
+        {
+            "author": "Gyan Mishra",
+            "email": "hsong@futurewei.com",
+            "role": null
+        },
+        {
+            "author": "Hitoshi Asaeda",
+            "email": "hsong@futurewei.com",
+            "role": null
+        },
+        {
+            "author": "Tianran Zhou",
+            "email": "hsong@futurewei.com",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "abstract": "The IEEE and ETSI have specified a type of end-entity certificate. This document defines an experimental change to TLS to support IEEE/ ETSI certificate types to authenticate TLS entities. ",
+    "authors": [
+        {
+            "author": "Mounira Msahli",
+            "email": "mounira.msahli@telecom-paris.fr",
+            "role": "editor"
+        },
+        {
+            "author": "Nancy Cam-Winget",
+            "email": "mounira.msahli@telecom-paris.fr",
+            "role": "editor"
+        },
+        {
+            "author": "William Whyte",
+            "email": "mounira.msahli@telecom-paris.fr",
+            "role": "editor"
+        },
+        {
+            "author": "Ahmed Serhrouchni",
+            "email": "mounira.msahli@telecom-paris.fr",
+            "role": null
+        },
+        {
+            "author": "Houda Labiod",
+            "email": "mounira.msahli@telecom-paris.fr",
+            "role": null
+        }
+    ]
+}

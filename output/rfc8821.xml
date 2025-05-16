@@ -1,0 +1,25 @@
+{
+    "abstract": "This document defines an architecture for providing traffic engineering in a native IP network using multiple BGP sessions and a Path Computation Element (PCE)-based central control mechanism.  It defines the Centralized Control Dynamic Routing (CCDR) procedures and identifies needed extensions for the Path Computation Element Communication Protocol (PCEP). ",
+    "authors": [
+        {
+            "author": "Aijun Wang",
+            "email": "wangaj3@chinatelecom.cn",
+            "role": null
+        },
+        {
+            "author": "Boris Khasanov",
+            "email": "wangaj3@chinatelecom.cn",
+            "role": null
+        },
+        {
+            "author": "Quintin Zhao",
+            "email": "wangaj3@chinatelecom.cn",
+            "role": null
+        },
+        {
+            "author": "Huaimo Chen",
+            "email": "wangaj3@chinatelecom.cn",
+            "role": null
+        }
+    ]
+}

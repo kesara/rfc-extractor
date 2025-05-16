@@ -1,0 +1,35 @@
+{
+    "abstract": "This document describes how to support endpoints running the Internet Group Management Protocol (IGMP) or Multicast Listener Discovery (MLD) efficiently for the multicast services over an Ethernet VPN (EVPN) network by incorporating IGMP/MLD Proxy procedures on EVPN Provider Edges (PEs). ",
+    "authors": [
+        {
+            "author": "Ali Sajassi",
+            "email": "sajassi@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Samir Thoria",
+            "email": "sajassi@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Mankamana Mishra",
+            "email": "sajassi@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Keyur Patel",
+            "email": "sajassi@cisco.com",
+            "role": null
+        },
+        {
+            "author": "John Drake",
+            "email": "sajassi@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Wen Lin",
+            "email": "sajassi@cisco.com",
+            "role": null
+        }
+    ]
+}

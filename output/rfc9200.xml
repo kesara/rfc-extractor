@@ -1,0 +1,30 @@
+{
+    "abstract": "This specification defines a framework for authentication and authorization in Internet of Things (IoT) environments called ACE\u2011OAuth.  The framework is based on a set of building blocks including OAuth 2.0 and the Constrained Application Protocol (CoAP), thus transforming a well-known and widely used authorization solution into a form suitable for IoT devices.  Existing specifications are used where possible, but extensions are added and profiles are defined to better serve the IoT use cases. ",
+    "authors": [
+        {
+            "author": "Ludwig Seitz",
+            "email": "ludwig.seitz@combitech.com",
+            "role": null
+        },
+        {
+            "author": "G\u00f6ran Selander",
+            "email": "ludwig.seitz@combitech.com",
+            "role": null
+        },
+        {
+            "author": "Erik Wahlstroem",
+            "email": "ludwig.seitz@combitech.com",
+            "role": null
+        },
+        {
+            "author": "Samuel Erdtman",
+            "email": "ludwig.seitz@combitech.com",
+            "role": null
+        },
+        {
+            "author": "Hannes Tschofenig",
+            "email": "ludwig.seitz@combitech.com",
+            "role": null
+        }
+    ]
+}

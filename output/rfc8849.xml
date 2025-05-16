@@ -1,0 +1,15 @@
+{
+    "abstract": "This document describes how the Real-time Transport Protocol (RTP) is used in the context of the Controlling Multiple Streams for Telepresence (CLUE) protocol.  It also describes the mechanisms and recommended practice for mapping RTP media streams, as defined in the Session Description Protocol (SDP), to CLUE Media Captures and defines a new RTP header extension (CaptureID). ",
+    "authors": [
+        {
+            "author": "Roni Even",
+            "email": "ron.even.tlv@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Jonathan Lennox",
+            "email": "ron.even.tlv@gmail.com",
+            "role": null
+        }
+    ]
+}

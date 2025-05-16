@@ -1,0 +1,30 @@
+{
+    "abstract": "Several IPv6 transition technologies have been developed to provide customers with IPv4-as-a-Service (IPv4aaS) for ISPs with an IPv6-only access and/or core network.  These technologies have their advantages and disadvantages.  Depending on existing topology, skills, strategy, and other preferences, one of these technologies may be the most appropriate solution for a network operator.  This document examines the five most prominent IPv4aaS technologies and considers a number of different aspects to provide network operators with an easy-to-use reference to assist in selecting the technology that best suits their needs. ",
+    "authors": [
+        {
+            "author": "G\u00e1bor Lencse",
+            "email": "lencse@hit.bme.hu",
+            "role": null
+        },
+        {
+            "author": "Jordi Palet Martinez",
+            "email": "lencse@hit.bme.hu",
+            "role": null
+        },
+        {
+            "author": "Lee Howard",
+            "email": "lencse@hit.bme.hu",
+            "role": null
+        },
+        {
+            "author": "Richard Patterson",
+            "email": "lencse@hit.bme.hu",
+            "role": null
+        },
+        {
+            "author": "Ian Farrer",
+            "email": "lencse@hit.bme.hu",
+            "role": null
+        }
+    ]
+}

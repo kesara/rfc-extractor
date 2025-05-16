@@ -1,0 +1,20 @@
+{
+    "abstract": "This document describes YANG mechanisms for defining abstract data structures with YANG. ",
+    "authors": [
+        {
+            "author": "Andy Bierman",
+            "email": "andy@yumaworks.com",
+            "role": null
+        },
+        {
+            "author": "Martin Bjorklund",
+            "email": "andy@yumaworks.com",
+            "role": null
+        },
+        {
+            "author": "Kent Watsen",
+            "email": "andy@yumaworks.com",
+            "role": null
+        }
+    ]
+}

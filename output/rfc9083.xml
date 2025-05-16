@@ -1,0 +1,15 @@
+{
+    "abstract": "This document describes JSON data structures representing registration information maintained by Regional Internet Registries (RIRs) and Domain Name Registries (DNRs).  These data structures are used to form Registration Data Access Protocol (RDAP) query responses.  This document obsoletes RFC 7483. ",
+    "authors": [
+        {
+            "author": "Scott Hollenbeck",
+            "email": "shollenbeck@verisign.com",
+            "role": null
+        },
+        {
+            "author": "Andy Newton",
+            "email": "shollenbeck@verisign.com",
+            "role": null
+        }
+    ]
+}

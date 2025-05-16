@@ -1,0 +1,20 @@
+{
+    "abstract": "This memo discusses the use of the Constrained Application Protocol (CoAP) in building sensors and other devices that employ cellular networks as a communications medium.  Building communicating devices that employ these networks is obviously well known, but this memo focuses specifically on techniques necessary to minimize power consumption. ",
+    "authors": [
+        {
+            "author": "Jari Arkko",
+            "email": "jari.arkko@piuha.net",
+            "role": null
+        },
+        {
+            "author": "Anders Eriksson",
+            "email": "jari.arkko@piuha.net",
+            "role": null
+        },
+        {
+            "author": "Ari Ker\u00e4nen",
+            "email": "jari.arkko@piuha.net",
+            "role": null
+        }
+    ]
+}

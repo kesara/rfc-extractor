@@ -1,0 +1,25 @@
+{
+    "abstract": "The \"Show me the numbers: Workshop on Analyzing IETF Data (AID)\" workshop was convened by the Internet Architecture Board (IAB) from November 29 to December 2, 2021 and hosted by the IN-SIGHT.it project at the University of Amsterdam; however, it was converted to an online-only event.  The workshop was organized into two discussion parts with a hackathon activity in between.  This report summarizes the workshop's discussion and identifies topics that warrant future work and consideration.  Note that this document is a report on the proceedings of the workshop.  The views and positions documented in this report are those of the workshop participants and do not necessarily reflect IAB views and positions. ",
+    "authors": [
+        {
+            "author": "Niels ten Oever",
+            "email": "mail@nielstenoever.net",
+            "role": null
+        },
+        {
+            "author": "Corinne Cath",
+            "email": "mail@nielstenoever.net",
+            "role": null
+        },
+        {
+            "author": "Mirja K\u00fchlewind",
+            "email": "mail@nielstenoever.net",
+            "role": null
+        },
+        {
+            "author": "Colin Perkins",
+            "email": "mail@nielstenoever.net",
+            "role": null
+        }
+    ]
+}

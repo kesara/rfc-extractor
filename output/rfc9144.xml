@@ -1,0 +1,25 @@
+{
+    "abstract": "This document defines a Remote Procedure Call (RPC) operation to compare management datastores that comply with the Network Management Datastore Architecture (NMDA). ",
+    "authors": [
+        {
+            "author": "Alexander Clemm",
+            "email": "ludwig@clemm.org",
+            "role": null
+        },
+        {
+            "author": "Yingzhen Qu",
+            "email": "ludwig@clemm.org",
+            "role": null
+        },
+        {
+            "author": "Jeff Tantsura",
+            "email": "ludwig@clemm.org",
+            "role": null
+        },
+        {
+            "author": "Andy Bierman",
+            "email": "ludwig@clemm.org",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "abstract": "The Cryptographic Message Syntax (CMS) supports key transport and key agreement algorithms.  In recent years, cryptographers have been specifying Key Encapsulation Mechanism (KEM) algorithms, including quantum-secure KEM algorithms.  This document defines conventions for the use of KEM algorithms by the originator and recipients to encrypt and decrypt CMS content.  This document updates RFC 5652. ",
+    "authors": [
+        {
+            "author": "Russ Housley",
+            "email": "housley@vigilsec.com",
+            "role": null
+        },
+        {
+            "author": "John Gray",
+            "email": "housley@vigilsec.com",
+            "role": null
+        },
+        {
+            "author": "\u5927\u4e45\u4fdd\u3000\u667a\u53f2",
+            "email": "housley@vigilsec.com",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "A set of requirements for active Operations, Administration, and Maintenance (OAM) for Service Function Chaining (SFC) in a network is presented in this document.  Based on these requirements, an encapsulation of active OAM messages in SFC and a mechanism to detect and localize defects are described. ",
+    "authors": [
+        {
+            "author": "Greg Mirsky",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Wei Meng",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Ting Ao",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Bhumip Khasnabish",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Kent Leung",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Gyan Mishra",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        }
+    ]
+}

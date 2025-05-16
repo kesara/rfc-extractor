@@ -1,0 +1,30 @@
+{
+    "abstract": "This document specifies an application proxy, called Transport Converter, to assist the deployment of TCP extensions such as Multipath TCP.  A Transport Converter may provide conversion service for one or more TCP extensions.  The conversion service is provided by means of the 0-RTT TCP Convert Protocol (Convert).  This protocol provides 0-RTT (Zero Round-Trip Time) conversion service since no extra delay is induced by the protocol compared to connections that are not proxied.  Also, the Convert Protocol does not require any encapsulation (no tunnels whatsoever).  This specification assumes an explicit model, where the Transport Converter is explicitly configured on hosts.  As a sample applicability use case, this document specifies how the Convert Protocol applies for Multipath TCP. ",
+    "authors": [
+        {
+            "author": "Olivier Bonaventure",
+            "email": "Olivier.Bonaventure@tessares.net",
+            "role": "editor"
+        },
+        {
+            "author": "Mohamed Boucadair",
+            "email": "Olivier.Bonaventure@tessares.net",
+            "role": "editor"
+        },
+        {
+            "author": "Sri Gundavelli",
+            "email": "Olivier.Bonaventure@tessares.net",
+            "role": null
+        },
+        {
+            "author": "SungHoon Seo",
+            "email": "Olivier.Bonaventure@tessares.net",
+            "role": null
+        },
+        {
+            "author": "Benjamin Hesmans",
+            "email": "Olivier.Bonaventure@tessares.net",
+            "role": null
+        }
+    ]
+}

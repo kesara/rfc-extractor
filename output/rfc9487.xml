@@ -1,0 +1,20 @@
+{
+    "abstract": "This document introduces new IP Flow Information Export (IPFIX) Information Elements (IEs) to identify a set of information related to Segment Routing over IPv6 (SRv6) such as data contained in a Segment Routing Header (SRH), the SRv6 control plane, and the SRv6 Endpoint behavior that traffic is being forwarded with. ",
+    "authors": [
+        {
+            "author": "Thomas Graf",
+            "email": "thomas.graf@swisscom.com",
+            "role": null
+        },
+        {
+            "author": "Benoit Claise",
+            "email": "thomas.graf@swisscom.com",
+            "role": null
+        },
+        {
+            "author": "Pierre Francois",
+            "email": "thomas.graf@swisscom.com",
+            "role": null
+        }
+    ]
+}

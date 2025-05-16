@@ -1,0 +1,25 @@
+{
+    "abstract": "The Stream Control Transmission Protocol (SCTP) uses a 32-bit checksum in the common header of each packet to provide some level of data integrity.  If another method used by SCTP already provides the same or a higher level of data integrity, computing this checksum does not provide any additional protection but does consume computing resources.  This document provides a simple extension allowing SCTP to save these computing resources by using zero as the checksum in a backwards- compatible way.  It also defines how this feature can be used when SCTP packets are encapsulated in Datagram Transport Layer Security (DTLS) packets. ",
+    "authors": [
+        {
+            "author": "Michael T\u00fcxen",
+            "email": "tuexen@fh-muenster.de",
+            "role": null
+        },
+        {
+            "author": "Victor Boivie",
+            "email": "tuexen@fh-muenster.de",
+            "role": null
+        },
+        {
+            "author": "Florent Castelli",
+            "email": "tuexen@fh-muenster.de",
+            "role": null
+        },
+        {
+            "author": "Randell Jesup",
+            "email": "tuexen@fh-muenster.de",
+            "role": null
+        }
+    ]
+}

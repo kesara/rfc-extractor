@@ -1,0 +1,10 @@
+{
+    "abstract": "This document describes the Namespace Identifier (NID) \"ddi\" for Uniform Resource Names (URNs) used to identify resources that conform to the standards published by the Data Documentation Initiative (DDI) Alliance.  The DDI Alliance is not affiliated with the Internet Engineering Task Force (IETF) or Internet Society (ISOC).  This Independent Submission is not a standard nor does it have IETF community consensus. ",
+    "authors": [
+        {
+            "author": "Joachim Wackerow",
+            "email": "joachim.wackerow@posteo.de",
+            "role": null
+        }
+    ]
+}

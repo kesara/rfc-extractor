@@ -1,0 +1,35 @@
+{
+    "abstract": "This document defines a method to inform a DHCPv6 server that a device has one or more self-generated or statically configured addresses. ",
+    "authors": [
+        {
+            "author": "Warren Kumari",
+            "email": "warren@kumari.net",
+            "role": null
+        },
+        {
+            "author": "Suresh Krishnan",
+            "email": "warren@kumari.net",
+            "role": null
+        },
+        {
+            "author": "Rajiv Asati",
+            "email": "warren@kumari.net",
+            "role": null
+        },
+        {
+            "author": "Lorenzo Colitti",
+            "email": "warren@kumari.net",
+            "role": null
+        },
+        {
+            "author": "Jen Linkova",
+            "email": "warren@kumari.net",
+            "role": null
+        },
+        {
+            "author": "Sheng Jiang",
+            "email": "warren@kumari.net",
+            "role": null
+        }
+    ]
+}

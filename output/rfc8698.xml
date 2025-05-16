@@ -1,0 +1,25 @@
+{
+    "abstract": "This document describes Network-Assisted Dynamic Adaptation (NADA), a novel congestion control scheme for interactive real-time media applications such as video conferencing.  In the proposed scheme, the sender regulates its sending rate, based on either implicit or explicit congestion signaling, in a unified approach.  The scheme can benefit from Explicit Congestion Notification (ECN) markings from network nodes.  It also maintains consistent sender behavior in the absence of such markings by reacting to queuing delays and packet losses instead. ",
+    "authors": [
+        {
+            "author": "Xiaoqing Zhu",
+            "email": "xiaoqzhu@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Rong Pan",
+            "email": "xiaoqzhu@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Michael A. Ramalho",
+            "email": "xiaoqzhu@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Sergio Mena",
+            "email": "xiaoqzhu@cisco.com",
+            "role": null
+        }
+    ]
+}

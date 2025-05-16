@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes the use of the Bidirectional Forwarding Detection (BFD) protocol in point-to-point Generic Network Virtualization Encapsulation (Geneve) unicast tunnels used to make up an overlay network. ",
+    "authors": [
+        {
+            "author": "Xiao Min",
+            "email": "xiao.min2@zte.com.cn",
+            "role": null
+        },
+        {
+            "author": "Greg Mirsky",
+            "email": "xiao.min2@zte.com.cn",
+            "role": null
+        },
+        {
+            "author": "Santosh Pallagatti",
+            "email": "xiao.min2@zte.com.cn",
+            "role": null
+        },
+        {
+            "author": "Jeff Tantsura",
+            "email": "xiao.min2@zte.com.cn",
+            "role": null
+        },
+        {
+            "author": "Sam Aldrin",
+            "email": "xiao.min2@zte.com.cn",
+            "role": null
+        }
+    ]
+}

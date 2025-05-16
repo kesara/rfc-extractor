@@ -1,0 +1,15 @@
+{
+    "abstract": "This document updates RFC 5480 to specify semantics for the keyEncipherment and dataEncipherment key usage bits when used in certificates that support Elliptic Curve Cryptography. ",
+    "authors": [
+        {
+            "author": "Tadahiko Ito",
+            "email": "tadahiko.ito.public@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Sean Turner",
+            "email": "tadahiko.ito.public@gmail.com",
+            "role": null
+        }
+    ]
+}

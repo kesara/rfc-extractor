@@ -1,0 +1,10 @@
+{
+    "abstract": "Concise Binary Object Representation (CBOR) is a data format designed for small code size and small message size.  CBOR Object Signing and Encryption (COSE) defines a set of security services for CBOR.  This document defines a countersignature algorithm along with the needed header parameters and CBOR tags for COSE.  This document updates RFC 9052. ",
+    "authors": [
+        {
+            "author": "Jim Schaad",
+            "email": null,
+            "role": null
+        }
+    ]
+}

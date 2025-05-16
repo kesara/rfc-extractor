@@ -1,0 +1,20 @@
+{
+    "abstract": "This document provides requirements for a video codec designed mainly for use over the Internet.  In addition, this document describes an evaluation methodology for measuring the compression efficiency to determine whether or not the stated requirements have been fulfilled. ",
+    "authors": [
+        {
+            "author": "Alexey Filippov",
+            "email": "alexey.filippov@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Andrey Norkin",
+            "email": "alexey.filippov@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Jose Roberto Alvarez",
+            "email": "alexey.filippov@huawei.com",
+            "role": null
+        }
+    ]
+}

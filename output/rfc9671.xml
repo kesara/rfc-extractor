@@ -1,0 +1,20 @@
+{
+    "abstract": "This document describes the \"processcalendar\" extension to the Sieve email filtering language.  The \"processcalendar\" extension gives Sieve the ability to process machine-readable calendar data that is encapsulated in an email message using Multipurpose Internet Mail Extensions (MIME). ",
+    "authors": [
+        {
+            "author": "Kenneth Murchison",
+            "email": "murch@fastmailteam.com",
+            "role": null
+        },
+        {
+            "author": "Ricardo Signes",
+            "email": "murch@fastmailteam.com",
+            "role": null
+        },
+        {
+            "author": "Matthew Horsfall",
+            "email": "murch@fastmailteam.com",
+            "role": null
+        }
+    ]
+}

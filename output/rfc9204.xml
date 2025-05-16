@@ -1,0 +1,20 @@
+{
+    "abstract": "This specification defines QPACK: a compression format for efficiently representing HTTP fields that is to be used in HTTP/3. This is a variation of HPACK compression that seeks to reduce head- of-line blocking. ",
+    "authors": [
+        {
+            "author": "Charles 'Buck' Krasic",
+            "email": "krasic@acm.org",
+            "role": null
+        },
+        {
+            "author": "Mike Bishop",
+            "email": "krasic@acm.org",
+            "role": null
+        },
+        {
+            "author": "Alan Frindell",
+            "email": "krasic@acm.org",
+            "role": "editor"
+        }
+    ]
+}

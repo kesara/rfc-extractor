@@ -1,0 +1,35 @@
+{
+    "abstract": "The DDoS Open Threat Signaling (DOTS) effort is intended to provide protocols to facilitate interoperability across disparate DDoS Mitigation solutions.  This document presents sample use cases that describe the interactions expected between the DOTS components as well as DOTS messaging exchanges.  These use cases are meant to identify the interacting DOTS components, how they collaborate, and what the typical information to be exchanged is. ",
+    "authors": [
+        {
+            "author": "Roland Dobbins",
+            "email": "roland.dobbins@netscout.com",
+            "role": null
+        },
+        {
+            "author": "Daniel Migault",
+            "email": "roland.dobbins@netscout.com",
+            "role": null
+        },
+        {
+            "author": "Robert Moskowitz",
+            "email": "roland.dobbins@netscout.com",
+            "role": null
+        },
+        {
+            "author": "Nik Teague",
+            "email": "roland.dobbins@netscout.com",
+            "role": null
+        },
+        {
+            "author": "Liang Xia",
+            "email": "roland.dobbins@netscout.com",
+            "role": null
+        },
+        {
+            "author": "Kaname Nishizuka",
+            "email": "roland.dobbins@netscout.com",
+            "role": null
+        }
+    ]
+}

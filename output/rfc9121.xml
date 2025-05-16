@@ -1,0 +1,15 @@
+{
+    "abstract": "This document deprecates the use of any \"int\" domain names that were designated for infrastructure purposes by the IETF, and it identifies them for removal from the \"int\" top-level domain.  Any implementations that involve these domains are now deprecated.  This document also changes the status of RFC 1528 and RFC 1706 to Historic. ",
+    "authors": [
+        {
+            "author": "Kim Davies",
+            "email": "kim.davies@iana.org",
+            "role": null
+        },
+        {
+            "author": "Amanda Baber",
+            "email": "kim.davies@iana.org",
+            "role": null
+        }
+    ]
+}

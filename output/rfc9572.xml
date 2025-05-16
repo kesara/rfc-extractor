@@ -1,0 +1,30 @@
+{
+    "abstract": "This document specifies updated procedures for handling Broadcast, Unknown Unicast, or Multicast (BUM) traffic in Ethernet VPNs (EVPNs), including selective multicast and segmentation of provider tunnels. This document updates RFC 7432. ",
+    "authors": [
+        {
+            "author": "Zhaohui Zhang",
+            "email": "zzhang@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Wen Lin",
+            "email": "zzhang@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Jorge Rabadan",
+            "email": "zzhang@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Keyur Patel",
+            "email": "zzhang@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Ali Sajassi",
+            "email": "zzhang@juniper.net",
+            "role": null
+        }
+    ]
+}

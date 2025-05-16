@@ -1,0 +1,20 @@
+{
+    "abstract": "Elliptic Curve Cryptography (ECC) Brainpool curves were an option for authentication and key exchange in the Transport Layer Security (TLS) protocol version 1.2 but were deprecated by the IETF for use with TLS version 1.3 because they had little usage.  However, these curves have not been shown to have significant cryptographical weaknesses, and there is some interest in using several of these curves in TLS 1.3.  This document provides the necessary protocol mechanisms for using ECC Brainpool curves in TLS 1.3.  This approach is not endorsed by the IETF. ",
+    "authors": [
+        {
+            "author": "Leonie Bruckert",
+            "email": "leonie.bruckert@secunet.com",
+            "role": null
+        },
+        {
+            "author": "Johannes Merkle",
+            "email": "leonie.bruckert@secunet.com",
+            "role": null
+        },
+        {
+            "author": "Manfred Lochter",
+            "email": "leonie.bruckert@secunet.com",
+            "role": null
+        }
+    ]
+}

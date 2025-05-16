@@ -1,0 +1,10 @@
+{
+    "abstract": "This document specifies a TLS 1.3 extension that allows a server to authenticate with a combination of a certificate and an external pre- shared key (PSK). ",
+    "authors": [
+        {
+            "author": "Russ Housley",
+            "email": "housley@vigilsec.com",
+            "role": null
+        }
+    ]
+}

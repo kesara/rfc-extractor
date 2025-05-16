@@ -1,0 +1,35 @@
+{
+    "abstract": "This document defines a specialized, dynamic routing protocol for Clos, fat tree, and variants thereof.  These topologies were initially used within crossbar interconnects and consequently router and switch backplanes, but their characteristics make them ideal for constructing IP fabrics as well.  The protocol specified by this document is optimized towards the minimization of control plane state to support very large substrates as well as the minimization of configuration and operational complexity to allow for a simplified deployment of said topologies. ",
+    "authors": [
+        {
+            "author": "Tony Przygienda",
+            "email": "prz@juniper.net",
+            "role": "editor"
+        },
+        {
+            "author": "Jordan Head",
+            "email": "prz@juniper.net",
+            "role": "editor"
+        },
+        {
+            "author": "Alankar Sharma",
+            "email": "prz@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Pascal Thubert",
+            "email": "prz@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Bruno Rijsman",
+            "email": "prz@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Dmitry Afanasiev",
+            "email": "prz@juniper.net",
+            "role": null
+        }
+    ]
+}

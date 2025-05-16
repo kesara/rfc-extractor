@@ -1,0 +1,15 @@
+{
+    "abstract": "This document provides principles for the operation of Internet Assigned Numbers Authority (IANA) registries. ",
+    "authors": [
+        {
+            "author": "Russ Housley",
+            "email": "housley@vigilsec.com",
+            "role": "editor"
+        },
+        {
+            "author": "Olaf Kolkman",
+            "email": "housley@vigilsec.com",
+            "role": "editor"
+        }
+    ]
+}

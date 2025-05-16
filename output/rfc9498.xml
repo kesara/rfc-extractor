@@ -1,0 +1,20 @@
+{
+    "abstract": "This document provides the GNU Name System (GNS) technical specification.  GNS is a decentralized and censorship-resistant domain name resolution protocol that provides a privacy-enhancing alternative to the Domain Name System (DNS) protocols.  This document defines the normative wire format of resource records, resolution processes, cryptographic routines, and security and privacy considerations for use by implementers.  This specification was developed outside the IETF and does not have IETF consensus.  It is published here to inform readers about the function of GNS, guide future GNS implementations, and ensure interoperability among implementations (for example, pre-existing GNUnet implementations). ",
+    "authors": [
+        {
+            "author": "Martin Schanzenbach",
+            "email": "martin.schanzenbach@aisec.fraunhofer.de",
+            "role": null
+        },
+        {
+            "author": "Christian Grothoff",
+            "email": "martin.schanzenbach@aisec.fraunhofer.de",
+            "role": null
+        },
+        {
+            "author": "Bernd Fix",
+            "email": "martin.schanzenbach@aisec.fraunhofer.de",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "This document defines a YANG data model for the configuration and management of Multicast Source Discovery Protocol (MSDP) protocol operations. ",
+    "authors": [
+        {
+            "author": "Xufeng Liu",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Zheng Zhang",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": "editor"
+        },
+        {
+            "author": "Anish Peter",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Mahesh Sivakumar",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Feng Guo",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Pete McAllister",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        }
+    ]
+}

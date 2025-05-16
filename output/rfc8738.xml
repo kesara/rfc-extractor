@@ -1,0 +1,10 @@
+{
+    "abstract": "This document specifies identifiers and challenges required to enable the Automated Certificate Management Environment (ACME) to issue certificates for IP addresses. ",
+    "authors": [
+        {
+            "author": "Roland Bracewell Shoemaker",
+            "email": "roland@letsencrypt.org",
+            "role": null
+        }
+    ]
+}

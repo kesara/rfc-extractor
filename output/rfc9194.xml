@@ -1,0 +1,10 @@
+{
+    "abstract": "This document defines a YANG module for managing the reverse metric extension to the Intermediate System to Intermediate System (IS-IS) intra-domain routing information exchange protocol. ",
+    "authors": [
+        {
+            "author": "Christian Hopps",
+            "email": "chopps@chopps.org",
+            "role": null
+        }
+    ]
+}

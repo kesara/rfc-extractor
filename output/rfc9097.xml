@@ -1,0 +1,20 @@
+{
+    "abstract": "This memo revisits the problem of Network Capacity Metrics first examined in RFC 5136.  This memo specifies a more practical Maximum IP-Layer Capacity Metric definition catering to measurement and outlines the corresponding Methods of Measurement. ",
+    "authors": [
+        {
+            "author": "Al Morton",
+            "email": "acm@research.att.com",
+            "role": null
+        },
+        {
+            "author": "R\u00fcdiger Geib",
+            "email": "acm@research.att.com",
+            "role": null
+        },
+        {
+            "author": "Len Ciavattone",
+            "email": "acm@research.att.com",
+            "role": null
+        }
+    ]
+}

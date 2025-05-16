@@ -1,0 +1,10 @@
+{
+    "abstract": "This document specifies identifiers and challenges required to enable the Automated Certificate Management Environment (ACME) to issue certificates for use by email users that want to use S/MIME. ",
+    "authors": [
+        {
+            "author": "Alexey Melnikov",
+            "email": "alexey.melnikov@isode.com",
+            "role": null
+        }
+    ]
+}

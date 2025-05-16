@@ -1,0 +1,25 @@
+{
+    "abstract": "The Network Service Header (NSH) specification defines two possible methods of including metadata (MD): MD Type 0x1 and MD Type 0x2.  MD Type 0x1 uses a fixed-length Context Header.  The allocation of this Context Header, i.e., its structure and semantics, has not been standardized.  This memo defines the Timestamp Context Header, which is an NSH fixed-length Context Header that incorporates the packet's timestamp, a sequence number, and a source interface identifier.  Although the definition of the Context Header presented in this document has not been standardized by the IETF, it has been implemented in silicon by several manufacturers and is published here to facilitate interoperability. ",
+    "authors": [
+        {
+            "author": "Tal Mizrahi",
+            "email": "tal.mizrahi.phd@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Ilan Yerushalmi",
+            "email": "tal.mizrahi.phd@gmail.com",
+            "role": null
+        },
+        {
+            "author": "David Melman",
+            "email": "tal.mizrahi.phd@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Rory Browne",
+            "email": "tal.mizrahi.phd@gmail.com",
+            "role": null
+        }
+    ]
+}

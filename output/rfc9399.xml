@@ -1,0 +1,25 @@
+{
+    "abstract": "This document specifies a certificate extension for including logotypes in public key certificates and attribute certificates. This document obsoletes RFCs 3709 and 6170. ",
+    "authors": [
+        {
+            "author": "Stefan Santesson",
+            "email": "sts@aaa-sec.com",
+            "role": null
+        },
+        {
+            "author": "Russ Housley",
+            "email": "sts@aaa-sec.com",
+            "role": null
+        },
+        {
+            "author": "Trevor Freeman",
+            "email": "sts@aaa-sec.com",
+            "role": null
+        },
+        {
+            "author": "Leonard Rosenthol",
+            "email": "sts@aaa-sec.com",
+            "role": null
+        }
+    ]
+}

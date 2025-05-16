@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes an experiment in which two new IPv6 Routing headers are implemented and deployed.  Collectively, they are called the Compact Routing Header (CRH).  Individually, they are called CRH-16 and CRH-32.  One purpose of this experiment is to demonstrate that the CRH can be implemented and deployed in a production network.  Another purpose is to demonstrate that the security considerations described in this document can be addressed with Access Control Lists (ACLs).  Finally, this document encourages replication of the experiment. ",
+    "authors": [
+        {
+            "author": "Ron Bonica",
+            "email": "rbonica@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Yuji Kamite",
+            "email": "rbonica@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Andrew Alston",
+            "email": "rbonica@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Daniam Henriques",
+            "email": "rbonica@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Luay Jalil",
+            "email": "rbonica@juniper.net",
+            "role": null
+        }
+    ]
+}

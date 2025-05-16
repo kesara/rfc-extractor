@@ -1,0 +1,15 @@
+{
+    "abstract": "This document describes HTTP extension header fields that allow a TLS terminating reverse proxy (TTRP) to convey the client certificate information of a mutually authenticated TLS connection to the origin server in a common and predictable manner. ",
+    "authors": [
+        {
+            "author": "Brian Campbell",
+            "email": "bcampbell@pingidentity.com",
+            "role": null
+        },
+        {
+            "author": "Mike Bishop",
+            "email": "bcampbell@pingidentity.com",
+            "role": "editor"
+        }
+    ]
+}

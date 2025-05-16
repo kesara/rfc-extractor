@@ -1,0 +1,30 @@
+{
+    "abstract": "This memo describes an RTP payload format for the Versatile Video Coding (VVC) specification, which was published as both ITU-T Recommendation H.266 and ISO/IEC International Standard 23090-3.  VVC was developed by the Joint Video Experts Team (JVET).  The RTP payload format allows for packetization of one or more Network Abstraction Layer (NAL) units in each RTP packet payload, as well as fragmentation of a NAL unit into multiple RTP packets.  The payload format has wide applicability in videoconferencing, Internet video streaming, and high-bitrate entertainment-quality video, among other applications. ",
+    "authors": [
+        {
+            "author": "Shuai Zhao",
+            "email": "shuai.zhao@ieee.org",
+            "role": null
+        },
+        {
+            "author": "Stephan Wenger",
+            "email": "shuai.zhao@ieee.org",
+            "role": null
+        },
+        {
+            "author": "Yago Sanchez",
+            "email": "shuai.zhao@ieee.org",
+            "role": null
+        },
+        {
+            "author": "Ye-Kui Wang",
+            "email": "shuai.zhao@ieee.org",
+            "role": null
+        },
+        {
+            "author": "Miska M. Hannuksela",
+            "email": "shuai.zhao@ieee.org",
+            "role": null
+        }
+    ]
+}

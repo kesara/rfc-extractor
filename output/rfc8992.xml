@@ -1,0 +1,25 @@
+{
+    "abstract": "This document defines two autonomic technical objectives for IPv6 prefix management at the edge of large-scale ISP networks, with an extension to support IPv4 prefixes.  An important purpose of this document is to use it for validation of the design of various components of the Autonomic Networking Infrastructure. ",
+    "authors": [
+        {
+            "author": "Sheng Jiang",
+            "email": "jiangsheng@huawei.com",
+            "role": "editor"
+        },
+        {
+            "author": "Zongpeng Du",
+            "email": "jiangsheng@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Brian Carpenter",
+            "email": "jiangsheng@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Qiong Sun",
+            "email": "jiangsheng@huawei.com",
+            "role": null
+        }
+    ]
+}

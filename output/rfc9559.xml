@@ -1,0 +1,20 @@
+{
+    "abstract": "This document defines the Matroska audiovisual data container structure, including definitions of its structural elements, terminology, vocabulary, and application.  This document updates RFC 8794 to permit the use of a previously reserved Extensible Binary Meta Language (EBML) Element ID. ",
+    "authors": [
+        {
+            "author": "Steve Lhomme",
+            "email": "slhomme@matroska.org",
+            "role": null
+        },
+        {
+            "author": "Moritz Bunkus",
+            "email": "slhomme@matroska.org",
+            "role": null
+        },
+        {
+            "author": "Dave Rice",
+            "email": "slhomme@matroska.org",
+            "role": null
+        }
+    ]
+}

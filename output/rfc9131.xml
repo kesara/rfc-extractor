@@ -1,0 +1,10 @@
+{
+    "abstract": "Neighbor Discovery (RFC 4861) is used by IPv6 nodes to determine the link-layer addresses of neighboring nodes as well as to discover and maintain reachability information.  This document updates RFC 4861 to allow routers to proactively create a Neighbor Cache entry when a new IPv6 address is assigned to a node.  It also updates RFC 4861 and recommends that nodes send unsolicited Neighbor Advertisements upon assigning a new IPv6 address.  These changes will minimize the delay and packet loss when a node initiates connections to an off-link destination from a new IPv6 address. ",
+    "authors": [
+        {
+            "author": "Jen Linkova",
+            "email": "furry@google.com",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "abstract": "This document is about Controlling Multiple Streams for Telepresence (CLUE) signaling.  It specifies how the CLUE protocol and the CLUE data channel are used in conjunction with each other and with existing signaling mechanisms, such as SIP and the Session Description Protocol (SDP), to produce a telepresence call. ",
+    "authors": [
+        {
+            "author": "Robert Hanton",
+            "email": "rohanse2@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Paul Kyzivat",
+            "email": "rohanse2@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Lennard Xiao",
+            "email": "rohanse2@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Christian Groves",
+            "email": "rohanse2@cisco.com",
+            "role": null
+        }
+    ]
+}

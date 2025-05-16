@@ -1,0 +1,25 @@
+{
+    "abstract": "This document describes the Simple Two-way Active Measurement Protocol (STAMP), which enables the measurement of both one-way and round-trip performance metrics, like delay, delay variation, and packet loss. ",
+    "authors": [
+        {
+            "author": "Greg Mirsky",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Guo Jun",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Henrik Nydell",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Richard Foote",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        }
+    ]
+}

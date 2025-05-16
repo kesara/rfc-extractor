@@ -1,0 +1,30 @@
+{
+    "abstract": "The key to the extensibility of the Intermediate System to Intermediate System (IS-IS) protocol has been the handling of unsupported and/or invalid Type-Length-Value (TLV) tuples.  Although there are explicit statements in existing specifications, deployment experience has shown that there are inconsistencies in the behavior when a TLV that is disallowed in a particular Protocol Data Unit (PDU) is received.  This document discusses such cases and makes the correct behavior explicit in order to ensure that interoperability is maximized.  This document updates RFCs 5305 and 6232. ",
+    "authors": [
+        {
+            "author": "Les Ginsberg",
+            "email": "ginsberg@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Paul Wells",
+            "email": "ginsberg@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Tony Li",
+            "email": "ginsberg@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Tony Przygienda",
+            "email": "ginsberg@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Shraddha Hegde",
+            "email": "ginsberg@cisco.com",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes the motivation for, and benefits of, applying Segment Routing (SR) in BGP-based large-scale data centers.  It describes the design to deploy SR in those data centers for both the MPLS and IPv6 data planes. ",
+    "authors": [
+        {
+            "author": "Clarence Filsfils",
+            "email": "cfilsfil@cisco.com",
+            "role": "editor"
+        },
+        {
+            "author": "Stefano Previdi",
+            "email": "cfilsfil@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Gaurav Dawra",
+            "email": "cfilsfil@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Ebben Aries",
+            "email": "cfilsfil@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Petr Lapukhov",
+            "email": "cfilsfil@cisco.com",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "abstract": "A Verifiable Random Function (VRF) is the public key version of a keyed cryptographic hash.  Only the holder of the secret key can compute the hash, but anyone with the public key can verify the correctness of the hash.  VRFs are useful for preventing enumeration of hash-based data structures.  This document specifies VRF constructions based on RSA and elliptic curves that are secure in the cryptographic random oracle model.  This document is a product of the Crypto Forum Research Group (CFRG) in the IRTF. ",
+    "authors": [
+        {
+            "author": "Sharon Goldberg",
+            "email": "goldbe@cs.bu.edu",
+            "role": null
+        },
+        {
+            "author": "Leonid Reyzin",
+            "email": "goldbe@cs.bu.edu",
+            "role": null
+        },
+        {
+            "author": "Dimitrios Papadopoulos",
+            "email": "goldbe@cs.bu.edu",
+            "role": null
+        },
+        {
+            "author": "Jan V\u010del\u00e1k",
+            "email": "goldbe@cs.bu.edu",
+            "role": null
+        }
+    ]
+}

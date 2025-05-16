@@ -1,0 +1,35 @@
+{
+    "abstract": "This document extends IGP Flexible Algorithm so that it can be used with regular IPv4 and IPv6 forwarding. ",
+    "authors": [
+        {
+            "author": "William Britto",
+            "email": "bwilliam@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Shraddha Hegde",
+            "email": "bwilliam@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Parag Kaneriya",
+            "email": "bwilliam@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Rejesh Shetty",
+            "email": "bwilliam@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Ron Bonica",
+            "email": "bwilliam@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Peter Psenak",
+            "email": "bwilliam@juniper.net",
+            "role": null
+        }
+    ]
+}

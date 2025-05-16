@@ -1,0 +1,20 @@
+{
+    "abstract": "This document describes the current research outcomes in Network Coding (NC) for Content-Centric Networking (CCNx) / Named Data Networking (NDN) and clarifies the technical considerations and potential challenges for applying NC in CCNx/NDN.  This document is the product of the Coding for Efficient Network Communications Research Group (NWCRG) and the Information-Centric Networking Research Group (ICNRG). ",
+    "authors": [
+        {
+            "author": "Kazuhisa Matsuzono",
+            "email": "matsuzono@nict.go.jp",
+            "role": null
+        },
+        {
+            "author": "Hitoshi Asaeda",
+            "email": "matsuzono@nict.go.jp",
+            "role": null
+        },
+        {
+            "author": "Cedric Westphal",
+            "email": "matsuzono@nict.go.jp",
+            "role": null
+        }
+    ]
+}

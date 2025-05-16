@@ -1,0 +1,30 @@
+{
+    "abstract": "This document introduces use cases where Time-Variant Routing (TVR) computations (i.e., routing computations that take into consideration time-based or scheduled changes to a network) could improve routing protocol convergence and/or network performance. ",
+    "authors": [
+        {
+            "author": "Edward J. Birrane, III",
+            "email": "edward.birrane@jhuapl.edu",
+            "role": null
+        },
+        {
+            "author": "Nicolas Kuhn",
+            "email": "edward.birrane@jhuapl.edu",
+            "role": null
+        },
+        {
+            "author": "Yingzhen Qu",
+            "email": "edward.birrane@jhuapl.edu",
+            "role": null
+        },
+        {
+            "author": "Rick Taylor",
+            "email": "edward.birrane@jhuapl.edu",
+            "role": null
+        },
+        {
+            "author": "Li Zhang",
+            "email": "edward.birrane@jhuapl.edu",
+            "role": null
+        }
+    ]
+}

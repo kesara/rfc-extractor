@@ -1,0 +1,10 @@
+{
+    "abstract": "This document specifies a data model for synchronising contact data with a server using the JSON Meta Application Protocol (JMAP). ",
+    "authors": [
+        {
+            "author": "Neil Jenkins",
+            "email": "neilj@fastmailteam.com",
+            "role": "editor"
+        }
+    ]
+}

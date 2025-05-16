@@ -1,0 +1,35 @@
+{
+    "abstract": "This document specifies extensions to the Ethernet VPN Integrated Routing and Bridging (EVPN-IRB) procedures specified in RFCs 7432 and 9135 to enhance the mobility mechanisms for networks based on EVPN- IRB.  The proposed extensions improve the handling of host mobility and duplicate address detection in EVPN-IRB networks to cover a broader set of scenarios where a host's unicast IP address to Media Access Control (MAC) address bindings may change across moves.  These enhancements address limitations in the existing EVPN-IRB mobility procedures by providing more efficient and scalable solutions.  The extensions are backward compatible with existing EVPN-IRB implementations and aim to optimize network performance in scenarios involving frequent IP address mobility. ",
+    "authors": [
+        {
+            "author": "Neeraj Malhotra",
+            "email": "nmalhotr@cisco.com",
+            "role": "editor"
+        },
+        {
+            "author": "Ali Sajassi",
+            "email": "nmalhotr@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Aparna Pattekar",
+            "email": "nmalhotr@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Jorge Rabadan",
+            "email": "nmalhotr@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Avinash Lingala",
+            "email": "nmalhotr@cisco.com",
+            "role": null
+        },
+        {
+            "author": "John Drake",
+            "email": "nmalhotr@cisco.com",
+            "role": null
+        }
+    ]
+}

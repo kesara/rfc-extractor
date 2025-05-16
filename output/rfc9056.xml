@@ -1,0 +1,30 @@
+{
+    "abstract": "This document specifies the Deterministic Networking data plane when encapsulating IP over an MPLS packet-switched network. ",
+    "authors": [
+        {
+            "author": "Bal\u00e1zs Varga",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": "editor"
+        },
+        {
+            "author": "Lou Berger",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Don Fedyk",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Stewart Bryant",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Jouni Korhonen",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        }
+    ]
+}

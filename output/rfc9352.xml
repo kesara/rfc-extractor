@@ -1,0 +1,30 @@
+{
+    "abstract": "The Segment Routing (SR) architecture allows a flexible definition of the end-to-end path by encoding it as a sequence of topological elements called \"segments\".  It can be implemented over the MPLS or the IPv6 data plane.  This document describes the IS-IS extensions required to support SR over the IPv6 data plane.  This document updates RFC 7370 by modifying an existing registry. ",
+    "authors": [
+        {
+            "author": "Peter Psenak",
+            "email": "ppsenak@cisco.com",
+            "role": "editor"
+        },
+        {
+            "author": "Clarence Filsfils",
+            "email": "ppsenak@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Ahmed Bashandy",
+            "email": "ppsenak@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Bruno Decraene",
+            "email": "ppsenak@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Zhibo Hu",
+            "email": "ppsenak@cisco.com",
+            "role": null
+        }
+    ]
+}

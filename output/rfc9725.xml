@@ -1,0 +1,15 @@
+{
+    "abstract": "This document describes a simple HTTP-based protocol that will allow WebRTC-based ingestion of content into streaming services and/or Content Delivery Networks (CDNs).  This document updates RFCs 8840 and 8842. ",
+    "authors": [
+        {
+            "author": "Sergio Garcia Murillo",
+            "email": "sergio.garcia.murillo@cosmosoftware.io",
+            "role": null
+        },
+        {
+            "author": "Alexandre Gouaillard",
+            "email": "sergio.garcia.murillo@cosmosoftware.io",
+            "role": null
+        }
+    ]
+}

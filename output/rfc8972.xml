@@ -1,0 +1,35 @@
+{
+    "abstract": "This document describes optional extensions to Simple Two-way Active Measurement Protocol (STAMP) that enable measurement of performance metrics.  The document also defines a STAMP Test Session Identifier and thus updates RFC 8762. ",
+    "authors": [
+        {
+            "author": "Greg Mirsky",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Xiao Min",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Henrik Nydell",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Richard Foote",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Adi Masputra",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Ernesto Ruffini",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        }
+    ]
+}

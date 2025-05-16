@@ -1,0 +1,20 @@
+{
+    "abstract": "This document describes a mechanism for creating, encoding, and verifying digital signatures or message authentication codes over components of an HTTP message.  This mechanism supports use cases where the full HTTP message may not be known to the signer and where the message may be transformed (e.g., by intermediaries) before reaching the verifier.  This document also describes a means for requesting that a signature be applied to a subsequent HTTP message in an ongoing HTTP exchange. ",
+    "authors": [
+        {
+            "author": "Annabelle Backman",
+            "email": "richanna@amazon.com",
+            "role": "editor"
+        },
+        {
+            "author": "Justin Richer",
+            "email": "richanna@amazon.com",
+            "role": "editor"
+        },
+        {
+            "author": "Manu Sporny",
+            "email": "richanna@amazon.com",
+            "role": null
+        }
+    ]
+}

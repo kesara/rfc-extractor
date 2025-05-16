@@ -1,0 +1,20 @@
+{
+    "abstract": "Given the expansion of the DNS namespace and the proliferation of novel business models, it is desirable to provide a method for Extensible Provisioning Protocol (EPP) clients to query EPP servers for the fees and credits associated with various billable transactions and provide expected fees and credits for certain commands and objects.  This document describes an EPP extension mapping for registry fees. ",
+    "authors": [
+        {
+            "author": "Roger Carney",
+            "email": "rcarney@godaddy.com",
+            "role": null
+        },
+        {
+            "author": "Gavin Brown",
+            "email": "rcarney@godaddy.com",
+            "role": null
+        },
+        {
+            "author": "Jothan Frakes",
+            "email": "rcarney@godaddy.com",
+            "role": null
+        }
+    ]
+}

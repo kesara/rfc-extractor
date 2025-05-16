@@ -1,0 +1,25 @@
+{
+    "abstract": "This memo describes common vulnerabilities related to Domain Name System (DNS) resource record (RR) processing as seen in several DNS client implementations.  These vulnerabilities may lead to successful Denial-of-Service and Remote Code Execution attacks against the affected software.  Where applicable, violations of RFC 1035 are mentioned. ",
+    "authors": [
+        {
+            "author": "Stanislav Dashevskyi",
+            "email": "stanislav.dashevskyi@forescout.com",
+            "role": null
+        },
+        {
+            "author": "Daniel dos Santos",
+            "email": "stanislav.dashevskyi@forescout.com",
+            "role": null
+        },
+        {
+            "author": "Jos Wetzels",
+            "email": "stanislav.dashevskyi@forescout.com",
+            "role": null
+        },
+        {
+            "author": "Amine Amri",
+            "email": "stanislav.dashevskyi@forescout.com",
+            "role": null
+        }
+    ]
+}

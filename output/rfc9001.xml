@@ -1,0 +1,15 @@
+{
+    "abstract": "This document describes how Transport Layer Security (TLS) is used to secure QUIC. ",
+    "authors": [
+        {
+            "author": "Martin Thomson",
+            "email": "mt@lowentropy.net",
+            "role": "editor"
+        },
+        {
+            "author": "Sean Turner",
+            "email": "mt@lowentropy.net",
+            "role": "editor"
+        }
+    ]
+}

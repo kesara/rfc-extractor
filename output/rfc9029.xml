@@ -1,0 +1,10 @@
+{
+    "abstract": "RFC 7752 defines the Border Gateway Protocol - Link State (BGP-LS). IANA created a registry consistent with that document called \"Border Gateway Protocol - Link State (BGP-LS) Parameters\" with a number of subregistries.  The allocation policy applied by IANA for those registries is \"Specification Required\", as defined in RFC 8126.  This document updates RFC 7752 by changing the allocation policy for all of the registries to \"Expert Review\" and by updating the guidance to the designated experts. ",
+    "authors": [
+        {
+            "author": "Adrian Farrel",
+            "email": "adrian@olddog.co.uk",
+            "role": null
+        }
+    ]
+}

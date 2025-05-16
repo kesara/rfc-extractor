@@ -1,0 +1,25 @@
+{
+    "abstract": "This document defines a YANG data model for configuring and managing routing policies in a vendor-neutral way.  The model provides a generic routing policy framework that can be extended for specific routing protocols using the YANG 'augment' mechanism. ",
+    "authors": [
+        {
+            "author": "Yingzhen Qu",
+            "email": "yingzhen.qu@futurewei.com",
+            "role": null
+        },
+        {
+            "author": "Jeff Tantsura",
+            "email": "yingzhen.qu@futurewei.com",
+            "role": null
+        },
+        {
+            "author": "Acee Lindem",
+            "email": "yingzhen.qu@futurewei.com",
+            "role": null
+        },
+        {
+            "author": "Xufeng Liu",
+            "email": "yingzhen.qu@futurewei.com",
+            "role": null
+        }
+    ]
+}

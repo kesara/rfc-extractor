@@ -1,0 +1,15 @@
+{
+    "abstract": "This document describes a set of data types and associated algorithms that are intended to make it easier and safer to define and handle HTTP header and trailer fields, known as \"Structured Fields\", \"Structured Headers\", or \"Structured Trailers\".  It is intended for use by specifications of new HTTP fields.  This document obsoletes RFC 8941. ",
+    "authors": [
+        {
+            "author": "Mark Nottingham",
+            "email": "mnot@mnot.net",
+            "role": null
+        },
+        {
+            "author": "Poul-Henning Kamp",
+            "email": "mnot@mnot.net",
+            "role": null
+        }
+    ]
+}

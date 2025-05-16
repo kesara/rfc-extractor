@@ -1,0 +1,25 @@
+{
+    "abstract": "This document specifies a profile for the Authentication and Authorization for Constrained Environments (ACE) framework.  It utilizes Object Security for Constrained RESTful Environments (OSCORE) to provide communication security and proof-of-possession for a key owned by the client and bound to an OAuth 2.0 access token. ",
+    "authors": [
+        {
+            "author": "Francesca Palombini",
+            "email": "francesca.palombini@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Ludwig Seitz",
+            "email": "francesca.palombini@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "G\u00f6ran Selander",
+            "email": "francesca.palombini@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Martin Gunnarsson",
+            "email": "francesca.palombini@ericsson.com",
+            "role": null
+        }
+    ]
+}

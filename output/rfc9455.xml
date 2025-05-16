@@ -1,0 +1,30 @@
+{
+    "abstract": "When using the Resource Public Key Infrastructure (RPKI), address space holders need to issue Route Origin Authorization (ROA) object(s) to authorize one or more Autonomous Systems (ASes) to originate BGP routes to IP address prefix(es).  This memo discusses operational problems that may arise from ROAs containing multiple IP prefixes and recommends that each ROA contain a single IP prefix. ",
+    "authors": [
+        {
+            "author": "Zhiwei Yan",
+            "email": "yanzhiwei@cnnic.cn",
+            "role": null
+        },
+        {
+            "author": "Randy Bush",
+            "email": "yanzhiwei@cnnic.cn",
+            "role": null
+        },
+        {
+            "author": "Guanggang Geng",
+            "email": "yanzhiwei@cnnic.cn",
+            "role": null
+        },
+        {
+            "author": "Ties de Kock",
+            "email": "yanzhiwei@cnnic.cn",
+            "role": null
+        },
+        {
+            "author": "Jiankang Yao",
+            "email": "yanzhiwei@cnnic.cn",
+            "role": null
+        }
+    ]
+}

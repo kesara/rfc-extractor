@@ -1,0 +1,30 @@
+{
+    "abstract": "This document specifies a number of algorithms for encoding or hashing an arbitrary string to a point on an elliptic curve.  This document is a product of the Crypto Forum Research Group (CFRG) in the IRTF. ",
+    "authors": [
+        {
+            "author": "Armando Faz-Hernandez",
+            "email": "armfazh@cloudflare.com",
+            "role": null
+        },
+        {
+            "author": "Sam Scott",
+            "email": "armfazh@cloudflare.com",
+            "role": null
+        },
+        {
+            "author": "Nick Sullivan",
+            "email": "armfazh@cloudflare.com",
+            "role": null
+        },
+        {
+            "author": "Riad S. Wahby",
+            "email": "armfazh@cloudflare.com",
+            "role": null
+        },
+        {
+            "author": "Christopher A. Wood",
+            "email": "armfazh@cloudflare.com",
+            "role": null
+        }
+    ]
+}

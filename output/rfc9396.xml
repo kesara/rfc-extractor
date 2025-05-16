@@ -1,0 +1,20 @@
+{
+    "abstract": "This document specifies a new parameter authorization_details that is used to carry fine-grained authorization data in OAuth messages. ",
+    "authors": [
+        {
+            "author": "Torsten Lodderstedt",
+            "email": "torsten@lodderstedt.net",
+            "role": null
+        },
+        {
+            "author": "Justin Richer",
+            "email": "torsten@lodderstedt.net",
+            "role": null
+        },
+        {
+            "author": "Brian Campbell",
+            "email": "torsten@lodderstedt.net",
+            "role": null
+        }
+    ]
+}

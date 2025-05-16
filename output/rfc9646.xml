@@ -1,0 +1,20 @@
+{
+    "abstract": "This document extends the input to the \"get-bootstrapping-data\" RPC defined in RFC 8572 to include an optional certificate signing request (CSR), enabling a bootstrapping device to additionally obtain an identity certificate (e.g., a Local Device Identifier (LDevID) from IEEE 802.1AR) as part of the \"onboarding information\" response provided in the RPC-reply. ",
+    "authors": [
+        {
+            "author": "Kent Watsen",
+            "email": "kent+ietf@watsen.net",
+            "role": null
+        },
+        {
+            "author": "Russ Housley",
+            "email": "kent+ietf@watsen.net",
+            "role": null
+        },
+        {
+            "author": "Sean Turner",
+            "email": "kent+ietf@watsen.net",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "abstract": "The Certification Authority Authorization (CAA) DNS Resource Record allows a DNS domain name holder to specify one or more Certification Authorities (CAs) authorized to issue certificates for that domain name.  CAA Resource Records allow a public CA to implement additional controls to reduce the risk of unintended certificate mis-issue. This document defines the syntax of the CAA record and rules for processing CAA records by CAs.  This document obsoletes RFC 6844. ",
+    "authors": [
+        {
+            "author": "Phillip Hallam-Baker",
+            "email": "phill@hallambaker.com",
+            "role": null
+        },
+        {
+            "author": "Rob Stradling",
+            "email": "phill@hallambaker.com",
+            "role": null
+        },
+        {
+            "author": "Jacob Hoffman-Andrews",
+            "email": "phill@hallambaker.com",
+            "role": null
+        }
+    ]
+}

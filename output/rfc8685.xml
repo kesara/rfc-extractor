@@ -1,0 +1,30 @@
+{
+    "abstract": "The Hierarchical Path Computation Element (H-PCE) architecture is defined in RFC 6805.  It provides a mechanism to derive an optimum end-to-end path in a multi-domain environment by using a hierarchical relationship between domains to select the optimum sequence of domains and optimum paths across those domains.  This document defines extensions to the Path Computation Element Communication Protocol (PCEP) to support H-PCE procedures. ",
+    "authors": [
+        {
+            "author": "Fatai Zhang",
+            "email": "zhangfatai@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Quintin Zhao",
+            "email": "zhangfatai@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Oscar Gonzalez de Dios",
+            "email": "zhangfatai@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Ramon Casellas",
+            "email": "zhangfatai@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Daniel King",
+            "email": "zhangfatai@huawei.com",
+            "role": null
+        }
+    ]
+}

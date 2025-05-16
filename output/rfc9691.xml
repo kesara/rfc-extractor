@@ -1,0 +1,30 @@
+{
+    "abstract": "A Trust Anchor Locator (TAL) is used by Relying Parties (RPs) in the Resource Public Key Infrastructure (RPKI) to locate and validate a Trust Anchor (TA) Certification Authority (CA) certificate used in RPKI validation.  This document defines an RPKI signed object for a Trust Anchor Key (TAK).  A TAK object can be used by a TA to signal to RPs the location(s) of the accompanying CA certificate for the current public key, as well as the successor public key and the location(s) of its CA certificate.  This object helps to support planned key rollovers without impacting RPKI validation. ",
+    "authors": [
+        {
+            "author": "Carlos Martinez",
+            "email": "carlos@lacnic.net",
+            "role": null
+        },
+        {
+            "author": "George G. Michaelson",
+            "email": "carlos@lacnic.net",
+            "role": null
+        },
+        {
+            "author": "Tom Harrison",
+            "email": "carlos@lacnic.net",
+            "role": null
+        },
+        {
+            "author": "Tim Bruijnzeels",
+            "email": "carlos@lacnic.net",
+            "role": null
+        },
+        {
+            "author": "Rob Austein",
+            "email": "carlos@lacnic.net",
+            "role": null
+        }
+    ]
+}

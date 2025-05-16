@@ -1,0 +1,15 @@
+{
+    "abstract": "To protect user data and privacy, Internet transport protocols have supported payload encryption and authentication for some time.  Such encryption and authentication are now also starting to be applied to the transport protocol headers.  This helps avoid transport protocol ossification by middleboxes, mitigate attacks against the transport protocol, and protect metadata about the communication.  Current operational practice in some networks inspect transport header information within the network, but this is no longer possible when those transport headers are encrypted.  This document discusses the possible impact when network traffic uses a protocol with an encrypted transport header.  It suggests issues to consider when designing new transport protocols or features. ",
+    "authors": [
+        {
+            "author": "Godred Fairhurst",
+            "email": "gorry@erg.abdn.ac.uk",
+            "role": null
+        },
+        {
+            "author": "Colin Perkins",
+            "email": "gorry@erg.abdn.ac.uk",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "This document describes IP fragmentation and explains how it introduces fragility to Internet communication.  This document also proposes alternatives to IP fragmentation and provides recommendations for developers and network operators. ",
+    "authors": [
+        {
+            "author": "Ron Bonica",
+            "email": "rbonica@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Fred Baker",
+            "email": "rbonica@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Geoff Huston",
+            "email": "rbonica@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Robert M. Hinden",
+            "email": "rbonica@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Ole Troan",
+            "email": "rbonica@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Fernando Gont",
+            "email": "rbonica@juniper.net",
+            "role": null
+        }
+    ]
+}

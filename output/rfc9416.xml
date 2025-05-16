@@ -1,0 +1,15 @@
+{
+    "abstract": "Poor selection of transient numerical identifiers in protocols such as the TCP/IP suite has historically led to a number of attacks on implementations, ranging from Denial of Service (DoS) or data injection to information leakages that can be exploited by pervasive monitoring.  Due diligence in the specification of transient numeric identifiers is required even when cryptographic techniques are employed, since these techniques might not mitigate all the associated issues.  This document formally updates RFC 3552, incorporating requirements for transient numeric identifiers, to prevent flaws in future protocols and implementations. ",
+    "authors": [
+        {
+            "author": "Fernando Gont",
+            "email": "fgont@si6networks.com",
+            "role": null
+        },
+        {
+            "author": "Ivan Arce",
+            "email": "fgont@si6networks.com",
+            "role": null
+        }
+    ]
+}

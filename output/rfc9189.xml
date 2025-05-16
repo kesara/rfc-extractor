@@ -1,0 +1,20 @@
+{
+    "abstract": "This document specifies three new cipher suites, two new signature algorithms, seven new supported groups, and two new certificate types for the Transport Layer Security (TLS) protocol version 1.2 to support the Russian cryptographic standard algorithms (called \"GOST\" algorithms).  This document specifies a profile of TLS 1.2 with GOST algorithms so that implementers can produce interoperable implementations.  This specification facilitates implementations that aim to support the GOST algorithms.  This document does not imply IETF endorsement of the cipher suites, signature algorithms, supported groups, and certificate types. ",
+    "authors": [
+        {
+            "author": "Stanislav Smyshlyaev",
+            "email": "svs@cryptopro.ru",
+            "role": "editor"
+        },
+        {
+            "author": "Dmitry Belyavskiy",
+            "email": "svs@cryptopro.ru",
+            "role": null
+        },
+        {
+            "author": "Evgeny Alekseev",
+            "email": "svs@cryptopro.ru",
+            "role": null
+        }
+    ]
+}

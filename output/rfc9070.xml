@@ -1,0 +1,35 @@
+{
+    "abstract": "This document describes a YANG data model for the Multiprotocol Label Switching (MPLS) Label Distribution Protocol (LDP).  The model also serves as the base model to define the Multipoint LDP (mLDP) model.  The YANG modules in this document conform to the Network Management Datastore Architecture (NMDA). ",
+    "authors": [
+        {
+            "author": "Kamran Raza",
+            "email": "skraza@cisco.com",
+            "role": "editor"
+        },
+        {
+            "author": "Rajiv Asati",
+            "email": "skraza@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Xufeng Liu",
+            "email": "skraza@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Santosh Easale",
+            "email": "skraza@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Xia Chen",
+            "email": "skraza@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Himanshu Shah",
+            "email": "skraza@cisco.com",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "abstract": "This document updates RFC 5280 to replace the algorithm for X.509 policy validation with an equivalent, more efficient algorithm.  The original algorithm built a structure that scaled exponentially in the worst case, leaving implementations vulnerable to denial-of-service attacks. ",
+    "authors": [
+        {
+            "author": "David Benjamin",
+            "email": "davidben@google.com",
+            "role": null
+        }
+    ]
+}

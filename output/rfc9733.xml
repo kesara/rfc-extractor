@@ -1,0 +1,20 @@
+{
+    "abstract": "This document defines enhancements to the Bootstrapping Remote Secure Key Infrastructure (BRSKI) protocol, known as BRSKI with Alternative Enrollment (BRSKI-AE).  BRSKI-AE extends BRSKI to support certificate enrollment mechanisms instead of the originally specified use of Enrollment over Secure Transport (EST).  It supports certificate enrollment protocols such as the Certificate Management Protocol (CMP) that use authenticated self-contained signed objects for certification messages, allowing for flexibility in network device onboarding scenarios.  The enhancements address use cases where the existing enrollment mechanism may not be feasible or optimal, providing a framework for integrating suitable alternative enrollment protocols.  This document also updates the BRSKI reference architecture to accommodate these alternative methods, ensuring secure and scalable deployment across a range of network environments. ",
+    "authors": [
+        {
+            "author": "David von Oheimb",
+            "email": "david.von.oheimb@siemens.com",
+            "role": "editor"
+        },
+        {
+            "author": "Steffen Fries",
+            "email": "david.von.oheimb@siemens.com",
+            "role": null
+        },
+        {
+            "author": "Hendrik Brockhaus",
+            "email": "david.von.oheimb@siemens.com",
+            "role": null
+        }
+    ]
+}

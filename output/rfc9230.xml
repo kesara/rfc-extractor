@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes a protocol that allows clients to hide their IP addresses from DNS resolvers via proxying encrypted DNS over HTTPS (DoH) messages.  This improves privacy of DNS operations by not allowing any one server entity to be aware of both the client IP address and the content of DNS queries and answers.  This experimental protocol has been developed outside the IETF and is published here to guide implementation, ensure interoperability among implementations, and enable wide-scale experimentation. ",
+    "authors": [
+        {
+            "author": "Eric Kinnear",
+            "email": "ekinnear@apple.com",
+            "role": null
+        },
+        {
+            "author": "Patrick McManus",
+            "email": "ekinnear@apple.com",
+            "role": null
+        },
+        {
+            "author": "Tommy Pauly",
+            "email": "ekinnear@apple.com",
+            "role": null
+        },
+        {
+            "author": "Tanya Verma",
+            "email": "ekinnear@apple.com",
+            "role": null
+        },
+        {
+            "author": "Christopher A. Wood",
+            "email": "ekinnear@apple.com",
+            "role": null
+        }
+    ]
+}

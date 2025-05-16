@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes the data plane protocol for the Locator/ID Separation Protocol (LISP).  LISP defines two namespaces: Endpoint Identifiers (EIDs), which identify end hosts; and Routing Locators (RLOCs), which identify network attachment points.  With this, LISP effectively separates control from data and allows routers to create overlay networks.  LISP-capable routers exchange encapsulated packets according to EID-to-RLOC mappings stored in a local Map-Cache.  LISP requires no change to either host protocol stacks or underlay routers and offers Traffic Engineering (TE), multihoming, and mobility, among other features.  This document obsoletes RFC 6830. ",
+    "authors": [
+        {
+            "author": "Dino Farinacci",
+            "email": "farinacci@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Vince Fuller",
+            "email": "farinacci@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Dave Meyer",
+            "email": "farinacci@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Darrel Lewis",
+            "email": "farinacci@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Albert Cabellos",
+            "email": "farinacci@gmail.com",
+            "role": "editor"
+        }
+    ]
+}

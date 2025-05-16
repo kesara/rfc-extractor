@@ -1,0 +1,20 @@
+{
+    "abstract": "RFCs 5425 and 6012 describe using TLS and DTLS to securely transport syslog messages.  This document updates the cipher suites required by RFC 5245 (TLS Transport Mapping for Syslog) and RFC 6012 (DTLS Transport Mapping for Syslog).  It also updates the protocol recommended by RFC 6012 for secure datagram transport. ",
+    "authors": [
+        {
+            "author": "Chris Lonvick",
+            "email": "lonvick.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Sean Turner",
+            "email": "lonvick.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Joe Salowey",
+            "email": "lonvick.ietf@gmail.com",
+            "role": null
+        }
+    ]
+}

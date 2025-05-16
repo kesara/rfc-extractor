@@ -1,0 +1,15 @@
+{
+    "abstract": "This document specifies I-Regexp, a flavor of regular expression that is limited in scope with the goal of interoperation across many different regular expression libraries. ",
+    "authors": [
+        {
+            "author": "Carsten Bormann",
+            "email": "cabo@tzi.org",
+            "role": null
+        },
+        {
+            "author": "Tim Bray",
+            "email": "cabo@tzi.org",
+            "role": null
+        }
+    ]
+}

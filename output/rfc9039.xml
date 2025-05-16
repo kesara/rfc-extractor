@@ -1,0 +1,20 @@
+{
+    "abstract": "This document describes a new Uniform Resource Name (URN) namespace for hardware device identifiers.  A general representation of device identity can be useful in many applications, such as in sensor data streams and storage or in equipment inventories.  A URN-based representation can be passed along in applications that need the information. ",
+    "authors": [
+        {
+            "author": "Jari Arkko",
+            "email": "jari.arkko@piuha.net",
+            "role": null
+        },
+        {
+            "author": "Cullen Jennings",
+            "email": "jari.arkko@piuha.net",
+            "role": null
+        },
+        {
+            "author": "Zach Shelby",
+            "email": "jari.arkko@piuha.net",
+            "role": null
+        }
+    ]
+}

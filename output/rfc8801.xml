@@ -1,0 +1,30 @@
+{
+    "abstract": "Provisioning Domains (PvDs) are defined as consistent sets of network configuration information.  PvDs allows hosts to manage connections to multiple networks and interfaces simultaneously, such as when a home router provides connectivity through both a broadband and cellular network provider.  This document defines a mechanism for explicitly identifying PvDs through a Router Advertisement (RA) option.  This RA option announces a PvD identifier, which hosts can compare to differentiate between PvDs.  The option can directly carry some information about a PvD and can optionally point to PvD Additional Information that can be retrieved using HTTP over TLS. ",
+    "authors": [
+        {
+            "author": "Pierre Pfister",
+            "email": "ppfister@cisco.com",
+            "role": null
+        },
+        {
+            "author": "\u00c9ric Vyncke",
+            "email": "ppfister@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Tommy Pauly",
+            "email": "ppfister@cisco.com",
+            "role": null
+        },
+        {
+            "author": "David Schinazi",
+            "email": "ppfister@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Wenqin Shao",
+            "email": "ppfister@cisco.com",
+            "role": null
+        }
+    ]
+}

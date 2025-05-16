@@ -1,0 +1,30 @@
+{
+    "abstract": "This memo describes the RTCP Payload-Specific Feedback Message Layer Refresh Request (LRR), which can be used to request a state refresh of one or more substreams of a layered media stream.  This document also defines its use with several RTP payloads for scalable media formats. ",
+    "authors": [
+        {
+            "author": "Jonathan Lennox",
+            "email": "jonathan.lennox@8x8.com",
+            "role": null
+        },
+        {
+            "author": "Danny Hong",
+            "email": "jonathan.lennox@8x8.com",
+            "role": null
+        },
+        {
+            "author": "Justin Uberti",
+            "email": "jonathan.lennox@8x8.com",
+            "role": null
+        },
+        {
+            "author": "Stefan Holmer",
+            "email": "jonathan.lennox@8x8.com",
+            "role": null
+        },
+        {
+            "author": "Magnus Flodman",
+            "email": "jonathan.lennox@8x8.com",
+            "role": null
+        }
+    ]
+}

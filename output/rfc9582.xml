@@ -1,0 +1,30 @@
+{
+    "abstract": "This document defines a standard profile for Route Origin Authorizations (ROAs).  A ROA is a digitally signed object that provides a means of verifying that an IP address block holder has authorized an Autonomous System (AS) to originate routes to one or more prefixes within the address block.  This document obsoletes RFC 6482. ",
+    "authors": [
+        {
+            "author": "Job Snijders",
+            "email": "job@fastly.com",
+            "role": null
+        },
+        {
+            "author": "Ben Maddison",
+            "email": "job@fastly.com",
+            "role": null
+        },
+        {
+            "author": "Matthew Lepinski",
+            "email": "job@fastly.com",
+            "role": null
+        },
+        {
+            "author": "Derrick Kong",
+            "email": "job@fastly.com",
+            "role": null
+        },
+        {
+            "author": "Stephen Kent",
+            "email": "job@fastly.com",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "abstract": "This document defines a YANG data model to describe microwave and millimeter-wave radio links in a network topology. ",
+    "authors": [
+        {
+            "author": "Scott Mansfield",
+            "email": "scott.mansfield@ericsson.com",
+            "role": "editor"
+        },
+        {
+            "author": "Jonas Ahlberg",
+            "email": "scott.mansfield@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Min Ye",
+            "email": "scott.mansfield@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Xi Li",
+            "email": "scott.mansfield@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Daniela Spreafico",
+            "email": "scott.mansfield@ericsson.com",
+            "role": null
+        }
+    ]
+}

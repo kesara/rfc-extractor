@@ -1,0 +1,35 @@
+{
+    "abstract": "This document defines a YANG data model that can be used to configure and manage devices supporting Protocol Independent Multicast (PIM). The model covers the PIM protocol configuration, operational state, and event notifications data. ",
+    "authors": [
+        {
+            "author": "Xufeng Liu",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Pete McAllister",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Anish Peter",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Mahesh Sivakumar",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Yisong Liu",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Fangwei Hu",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        }
+    ]
+}

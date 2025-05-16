@@ -1,0 +1,30 @@
+{
+    "abstract": "In situ Operations, Administration, and Maintenance (IOAM) collects operational and telemetry information in packets while they traverse a path between two points in the network.  This document defines two new flags in the IOAM Trace Option headers, specifically the Loopback and Active flags. ",
+    "authors": [
+        {
+            "author": "Tal Mizrahi",
+            "email": "tal.mizrahi.phd@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Frank Brockners",
+            "email": "tal.mizrahi.phd@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Shwetha Bhandari",
+            "email": "tal.mizrahi.phd@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Barak Gafni",
+            "email": "tal.mizrahi.phd@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Mickey Spiegel",
+            "email": "tal.mizrahi.phd@gmail.com",
+            "role": null
+        }
+    ]
+}

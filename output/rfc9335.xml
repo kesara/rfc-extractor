@@ -1,0 +1,20 @@
+{
+    "abstract": "While the Secure Real-time Transport Protocol (SRTP) provides confidentiality for the contents of a media packet, a significant amount of metadata is left unprotected, including RTP header extensions and contributing sources (CSRCs).  However, this data can be moderately sensitive in many applications.  While there have been previous attempts to protect this data, they have had limited deployment, due to complexity as well as technical limitations.  This document updates RFC 3711, the SRTP specification, and defines Cryptex as a new mechanism that completely encrypts header extensions and CSRCs and uses simpler Session Description Protocol (SDP) signaling with the goal of facilitating deployment. ",
+    "authors": [
+        {
+            "author": "Justin Uberti",
+            "email": "justin@uberti.name",
+            "role": null
+        },
+        {
+            "author": "Cullen Jennings",
+            "email": "justin@uberti.name",
+            "role": null
+        },
+        {
+            "author": "Sergio Garcia Murillo",
+            "email": "justin@uberti.name",
+            "role": null
+        }
+    ]
+}

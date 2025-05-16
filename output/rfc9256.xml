@@ -1,0 +1,30 @@
+{
+    "abstract": "Segment Routing (SR) allows a node to steer a packet flow along any path.  Intermediate per-path states are eliminated thanks to source routing.  SR Policy is an ordered list of segments (i.e., instructions) that represent a source-routed policy.  Packet flows are steered into an SR Policy on a node where it is instantiated called a headend node.  The packets steered into an SR Policy carry an ordered list of segments associated with that SR Policy.  This document updates RFC 8402 as it details the concepts of SR Policy and steering into an SR Policy. ",
+    "authors": [
+        {
+            "author": "Clarence Filsfils",
+            "email": "cfilsfil@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Ketan Talaulikar",
+            "email": "cfilsfil@cisco.com",
+            "role": "editor"
+        },
+        {
+            "author": "Daniel Voyer",
+            "email": "cfilsfil@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Alex Bogdanov",
+            "email": "cfilsfil@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Paul Mattes",
+            "email": "cfilsfil@cisco.com",
+            "role": null
+        }
+    ]
+}

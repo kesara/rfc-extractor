@@ -1,0 +1,25 @@
+{
+    "abstract": "RFC 7668 describes the adaptation of IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) techniques to enable IPv6 over Bluetooth Low Energy (Bluetooth LE) networks that follow the star topology.  However, recent Bluetooth specifications allow the formation of extended topologies as well.  This document specifies mechanisms that are needed to enable IPv6 mesh over Bluetooth LE links established by using the Bluetooth Internet Protocol Support Profile (IPSP).  This document does not specify the routing protocol to be used in an IPv6 mesh over Bluetooth LE links. ",
+    "authors": [
+        {
+            "author": "Carles Gomez",
+            "email": "carlesgo@entel.upc.edu",
+            "role": null
+        },
+        {
+            "author": "Seyed Mahdi Darroudi",
+            "email": "carlesgo@entel.upc.edu",
+            "role": null
+        },
+        {
+            "author": "Teemu Savolainen",
+            "email": "carlesgo@entel.upc.edu",
+            "role": null
+        },
+        {
+            "author": "Michael Spoerk",
+            "email": "carlesgo@entel.upc.edu",
+            "role": null
+        }
+    ]
+}

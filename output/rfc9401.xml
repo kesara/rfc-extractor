@@ -1,0 +1,10 @@
+{
+    "abstract": "This memo specifies the incorporation of Death (DTH) flag to TCP, including DTH's use of one bit in the TCP header.  The flag is designed to make TCP session narratives smooth and attractive. ",
+    "authors": [
+        {
+            "author": "Satoshi Toyosawa",
+            "email": "s2.toyosawa@gmail.com",
+            "role": null
+        }
+    ]
+}

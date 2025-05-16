@@ -1,0 +1,15 @@
+{
+    "abstract": "This document specifies a profile for the Authentication and Authorization for Constrained Environments (ACE) framework to enable authorization in a publish-subscribe messaging system based on Message Queuing Telemetry Transport (MQTT).  Proof-of-Possession keys, bound to OAuth 2.0 access tokens, are used to authenticate and authorize MQTT Clients.  The protocol relies on TLS for confidentiality and MQTT server (Broker) authentication. ",
+    "authors": [
+        {
+            "author": "Cigdem Sengul",
+            "email": "csengul@acm.org",
+            "role": null
+        },
+        {
+            "author": "Anthony Kirby",
+            "email": "csengul@acm.org",
+            "role": null
+        }
+    ]
+}

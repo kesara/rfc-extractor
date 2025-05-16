@@ -1,0 +1,25 @@
+{
+    "abstract": "This document defines a common YANG module that is meant to be reused by various VPN-related modules such as Layer 3 VPN and Layer 2 VPN network models. ",
+    "authors": [
+        {
+            "author": "Samier Barguil",
+            "email": "samier.barguilgiraldo.ext@telefonica.com",
+            "role": null
+        },
+        {
+            "author": "Oscar Gonzalez de Dios",
+            "email": "samier.barguilgiraldo.ext@telefonica.com",
+            "role": "editor"
+        },
+        {
+            "author": "Mohamed Boucadair",
+            "email": "samier.barguilgiraldo.ext@telefonica.com",
+            "role": "editor"
+        },
+        {
+            "author": "Qin Wu",
+            "email": "samier.barguilgiraldo.ext@telefonica.com",
+            "role": null
+        }
+    ]
+}

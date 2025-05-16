@@ -1,0 +1,15 @@
+{
+    "abstract": "This document reserves a Top-Level Domain (TLD) label \"alt\" to be used in non-DNS contexts.  It also provides advice and guidance to developers creating alternative namespaces. ",
+    "authors": [
+        {
+            "author": "Warren Kumari",
+            "email": "warren@kumari.net",
+            "role": null
+        },
+        {
+            "author": "Paul Hoffman",
+            "email": "warren@kumari.net",
+            "role": null
+        }
+    ]
+}

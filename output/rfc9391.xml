@@ -1,0 +1,15 @@
+{
+    "abstract": "This document describes Static Context Header Compression and fragmentation (SCHC) specifications, RFCs 8724 and 8824, in combination with the 3rd Generation Partnership Project (3GPP) and the Narrowband Internet of Things (NB-IoT).  This document has two parts: one normative part that specifies the use of SCHC over NB-IoT and one informational part that recommends some values if 3GPP wants to use SCHC inside their architectures. ",
+    "authors": [
+        {
+            "author": "Edgar Ramos",
+            "email": "edgar.ramos@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Ana Minaburo",
+            "email": "edgar.ramos@ericsson.com",
+            "role": null
+        }
+    ]
+}

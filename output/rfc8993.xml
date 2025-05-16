@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes a reference model for Autonomic Networking for managed networks.  It defines the behavior of an autonomic node, how the various elements in an autonomic context work together, and how autonomic services can use the infrastructure. ",
+    "authors": [
+        {
+            "author": "Michael H. Behringer",
+            "email": "Michael.H.Behringer@gmail.com",
+            "role": "editor"
+        },
+        {
+            "author": "Brian Carpenter",
+            "email": "Michael.H.Behringer@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Toerless Eckert",
+            "email": "Michael.H.Behringer@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Laurent Ciavaglia",
+            "email": "Michael.H.Behringer@gmail.com",
+            "role": null
+        },
+        {
+            "author": "J\u00e9ferson Campos Nobre",
+            "email": "Michael.H.Behringer@gmail.com",
+            "role": null
+        }
+    ]
+}

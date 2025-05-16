@@ -1,0 +1,20 @@
+{
+    "abstract": "This document describes how the concept of URI Signing supports the content access control requirements of Content Delivery Network Interconnection (CDNI) and proposes a URI Signing method as a JSON Web Token (JWT) profile.  The proposed URI Signing method specifies the information needed to be included in the URI to transmit the signed JWT, as well as the claims needed by the signed JWT to authorize a User Agent (UA).  The mechanism described can be used both in CDNI and single Content Delivery Network (CDN) scenarios. ",
+    "authors": [
+        {
+            "author": "Ray van Brandenburg",
+            "email": "ray@tiledmedia.com",
+            "role": null
+        },
+        {
+            "author": "Kent Leung",
+            "email": "ray@tiledmedia.com",
+            "role": null
+        },
+        {
+            "author": "Phil Sorber",
+            "email": "ray@tiledmedia.com",
+            "role": null
+        }
+    ]
+}

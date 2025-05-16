@@ -1,0 +1,15 @@
+{
+    "abstract": "This document describes how Private Enterprise Numbers (PENs) are registered by IANA.  It shows how to request a new PEN and how to modify a current PEN.  It also gives a brief overview of PEN uses. ",
+    "authors": [
+        {
+            "author": "Amanda Baber",
+            "email": "amanda.baber@iana.org",
+            "role": null
+        },
+        {
+            "author": "Paul Hoffman",
+            "email": "amanda.baber@iana.org",
+            "role": null
+        }
+    ]
+}

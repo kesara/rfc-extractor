@@ -1,0 +1,25 @@
+{
+    "abstract": "This document presents operational, policy, and security considerations for DNS recursive resolver operators who choose to offer DNS privacy services.  With these recommendations, the operator can make deliberate decisions regarding which services to provide, as well as understanding how those decisions and the alternatives impact the privacy of users.  This document also presents a non-normative framework to assist writers of a Recursive operator Privacy Statement, analogous to DNS Security Extensions (DNSSEC) Policies and DNSSEC Practice Statements described in RFC 6841. ",
+    "authors": [
+        {
+            "author": "Sara Dickinson",
+            "email": "sara@sinodun.com",
+            "role": null
+        },
+        {
+            "author": "Benno J. Overeinder",
+            "email": "sara@sinodun.com",
+            "role": null
+        },
+        {
+            "author": "Roland M. van Rijswijk-Deij",
+            "email": "sara@sinodun.com",
+            "role": null
+        },
+        {
+            "author": "Allison Mankin",
+            "email": "sara@sinodun.com",
+            "role": null
+        }
+    ]
+}

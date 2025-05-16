@@ -1,0 +1,10 @@
+{
+    "abstract": "This document specifies an Internet Message Access Protocol (IMAP) protocol extension that allows a client to request a server-generated abbreviated text representation of message data that is useful as a contextual preview of the entire message. ",
+    "authors": [
+        {
+            "author": "Michael M. Slusarz",
+            "email": "michael.slusarz@open-xchange.com",
+            "role": null
+        }
+    ]
+}

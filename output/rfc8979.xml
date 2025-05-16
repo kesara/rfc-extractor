@@ -1,0 +1,20 @@
+{
+    "abstract": "This document defines the Subscriber and Performance Policy Identifier Context Headers.  These Variable-Length Context Headers can be carried in the Network Service Header (NSH) and are used to inform Service Functions (SFs) of subscriber- and performance-related information for the sake of policy enforcement and appropriate Service Function Chaining (SFC) operations.  The structure of each Context Header and their use and processing by NSH-aware nodes are described. ",
+    "authors": [
+        {
+            "author": "Behcet Sarikaya",
+            "email": "sarikaya@ieee.org",
+            "role": null
+        },
+        {
+            "author": "Dirk von Hugo",
+            "email": "sarikaya@ieee.org",
+            "role": null
+        },
+        {
+            "author": "Mohamed Boucadair",
+            "email": "sarikaya@ieee.org",
+            "role": null
+        }
+    ]
+}

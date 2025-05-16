@@ -1,0 +1,20 @@
+{
+    "abstract": "This memo provides guidance to TCP implementers that is intended to help improve connection convergence to steady-state operation without affecting interoperability.  It updates and replaces RFC 2140's description of sharing TCP state, as typically represented in TCP Control Blocks, among similar concurrent or consecutive connections. ",
+    "authors": [
+        {
+            "author": "Joe Touch",
+            "email": "touch@strayalpha.com",
+            "role": null
+        },
+        {
+            "author": "Michael Welzl",
+            "email": "touch@strayalpha.com",
+            "role": null
+        },
+        {
+            "author": "Safiqul Islam",
+            "email": "touch@strayalpha.com",
+            "role": null
+        }
+    ]
+}

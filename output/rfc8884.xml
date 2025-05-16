@@ -1,0 +1,30 @@
+{
+    "abstract": "Information-Centric Networking (ICN) is a new paradigm where the network provides users with named content instead of communication channels between hosts.  This document outlines some research directions for ICN with respect to applying ICN approaches for coping with natural or human-generated, large-scale disasters.  This document is a product of the Information-Centric Networking Research Group (ICNRG). ",
+    "authors": [
+        {
+            "author": "Jan Seedorf",
+            "email": "jan.seedorf@hft-stuttgart.de",
+            "role": null
+        },
+        {
+            "author": "Mayutan Arumaithurai",
+            "email": "jan.seedorf@hft-stuttgart.de",
+            "role": null
+        },
+        {
+            "author": "Atsushi Tagami",
+            "email": "jan.seedorf@hft-stuttgart.de",
+            "role": null
+        },
+        {
+            "author": "K. K. Ramakrishnan",
+            "email": "jan.seedorf@hft-stuttgart.de",
+            "role": null
+        },
+        {
+            "author": "Nicola Blefari Melazzi",
+            "email": "jan.seedorf@hft-stuttgart.de",
+            "role": null
+        }
+    ]
+}

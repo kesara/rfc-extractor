@@ -1,0 +1,25 @@
+{
+    "abstract": "This document specifies how Automated Certificate Management Environment (ACME) can be used by a client to obtain a certificate for a subdomain identifier from a certification authority. Additionally, this document specifies how a client can fulfill a challenge against an ancestor domain but may not need to fulfill a challenge against the explicit subdomain if certification authority policy allows issuance of the subdomain certificate without explicit subdomain ownership proof. ",
+    "authors": [
+        {
+            "author": "Owen Friel",
+            "email": "ofriel@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Richard Barnes",
+            "email": "ofriel@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Tim Hollebeek",
+            "email": "ofriel@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Michael Richardson",
+            "email": "ofriel@cisco.com",
+            "role": null
+        }
+    ]
+}

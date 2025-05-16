@@ -1,0 +1,15 @@
+{
+    "abstract": "The Babel information model provides structured data elements for a Babel implementation reporting its current state and may allow limited configuration of some such data elements.  This information model can be used as a basis for creating data models under various data modeling regimes.  This information model only includes parameters and parameter values useful for managing Babel over IPv6. ",
+    "authors": [
+        {
+            "author": "Barbara Stark",
+            "email": "barbara.stark@att.com",
+            "role": null
+        },
+        {
+            "author": "Mahesh Jethanandani",
+            "email": "barbara.stark@att.com",
+            "role": null
+        }
+    ]
+}

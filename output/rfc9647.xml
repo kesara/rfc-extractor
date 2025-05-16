@@ -1,0 +1,15 @@
+{
+    "abstract": "This document defines a data model for the Babel routing protocol. The data model is defined using the YANG data modeling language. ",
+    "authors": [
+        {
+            "author": "Mahesh Jethanandani",
+            "email": "mjethanandani@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Barbara Stark",
+            "email": "mjethanandani@gmail.com",
+            "role": null
+        }
+    ]
+}

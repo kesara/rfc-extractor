@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes the Segment Routing Replication segment for multipoint service delivery.  A Replication segment allows a packet to be replicated from a replication node to downstream nodes. ",
+    "authors": [
+        {
+            "author": "Daniel Voyer",
+            "email": "daniel.voyer@bell.ca",
+            "role": "editor"
+        },
+        {
+            "author": "Clarence Filsfils",
+            "email": "daniel.voyer@bell.ca",
+            "role": null
+        },
+        {
+            "author": "Rishabh Parekh",
+            "email": "daniel.voyer@bell.ca",
+            "role": null
+        },
+        {
+            "author": "Hooman Bidgoli",
+            "email": "daniel.voyer@bell.ca",
+            "role": null
+        },
+        {
+            "author": "Zhaohui Zhang",
+            "email": "daniel.voyer@bell.ca",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "abstract": "This document assigns a value for Edwards-Curve Digital Signature Algorithm (EdDSA) Public Keys to the \"IPSECKEY Resource Record Parameters\" registry. ",
+    "authors": [
+        {
+            "author": "Robert Moskowitz",
+            "email": "rgm@labs.htt-consult.com",
+            "role": null
+        },
+        {
+            "author": "Tero Kivinen",
+            "email": "rgm@labs.htt-consult.com",
+            "role": null
+        },
+        {
+            "author": "Michael C. Richardson",
+            "email": "rgm@labs.htt-consult.com",
+            "role": null
+        }
+    ]
+}

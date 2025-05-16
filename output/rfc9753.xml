@@ -1,0 +1,20 @@
+{
+    "abstract": "This document introduces a mechanism to mark some of the Path Computation Element Communication Protocol (PCEP) objects as optional during PCEP message exchange, so the stateful Path Computation Element (PCE) model can relax some constraints during path computation and setup.  This document introduces this relaxation to stateful PCE, and it updates RFC 8231. ",
+    "authors": [
+        {
+            "author": "Cheng Li",
+            "email": "c.l@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Haomian Zheng",
+            "email": "c.l@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Stephane Litkowski",
+            "email": "c.l@huawei.com",
+            "role": null
+        }
+    ]
+}

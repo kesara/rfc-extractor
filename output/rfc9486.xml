@@ -1,0 +1,15 @@
+{
+    "abstract": "In situ Operations, Administration, and Maintenance (IOAM) records operational and telemetry information in the packet while the packet traverses a path between two points in the network.  This document outlines how IOAM Data-Fields are encapsulated in IPv6. ",
+    "authors": [
+        {
+            "author": "Shwetha Bhandari",
+            "email": "shwetha.bhandari@thoughtspot.com",
+            "role": "editor"
+        },
+        {
+            "author": "Frank Brockners",
+            "email": "shwetha.bhandari@thoughtspot.com",
+            "role": "editor"
+        }
+    ]
+}

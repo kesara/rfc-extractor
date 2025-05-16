@@ -1,0 +1,15 @@
+{
+    "abstract": "This specification defines two Concise Binary Object Representation (CBOR) tags for use with IPv6 and IPv4 addresses and prefixes. ",
+    "authors": [
+        {
+            "author": "Michael Richardson",
+            "email": "mcr+ietf@sandelman.ca",
+            "role": null
+        },
+        {
+            "author": "Carsten Bormann",
+            "email": "mcr+ietf@sandelman.ca",
+            "role": null
+        }
+    ]
+}

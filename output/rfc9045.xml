@@ -1,0 +1,10 @@
+{
+    "abstract": "This document updates the cryptographic algorithm requirements for the Password-Based Message Authentication Code in the Internet X.509 Public Key Infrastructure Certificate Request Message Format (CRMF) specified in RFC 4211. ",
+    "authors": [
+        {
+            "author": "Russ Housley",
+            "email": "housley@vigilsec.com",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "abstract": "This document describes how the DetNet IP data plane can support the Packet Replication, Elimination, and Ordering Functions (PREOF) built on the existing MPLS PREOF solution defined for the DetNet MPLS data plane and the mechanisms defined by MPLS-over-UDP technology. ",
+    "authors": [
+        {
+            "author": "Balazs Varga",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Janos Farkas",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Andrew G. Malis",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "abstract": "This document defines the format for the IANA Registry of Performance Metrics.  This document also gives a set of guidelines for Registered Performance Metric requesters and reviewers. ",
+    "authors": [
+        {
+            "author": "Marcelo Bagnulo",
+            "email": "marcelo@it.uc3m.es",
+            "role": null
+        },
+        {
+            "author": "Benoit Claise",
+            "email": "marcelo@it.uc3m.es",
+            "role": null
+        },
+        {
+            "author": "Philip Eardley",
+            "email": "marcelo@it.uc3m.es",
+            "role": null
+        },
+        {
+            "author": "Al Morton",
+            "email": "marcelo@it.uc3m.es",
+            "role": null
+        },
+        {
+            "author": "Aamer Akhter",
+            "email": "marcelo@it.uc3m.es",
+            "role": null
+        }
+    ]
+}

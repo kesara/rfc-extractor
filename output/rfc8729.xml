@@ -1,0 +1,15 @@
+{
+    "abstract": "This document describes the framework for an RFC Series and an RFC Editor function that incorporate the principles of organized community involvement and accountability that has become necessary as the Internet technical community has grown, thereby enabling the RFC Series to continue to fulfill its mandate.  This document obsoletes RFC 4844. ",
+    "authors": [
+        {
+            "author": "Russ Housley",
+            "email": "housley@vigilsec.com",
+            "role": "editor"
+        },
+        {
+            "author": "Leslie L. Daigle",
+            "email": "housley@vigilsec.com",
+            "role": "editor"
+        }
+    ]
+}

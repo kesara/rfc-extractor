@@ -1,0 +1,15 @@
+{
+    "abstract": "The Sieve Email Filtering Language (RFC 5228) is a popular email filtering language used upon final mail delivery.  This document creates a registry for Sieve actions to help developers and Sieve extension writers track interactions between different extensions. ",
+    "authors": [
+        {
+            "author": "Alexey Melnikov",
+            "email": "Alexey.Melnikov@isode.com",
+            "role": null
+        },
+        {
+            "author": "Kenneth Murchison",
+            "email": "Alexey.Melnikov@isode.com",
+            "role": null
+        }
+    ]
+}

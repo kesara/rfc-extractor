@@ -1,0 +1,20 @@
+{
+    "abstract": "JSON Web Tokens, also known as JWTs, are URL-safe JSON-based security tokens that contain a set of claims that can be signed and/or encrypted.  JWTs are being widely used and deployed as a simple security token format in numerous protocols and applications, both in the area of digital identity and in other application areas.  This Best Current Practices document updates RFC 7519 to provide actionable guidance leading to secure implementation and deployment of JWTs. ",
+    "authors": [
+        {
+            "author": "Yaron Sheffer",
+            "email": "yaronf.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Dick Hardt",
+            "email": "yaronf.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Michael B. Jones",
+            "email": "yaronf.ietf@gmail.com",
+            "role": null
+        }
+    ]
+}

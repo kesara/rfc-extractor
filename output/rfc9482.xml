@@ -1,0 +1,15 @@
+{
+    "abstract": "This document specifies the use of the Constrained Application Protocol (CoAP) as a transfer mechanism for the Certificate Management Protocol (CMP).  CMP defines the interaction between various PKI entities for the purpose of certificate creation and management.  CoAP is an HTTP-like client-server protocol used by various constrained devices in the Internet of Things space. ",
+    "authors": [
+        {
+            "author": "Mohit Sahni",
+            "email": "msahni@paloaltonetworks.com",
+            "role": "editor"
+        },
+        {
+            "author": "Saurabh Tripathi",
+            "email": "msahni@paloaltonetworks.com",
+            "role": "editor"
+        }
+    ]
+}

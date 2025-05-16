@@ -1,0 +1,25 @@
+{
+    "abstract": "The replication and elimination functions of the Deterministic Networking (DetNet) architecture can result in out-of-order packets, which is not acceptable for some time-sensitive applications.  The Packet Ordering Function (POF) algorithms described in this document enable restoration of the correct packet order when the replication and elimination functions are used in DetNet networks.  The POF only provides ordering within the latency bound of a DetNet flow; it does not provide any additional reliability. ",
+    "authors": [
+        {
+            "author": "Balazs Varga",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": "editor"
+        },
+        {
+            "author": "Janos Farkas",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Stephan Kehrer",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Tobias Heer",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        }
+    ]
+}

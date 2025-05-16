@@ -1,0 +1,15 @@
+{
+    "abstract": "This document describes HTTP Datagrams, a convention for conveying multiplexed, potentially unreliable datagrams inside an HTTP connection.  In HTTP/3, HTTP Datagrams can be sent unreliably using the QUIC DATAGRAM extension.  When the QUIC DATAGRAM frame is unavailable or undesirable, HTTP Datagrams can be sent using the Capsule Protocol, which is a more general convention for conveying data in HTTP connections.  HTTP Datagrams and the Capsule Protocol are intended for use by HTTP extensions, not applications. ",
+    "authors": [
+        {
+            "author": "David Schinazi",
+            "email": "dschinazi.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Lucas Pardue",
+            "email": "dschinazi.ietf@gmail.com",
+            "role": null
+        }
+    ]
+}

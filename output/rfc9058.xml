@@ -1,0 +1,25 @@
+{
+    "abstract": "Multilinear Galois Mode (MGM) is an Authenticated Encryption with Associated Data (AEAD) block cipher mode based on the Encrypt-then- MAC (EtM) principle.  MGM is defined for use with 64-bit and 128-bit block ciphers.  MGM has been standardized in Russia.  It is used as an AEAD mode for the GOST block cipher algorithms in many protocols, e.g., TLS 1.3 and IPsec.  This document provides a reference for MGM to enable review of the mechanisms in use and to make MGM available for use with any block cipher. ",
+    "authors": [
+        {
+            "author": "Stanislav Smyshlyaev",
+            "email": "svs@cryptopro.ru",
+            "role": "editor"
+        },
+        {
+            "author": "Vladislav Nozdrunov",
+            "email": "svs@cryptopro.ru",
+            "role": null
+        },
+        {
+            "author": "Vasily Shishkin",
+            "email": "svs@cryptopro.ru",
+            "role": null
+        },
+        {
+            "author": "Ekaterina Griboedova",
+            "email": "svs@cryptopro.ru",
+            "role": null
+        }
+    ]
+}

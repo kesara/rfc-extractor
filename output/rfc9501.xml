@@ -1,0 +1,20 @@
+{
+    "abstract": "This document outlines a principle for open participation that extends the open process principle defined in RFC 3935 by stating that there must be a free option for online participation to IETF meetings and, if possible, related IETF-hosted events. ",
+    "authors": [
+        {
+            "author": "Mirja K\u00fchlewind",
+            "email": "mirja.kuehlewind@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Jon Reed",
+            "email": "mirja.kuehlewind@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Rich Salz",
+            "email": "mirja.kuehlewind@ericsson.com",
+            "role": null
+        }
+    ]
+}

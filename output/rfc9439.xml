@@ -1,0 +1,35 @@
+{
+    "abstract": "The cost metric is a basic concept in Application-Layer Traffic Optimization (ALTO), and different applications may use different types of cost metrics.  Since the ALTO base protocol (RFC 7285) defines only a single cost metric (namely, the generic \"routingcost\" metric), if an application wants to issue a cost map or an endpoint cost request in order to identify a resource provider that offers better performance metrics (e.g., lower delay or loss rate), the base protocol does not define the cost metric to be used.  This document addresses this issue by extending the specification to provide a variety of network performance metrics, including network delay, delay variation (a.k.a.\u00a0jitter), packet loss rate, hop count, and bandwidth.  There are multiple sources (e.g., estimations based on measurements or a Service Level Agreement) available for deriving a performance metric.  This document introduces an additional \"cost-context\" field to the ALTO \"cost-type\" field to convey the source of a performance metric. ",
+    "authors": [
+        {
+            "author": "Qin Wu",
+            "email": "bill.wu@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Y. Richard Yang",
+            "email": "bill.wu@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Young Lee",
+            "email": "bill.wu@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Dhruv Dhody",
+            "email": "bill.wu@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Sabine Randriamasy",
+            "email": "bill.wu@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Luis Miguel Contreras Murillo",
+            "email": "bill.wu@huawei.com",
+            "role": null
+        }
+    ]
+}

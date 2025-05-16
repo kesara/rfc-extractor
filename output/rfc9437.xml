@@ -1,0 +1,30 @@
+{
+    "abstract": "This document specifies an extension to the Locator/ID Separation Protocol (LISP) control plane to enable Publish/Subscribe (PubSub) operation. ",
+    "authors": [
+        {
+            "author": "Alberto Rodriguez-Natal",
+            "email": "natal@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Vina Ermagan",
+            "email": "natal@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Albert Cabellos",
+            "email": "natal@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Sharon Barkai",
+            "email": "natal@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Mohamed Boucadair",
+            "email": "natal@cisco.com",
+            "role": null
+        }
+    ]
+}

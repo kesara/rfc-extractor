@@ -1,0 +1,25 @@
+{
+    "abstract": "This document specifies the Connection ID (CID) construct for the Datagram Transport Layer Security (DTLS) protocol version 1.2.  A CID is an identifier carried in the record layer header that gives the recipient additional information for selecting the appropriate security association.  In \"classical\" DTLS, selecting a security association of an incoming DTLS record is accomplished with the help of the 5-tuple.  If the source IP address and/or source port changes during the lifetime of an ongoing DTLS session, then the receiver will be unable to locate the correct security context.  The new ciphertext record format with the CID also provides content type encryption and record layer padding.  This document updates RFC 6347. ",
+    "authors": [
+        {
+            "author": "Eric Rescorla",
+            "email": "ekr@rtfm.com",
+            "role": "editor"
+        },
+        {
+            "author": "Hannes Tschofenig",
+            "email": "ekr@rtfm.com",
+            "role": "editor"
+        },
+        {
+            "author": "Thomas Fossati",
+            "email": "ekr@rtfm.com",
+            "role": null
+        },
+        {
+            "author": "Achim Kraus",
+            "email": "ekr@rtfm.com",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "This document updates RFC 4090 for the Resource Reservation Protocol (RSVP) Traffic Engineering (TE) procedures defined for facility backup protection.  The updates include extensions that reduce the amount of signaling and processing that occurs during Fast Reroute (FRR); as a result, scalability when undergoing FRR convergence after a link or node failure is improved.  These extensions allow the RSVP message exchange between the Point of Local Repair (PLR) and the Merge Point (MP) nodes to be independent of the number of protected Label Switched Paths (LSPs) traversing between them when facility bypass FRR protection is used.  The signaling extensions are fully backwards compatible with nodes that do not support them. ",
+    "authors": [
+        {
+            "author": "Mike Taillon",
+            "email": "mtaillon@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Tarek Saad",
+            "email": "mtaillon@cisco.com",
+            "role": "editor"
+        },
+        {
+            "author": "Rakesh Gandhi",
+            "email": "mtaillon@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Abhishek Deshmukh",
+            "email": "mtaillon@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Markus Jork",
+            "email": "mtaillon@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Vishnu Pavan Beeram",
+            "email": "mtaillon@cisco.com",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "Segment Routing can be applied to the IPv6 data plane using a new type of Routing Extension Header called the Segment Routing Header (SRH).  This document describes the SRH and how it is used by nodes that are Segment Routing (SR) capable. ",
+    "authors": [
+        {
+            "author": "Clarence Filsfils",
+            "email": "cfilsfil@cisco.com",
+            "role": "editor"
+        },
+        {
+            "author": "Darren Dukes",
+            "email": "cfilsfil@cisco.com",
+            "role": "editor"
+        },
+        {
+            "author": "Stefano Previdi",
+            "email": "cfilsfil@cisco.com",
+            "role": null
+        },
+        {
+            "author": "John Leddy",
+            "email": "cfilsfil@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Satoru Matsushima",
+            "email": "cfilsfil@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Daniel Voyer",
+            "email": "cfilsfil@cisco.com",
+            "role": null
+        }
+    ]
+}

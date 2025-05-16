@@ -1,0 +1,20 @@
+{
+    "abstract": "This document presents a specification for the Bundle Protocol, adapted from the experimental Bundle Protocol specification developed by the Delay-Tolerant Networking Research Group of the Internet Research Task Force and documented in RFC 5050. ",
+    "authors": [
+        {
+            "author": "Scott Burleigh",
+            "email": "sburleig.sb@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Kevin Fall",
+            "email": "sburleig.sb@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Edward J. Birrane, III",
+            "email": "sburleig.sb@gmail.com",
+            "role": null
+        }
+    ]
+}

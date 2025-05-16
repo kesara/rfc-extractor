@@ -1,0 +1,35 @@
+{
+    "abstract": "Segment Routing over IPv6 (SRv6) allows for a flexible definition of end-to-end paths within various topologies by encoding paths as sequences of topological or functional sub-paths called \"segments\". These segments are advertised by various protocols such as BGP, IS- IS, and OSPFv3.  This document defines extensions to BGP - Link State (BGP-LS) to advertise SRv6 segments along with their behaviors and other attributes via BGP.  The BGP-LS address-family solution for SRv6 described in this document is similar to BGP-LS for SR for the MPLS data plane, which is defined in RFC 9085. ",
+    "authors": [
+        {
+            "author": "Gaurav Dawra",
+            "email": "gdawra.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Clarence Filsfils",
+            "email": "gdawra.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Ketan Talaulikar",
+            "email": "gdawra.ietf@gmail.com",
+            "role": "editor"
+        },
+        {
+            "author": "Mach(Guoyi) Chen",
+            "email": "gdawra.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Daniel Bernier",
+            "email": "gdawra.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Bruno Decraene",
+            "email": "gdawra.ietf@gmail.com",
+            "role": null
+        }
+    ]
+}

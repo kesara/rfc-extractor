@@ -1,0 +1,25 @@
+{
+    "abstract": "Flexible Algorithm is a solution that allows some routing protocols (e.g., OSPF and IS-IS) to compute paths over a network based on user- defined (and hence, flexible) constraints and metrics.  The computation is performed by routers participating in the specific network in a distributed manner using a Flexible Algorithm Definition (FAD).  This definition is provisioned on one or more routers and propagated through the network by OSPF and IS-IS flooding.  Border Gateway Protocol - Link State (BGP-LS) enables the collection of various topology information from the network.  This document defines extensions to the BGP-LS address family to advertise the FAD as a part of the topology information from the network. ",
+    "authors": [
+        {
+            "author": "Ketan Talaulikar",
+            "email": "ketant.ietf@gmail.com",
+            "role": "editor"
+        },
+        {
+            "author": "Peter Psenak",
+            "email": "ketant.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Shawn Zandi",
+            "email": "ketant.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Gaurav Dawra",
+            "email": "ketant.ietf@gmail.com",
+            "role": null
+        }
+    ]
+}

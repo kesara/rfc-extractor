@@ -1,0 +1,30 @@
+{
+    "abstract": "DNS zone transfers are transmitted in cleartext, which gives attackers the opportunity to collect the content of a zone by eavesdropping on network connections.  The DNS Transaction Signature (TSIG) mechanism is specified to restrict direct zone transfer to authorized clients only, but it does not add confidentiality.  This document specifies the use of TLS, rather than cleartext, to prevent zone content collection via passive monitoring of zone transfers: XFR over TLS (XoT).  Additionally, this specification updates RFC 1995 and RFC 5936 with respect to efficient use of TCP connections and RFC 7766 with respect to the recommended number of connections between a client and server for each transport. ",
+    "authors": [
+        {
+            "author": "Willem Toorop",
+            "email": "willem@nlnetlabs.nl",
+            "role": null
+        },
+        {
+            "author": "Sara Dickinson",
+            "email": "willem@nlnetlabs.nl",
+            "role": null
+        },
+        {
+            "author": "Shivan Sahib",
+            "email": "willem@nlnetlabs.nl",
+            "role": null
+        },
+        {
+            "author": "Pallavi Aras",
+            "email": "willem@nlnetlabs.nl",
+            "role": null
+        },
+        {
+            "author": "Allison Mankin",
+            "email": "willem@nlnetlabs.nl",
+            "role": null
+        }
+    ]
+}

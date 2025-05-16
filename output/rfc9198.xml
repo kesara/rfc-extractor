@@ -1,0 +1,30 @@
+{
+    "abstract": "This memo introduces an advanced unidirectional route assessment (AURA) metric and associated measurement methodology based on the IP Performance Metrics (IPPM) framework (RFC 2330).  This memo updates RFC 2330 in the areas of path-related terminology and path description, primarily to include the possibility of parallel subpaths between a given Source and Destination pair, owing to the presence of multipath technologies. ",
+    "authors": [
+        {
+            "author": "J. Ignacio Alvarez-Hamelin",
+            "email": "ihameli@cnet.fi.uba.ar",
+            "role": null
+        },
+        {
+            "author": "Al Morton",
+            "email": "ihameli@cnet.fi.uba.ar",
+            "role": null
+        },
+        {
+            "author": "Joachim Fabini",
+            "email": "ihameli@cnet.fi.uba.ar",
+            "role": null
+        },
+        {
+            "author": "Carlos Pignataro",
+            "email": "ihameli@cnet.fi.uba.ar",
+            "role": null
+        },
+        {
+            "author": "Ruediger Geib",
+            "email": "ihameli@cnet.fi.uba.ar",
+            "role": null
+        }
+    ]
+}

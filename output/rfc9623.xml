@@ -1,0 +1,30 @@
+{
+    "abstract": "The Transport Services System enables applications to use transport protocols flexibly for network communication and defines a protocol- independent Transport Services Application Programming Interface (API) that is based on an asynchronous, event-driven interaction pattern.  This document serves as a guide to implementing such a system. ",
+    "authors": [
+        {
+            "author": "Anna Brunstrom",
+            "email": "anna.brunstrom@kau.se",
+            "role": "editor"
+        },
+        {
+            "author": "Tommy Pauly",
+            "email": "anna.brunstrom@kau.se",
+            "role": "editor"
+        },
+        {
+            "author": "Reese Enghardt",
+            "email": "anna.brunstrom@kau.se",
+            "role": null
+        },
+        {
+            "author": "Philipp S. Tiesel",
+            "email": "anna.brunstrom@kau.se",
+            "role": null
+        },
+        {
+            "author": "Michael Welzl",
+            "email": "anna.brunstrom@kau.se",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "abstract": "RTP allows multiple RTP streams to be sent in a single session but requires each Synchronization Source (SSRC) to send RTP Control Protocol (RTCP) reception quality reports for every other SSRC visible in the session.  This causes the number of RTCP reception reports to grow with the number of SSRCs, rather than the number of endpoints.  In many cases, most of these RTCP reception reports are unnecessary, since all SSRCs of an endpoint are normally co-located and see the same reception quality.  This memo defines a Reporting Group extension to RTCP to reduce the reporting overhead in such scenarios. ",
+    "authors": [
+        {
+            "author": "Jonathan Lennox",
+            "email": "jonathan.lennox@8x8.com",
+            "role": null
+        },
+        {
+            "author": "Magnus Westerlund",
+            "email": "jonathan.lennox@8x8.com",
+            "role": null
+        },
+        {
+            "author": "Qin Wu",
+            "email": "jonathan.lennox@8x8.com",
+            "role": null
+        },
+        {
+            "author": "Colin Perkins",
+            "email": "jonathan.lennox@8x8.com",
+            "role": null
+        }
+    ]
+}

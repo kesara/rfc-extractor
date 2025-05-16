@@ -1,0 +1,15 @@
+{
+    "abstract": "This specification proposes an additional response secured by JSON Web Token (JWT) for OAuth 2.0 Token Introspection. ",
+    "authors": [
+        {
+            "author": "Torsten Lodderstedt",
+            "email": "torsten@lodderstedt.net",
+            "role": "editor"
+        },
+        {
+            "author": "Vladimir Dzhuvinov",
+            "email": "torsten@lodderstedt.net",
+            "role": null
+        }
+    ]
+}

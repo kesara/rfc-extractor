@@ -1,0 +1,15 @@
+{
+    "abstract": "QUIC does not provide a complete version negotiation mechanism but instead only provides a way for the server to indicate that the version the client chose is unacceptable.  This document describes a version negotiation mechanism that allows a client and server to select a mutually supported version.  Optionally, if the client's chosen version and the negotiated version share a compatible first flight format, the negotiation can take place without incurring an extra round trip.  This document updates RFC 8999. ",
+    "authors": [
+        {
+            "author": "David Schinazi",
+            "email": "dschinazi.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Eric Rescorla",
+            "email": "dschinazi.ietf@gmail.com",
+            "role": null
+        }
+    ]
+}

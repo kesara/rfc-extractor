@@ -1,0 +1,15 @@
+{
+    "abstract": "The Optional Parameters in the BGP OPEN message as defined in the base BGP specification are limited to 255 octets due to a one-octet length field.  BGP capabilities are carried in this field and may foreseeably exceed 255 octets in the future, leading to concerns about this limitation.  This document updates RFC 4271 by extending, in a backward-compatible manner, the length of the Optional Parameters in a BGP OPEN message. The Parameter Length field of individual Optional Parameters is also extended. ",
+    "authors": [
+        {
+            "author": "Enke Chen",
+            "email": "enchen@paloaltonetworks.com",
+            "role": null
+        },
+        {
+            "author": "John Scudder",
+            "email": "enchen@paloaltonetworks.com",
+            "role": null
+        }
+    ]
+}

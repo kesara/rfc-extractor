@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes how the existing IPv6 mechanisms for ping and traceroute can be used in a Segment Routing over IPv6 (SRv6) network. The document also specifies the OAM flag (O-flag) in the Segment Routing Header (SRH) for performing controllable and predictable flow sampling from segment endpoints.  In addition, the document describes how a centralized monitoring system performs a path continuity check between any nodes within an SRv6 domain. ",
+    "authors": [
+        {
+            "author": "Zafar Ali",
+            "email": "zali@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Clarence Filsfils",
+            "email": "zali@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Satoru Matsushima",
+            "email": "zali@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Daniel Voyer",
+            "email": "zali@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Mach(Guoyi) Chen",
+            "email": "zali@cisco.com",
+            "role": null
+        }
+    ]
+}

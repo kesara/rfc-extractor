@@ -1,0 +1,10 @@
+{
+    "abstract": "This document specifies a data model for handling quotas on accounts with a server using the JSON Meta Application Protocol (JMAP). ",
+    "authors": [
+        {
+            "author": "Ren\u00e9 Cordier",
+            "email": "rcordier@linagora.com",
+            "role": "editor"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "abstract": "This document describes a Registration Data Access Protocol (RDAP) extension for specifying methods of redaction of RDAP responses and explicitly identifying redacted RDAP response fields, using JSONPath as the default expression language. ",
+    "authors": [
+        {
+            "author": "James Gould",
+            "email": "jgould@verisign.com",
+            "role": null
+        },
+        {
+            "author": "David Smith",
+            "email": "jgould@verisign.com",
+            "role": null
+        },
+        {
+            "author": "Jody Kolker",
+            "email": "jgould@verisign.com",
+            "role": null
+        },
+        {
+            "author": "Roger Carney",
+            "email": "jgould@verisign.com",
+            "role": null
+        }
+    ]
+}

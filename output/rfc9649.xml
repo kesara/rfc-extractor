@@ -1,0 +1,20 @@
+{
+    "abstract": "This document defines the WebP image format and registers a media type supporting its use. ",
+    "authors": [
+        {
+            "author": "James Zern",
+            "email": "jzern@google.com",
+            "role": null
+        },
+        {
+            "author": "Pascal Massimino",
+            "email": "jzern@google.com",
+            "role": null
+        },
+        {
+            "author": "Jyrki Alakuijala",
+            "email": "jzern@google.com",
+            "role": null
+        }
+    ]
+}

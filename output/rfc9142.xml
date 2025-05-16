@@ -1,0 +1,10 @@
+{
+    "abstract": "This document updates the recommended set of key exchange methods for use in the Secure Shell (SSH) protocol to meet evolving needs for stronger security.  It updates RFCs 4250, 4253, 4432, and 4462. ",
+    "authors": [
+        {
+            "author": "Mark D. Baushke",
+            "email": "mbaushke.ietf@gmail.com",
+            "role": null
+        }
+    ]
+}

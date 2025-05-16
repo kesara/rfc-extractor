@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes extensions to the Locator/ID Separation Protocol (LISP) data plane, via changes to the LISP header, to support multiprotocol encapsulation and allow the introduction of new protocol capabilities. ",
+    "authors": [
+        {
+            "author": "Fabio Maino",
+            "email": "fmaino@cisco.com",
+            "role": "editor"
+        },
+        {
+            "author": "Jennifer Lemon",
+            "email": "fmaino@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Puneet Agarwal",
+            "email": "fmaino@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Darrel Lewis",
+            "email": "fmaino@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Michael Smith",
+            "email": "fmaino@cisco.com",
+            "role": null
+        }
+    ]
+}

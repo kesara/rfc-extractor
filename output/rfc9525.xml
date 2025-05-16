@@ -1,0 +1,15 @@
+{
+    "abstract": "Many application technologies enable secure communication between two entities by means of Transport Layer Security (TLS) with Internet Public Key Infrastructure using X.509 (PKIX) certificates.  This document specifies procedures for representing and verifying the identity of application services in such interactions.  This document obsoletes RFC 6125. ",
+    "authors": [
+        {
+            "author": "Peter Saint-Andre",
+            "email": "stpeter@stpeter.im",
+            "role": null
+        },
+        {
+            "author": "Rich Salz",
+            "email": "stpeter@stpeter.im",
+            "role": null
+        }
+    ]
+}

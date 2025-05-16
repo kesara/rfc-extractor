@@ -1,0 +1,40 @@
+{
+    "abstract": "This document describes network slicing in the context of networks built from IETF technologies.  It defines the term \"IETF Network Slice\" to describe this type of network slice and establishes the general principles of network slicing in the IETF context.  The document discusses the general framework for requesting and operating IETF Network Slices, the characteristics of an IETF Network Slice, the necessary system components and interfaces, and the mapping of abstract requests to more specific technologies.  The document also discusses related considerations with monitoring and security.  This document also provides definitions of related terms to enable consistent usage in other IETF documents that describe or use aspects of IETF Network Slices. ",
+    "authors": [
+        {
+            "author": "Adrian Farrel",
+            "email": "adrian@olddog.co.uk",
+            "role": "editor"
+        },
+        {
+            "author": "John Drake",
+            "email": "adrian@olddog.co.uk",
+            "role": "editor"
+        },
+        {
+            "author": "Reza Rokui",
+            "email": "adrian@olddog.co.uk",
+            "role": null
+        },
+        {
+            "author": "Shunsuke Homma",
+            "email": "adrian@olddog.co.uk",
+            "role": null
+        },
+        {
+            "author": "Kiran Makhijani",
+            "email": "adrian@olddog.co.uk",
+            "role": null
+        },
+        {
+            "author": "Luis M. Contreras",
+            "email": "adrian@olddog.co.uk",
+            "role": null
+        },
+        {
+            "author": "Jeff Tantsura",
+            "email": "adrian@olddog.co.uk",
+            "role": null
+        }
+    ]
+}

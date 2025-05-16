@@ -1,0 +1,20 @@
+{
+    "abstract": "This document defines an extension to the QUIC transport protocol to add support for sending and receiving unreliable datagrams over a QUIC connection. ",
+    "authors": [
+        {
+            "author": "Tommy Pauly",
+            "email": "tpauly@apple.com",
+            "role": null
+        },
+        {
+            "author": "Eric Kinnear",
+            "email": "tpauly@apple.com",
+            "role": null
+        },
+        {
+            "author": "David Schinazi",
+            "email": "tpauly@apple.com",
+            "role": null
+        }
+    ]
+}

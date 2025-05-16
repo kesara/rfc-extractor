@@ -1,0 +1,30 @@
+{
+    "abstract": "This document specifies the MPLS Deterministic Networking (DetNet) data plane operation and encapsulation over an IP network.  The approach is based on the operation of MPLS-over-UDP technology. ",
+    "authors": [
+        {
+            "author": "Bal\u00e1zs Varga",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": "editor"
+        },
+        {
+            "author": "J\u00e1nos Farkas",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Lou Berger",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Andrew G. Malis",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Stewart Bryant",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        }
+    ]
+}

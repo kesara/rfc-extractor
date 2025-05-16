@@ -1,0 +1,20 @@
+{
+    "abstract": "This document specifies requirements for the development of MPLS Network Actions (MNAs) that affect the forwarding or other processing of MPLS packets.  These requirements are informed by a number of proposals for additions to the MPLS information in the labeled packet to allow such actions to be performed, either by a transit or terminating Label Switching Router (i.e., the Label Edge Router - LER). ",
+    "authors": [
+        {
+            "author": "Matthew Bocci",
+            "email": "matthew.bocci@nokia.com",
+            "role": "editor"
+        },
+        {
+            "author": "Stewart Bryant",
+            "email": "matthew.bocci@nokia.com",
+            "role": null
+        },
+        {
+            "author": "John Drake",
+            "email": "matthew.bocci@nokia.com",
+            "role": null
+        }
+    ]
+}

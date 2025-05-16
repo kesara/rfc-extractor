@@ -1,0 +1,30 @@
+{
+    "abstract": "This document defines a collection of common data types and groupings in YANG data modeling language.  These derived common types and groupings are intended to be imported by modules that model Traffic Engineering (TE) configuration and state capabilities. ",
+    "authors": [
+        {
+            "author": "Tarek Saad",
+            "email": "tsaad@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Rakesh Gandhi",
+            "email": "tsaad@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Xufeng Liu",
+            "email": "tsaad@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Vishnu Pavan Beeram",
+            "email": "tsaad@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Igor Bryskin",
+            "email": "tsaad@juniper.net",
+            "role": null
+        }
+    ]
+}

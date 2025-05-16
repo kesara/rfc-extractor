@@ -1,0 +1,20 @@
+{
+    "abstract": "This informational document details a protocol to load Manufacturer Usage Description (MUD) definitions from RFC 8520 for devices that do not have them integrated.  This document is published to inform the Internet community of this mechanism to allow interoperability and to serve as a basis of other standards work if there is interest. ",
+    "authors": [
+        {
+            "author": "Michael Richardson",
+            "email": "mcr+ietf@sandelman.ca",
+            "role": null
+        },
+        {
+            "author": "Jacques Latour",
+            "email": "mcr+ietf@sandelman.ca",
+            "role": null
+        },
+        {
+            "author": "Hassan Habibi Gharakheili",
+            "email": "mcr+ietf@sandelman.ca",
+            "role": null
+        }
+    ]
+}

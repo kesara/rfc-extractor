@@ -1,0 +1,10 @@
+{
+    "abstract": "The ORIGIN frame for HTTP/2 is equally applicable to HTTP/3, but it needs to be separately registered.  This document describes the ORIGIN frame for HTTP/3. ",
+    "authors": [
+        {
+            "author": "Mike Bishop",
+            "email": "mbishop@evequefou.be",
+            "role": null
+        }
+    ]
+}

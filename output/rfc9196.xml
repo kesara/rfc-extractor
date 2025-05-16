@@ -1,0 +1,20 @@
+{
+    "abstract": "This document defines two YANG modules, \"ietf-system-capabilities\" and \"ietf-notification-capabilities\".  The module \"ietf-system-capabilities\" provides a placeholder structure that can be used to discover YANG-related system capabilities for servers.  The module can be used to report capability information from the server at runtime or at implementation time by making use of the YANG instance data file format.  The module \"ietf-notification-capabilities\" augments \"ietf-system- capabilities\" to specify capabilities related to \"Subscription to YANG Notifications for Datastore Updates\" (RFC 8641). ",
+    "authors": [
+        {
+            "author": "Balazs Lengyel",
+            "email": "balazs.lengyel@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Alexander Clemm",
+            "email": "balazs.lengyel@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Benoit Claise",
+            "email": "balazs.lengyel@ericsson.com",
+            "role": null
+        }
+    ]
+}

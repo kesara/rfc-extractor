@@ -1,0 +1,40 @@
+{
+    "abstract": "Current Link State PDU flooding rates are much slower than what modern networks can support.  The use of IS-IS at larger scale requires faster flooding rates to achieve desired convergence goals. This document discusses the need for faster flooding, the issues around faster flooding, and some example approaches to achieve faster flooding.  It also defines protocol extensions relevant to faster flooding. ",
+    "authors": [
+        {
+            "author": "Bruno Decraene",
+            "email": "bruno.decraene@orange.com",
+            "role": null
+        },
+        {
+            "author": "Les Ginsberg",
+            "email": "bruno.decraene@orange.com",
+            "role": null
+        },
+        {
+            "author": "Tony Li",
+            "email": "bruno.decraene@orange.com",
+            "role": null
+        },
+        {
+            "author": "Guillaume Solignac",
+            "email": "bruno.decraene@orange.com",
+            "role": null
+        },
+        {
+            "author": "Marek Karasek",
+            "email": "bruno.decraene@orange.com",
+            "role": null
+        },
+        {
+            "author": "Gunter Van de Velde",
+            "email": "bruno.decraene@orange.com",
+            "role": null
+        },
+        {
+            "author": "Tony Przygienda",
+            "email": "bruno.decraene@orange.com",
+            "role": null
+        }
+    ]
+}

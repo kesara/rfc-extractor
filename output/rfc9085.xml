@@ -1,0 +1,30 @@
+{
+    "abstract": "Segment Routing (SR) allows for a flexible definition of end-to-end paths by encoding paths as sequences of topological subpaths, called \"segments\".  These segments are advertised by routing protocols, e.g., by the link-state routing protocols (IS-IS, OSPFv2, and OSPFv3) within IGP topologies.  This document defines extensions to the Border Gateway Protocol - Link State (BGP-LS) address family in order to carry SR information via BGP. ",
+    "authors": [
+        {
+            "author": "Stefano Previdi",
+            "email": "stefano@previdi.net",
+            "role": null
+        },
+        {
+            "author": "Ketan Talaulikar",
+            "email": "stefano@previdi.net",
+            "role": "editor"
+        },
+        {
+            "author": "Clarence Filsfils",
+            "email": "stefano@previdi.net",
+            "role": null
+        },
+        {
+            "author": "Hannes Gredler",
+            "email": "stefano@previdi.net",
+            "role": null
+        },
+        {
+            "author": "Mach(Guoyi) Chen",
+            "email": "stefano@previdi.net",
+            "role": null
+        }
+    ]
+}

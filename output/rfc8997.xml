@@ -1,0 +1,15 @@
+{
+    "abstract": "This specification updates the current recommendation for the use of the Transport Layer Security (TLS) protocol to provide confidentiality of email between a Mail User Agent (MUA) and a Mail Submission Server or Mail Access Server.  This document updates RFC 8314. ",
+    "authors": [
+        {
+            "author": "Loganaden Velvindron",
+            "email": "logan@cyberstorm.mu",
+            "role": null
+        },
+        {
+            "author": "Stephen Farrell",
+            "email": "logan@cyberstorm.mu",
+            "role": null
+        }
+    ]
+}

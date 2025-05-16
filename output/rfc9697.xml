@@ -1,0 +1,15 @@
+{
+    "abstract": "This document describes an approach for Resource Public Key Infrastructure (RPKI) Relying Parties to detect a particular form of RPKI Repository Delta Protocol (RRDP) session desynchronization and how to recover.  This document updates RFC 8182. ",
+    "authors": [
+        {
+            "author": "Job Snijders",
+            "email": "job@fastly.com",
+            "role": null
+        },
+        {
+            "author": "Ties de Kock",
+            "email": "job@fastly.com",
+            "role": null
+        }
+    ]
+}

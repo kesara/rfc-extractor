@@ -1,0 +1,15 @@
+{
+    "abstract": "This document defines a parameter that can be included in Service Binding (SVCB) and HTTPS DNS resource records to denote that a service is accessible using Oblivious HTTP, by offering an Oblivious Gateway Resource through which to access the target.  This document also defines a mechanism for learning the key configuration of the discovered Oblivious Gateway Resource. ",
+    "authors": [
+        {
+            "author": "Tommy Pauly",
+            "email": "tpauly@apple.com",
+            "role": null
+        },
+        {
+            "author": "Tirumaleswar Reddy.K",
+            "email": "tpauly@apple.com",
+            "role": null
+        }
+    ]
+}

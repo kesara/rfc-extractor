@@ -1,0 +1,30 @@
+{
+    "abstract": "RFC 8372 (\"MPLS Flow Identification Considerations\") describes the requirement for introducing flow identities within the MPLS architecture.  This document describes a method of accomplishing this by using a technique called \"Synonymous Flow Labels\" in which labels that mimic the behavior of other labels provide the identification service.  These identifiers can be used to trigger per-flow operations on the packet at the receiving label switching router. ",
+    "authors": [
+        {
+            "author": "Stewart Bryant",
+            "email": "sb@stewartbryant.com",
+            "role": null
+        },
+        {
+            "author": "Mach(Guoyi) Chen",
+            "email": "sb@stewartbryant.com",
+            "role": null
+        },
+        {
+            "author": "George Swallow",
+            "email": "sb@stewartbryant.com",
+            "role": null
+        },
+        {
+            "author": "Siva Sivabalan",
+            "email": "sb@stewartbryant.com",
+            "role": null
+        },
+        {
+            "author": "Gregory Mirsky",
+            "email": "sb@stewartbryant.com",
+            "role": null
+        }
+    ]
+}

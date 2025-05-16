@@ -1,0 +1,10 @@
+{
+    "abstract": "This document introduces new IP Flow Information Export (IPFIX) code points to identify which traffic is being forwarded based on which MPLS control plane protocol is used within a Segment Routing domain. In particular, this document defines five code points for the IPFIX mplsTopLabelType Information Element for Path Computation Element (PCE), IS-IS, OSPFv2, OSPFv3, and BGP MPLS Segment Routing extensions. ",
+    "authors": [
+        {
+            "author": "Thomas Graf",
+            "email": "thomas.graf@swisscom.com",
+            "role": null
+        }
+    ]
+}

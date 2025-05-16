@@ -1,0 +1,20 @@
+{
+    "abstract": "This document discusses the use of existing IP Operations, Administration, and Maintenance protocols and mechanisms in Deterministic Networking networks that use the IP data plane. ",
+    "authors": [
+        {
+            "author": "Greg Mirsky",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Mach(Guoyi) Chen",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        },
+        {
+            "author": "David Black",
+            "email": "gregimirsky@gmail.com",
+            "role": null
+        }
+    ]
+}

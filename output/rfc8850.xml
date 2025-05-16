@@ -1,0 +1,10 @@
+{
+    "abstract": "This document defines how to use the WebRTC data channel mechanism to realize a data channel, referred to as a Controlling Multiple Streams for Telepresence (CLUE) data channel, for transporting CLUE protocol messages between two CLUE entities. ",
+    "authors": [
+        {
+            "author": "Christer Holmberg",
+            "email": "christer.holmberg@ericsson.com",
+            "role": null
+        }
+    ]
+}

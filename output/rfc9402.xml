@@ -1,0 +1,20 @@
+{
+    "abstract": "This document defines the Concat notation: a text-based language used to describe pictures and videos whose subject includes cats, containers, and their interactions. ",
+    "authors": [
+        {
+            "author": "Mattia Basaglia",
+            "email": "glax@dragon.best",
+            "role": null
+        },
+        {
+            "author": "Joep Bernards",
+            "email": "glax@dragon.best",
+            "role": null
+        },
+        {
+            "author": "Joost Maas",
+            "email": "glax@dragon.best",
+            "role": null
+        }
+    ]
+}

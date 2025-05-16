@@ -1,0 +1,15 @@
+{
+    "abstract": "This document defines a binary format for representing HTTP messages. ",
+    "authors": [
+        {
+            "author": "Martin Thomson",
+            "email": "mt@lowentropy.net",
+            "role": null
+        },
+        {
+            "author": "Christopher A. Wood",
+            "email": "mt@lowentropy.net",
+            "role": null
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes the Alternate-Marking technique to perform packet loss, delay, and jitter measurements on live traffic.  This technology can be applied in various situations and for different protocols.  According to the classification defined in RFC 7799, it could be considered Passive or Hybrid depending on the application. This document obsoletes RFC 8321. ",
+    "authors": [
+        {
+            "author": "Giuseppe Fioccola",
+            "email": "giuseppe.fioccola@huawei.com",
+            "role": "editor"
+        },
+        {
+            "author": "Mauro Cociglio",
+            "email": "giuseppe.fioccola@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Greg Mirsky",
+            "email": "giuseppe.fioccola@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Tal Mizrahi",
+            "email": "giuseppe.fioccola@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Tianran Zhou",
+            "email": "giuseppe.fioccola@huawei.com",
+            "role": null
+        }
+    ]
+}

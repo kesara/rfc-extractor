@@ -1,0 +1,10 @@
+{
+    "abstract": "This short document updates RFC 8428, \"Sensor Measurement Lists (SenML)\", by specifying the use of independently selectable \"SenML Features\" and mapping them to SenML version numbers. ",
+    "authors": [
+        {
+            "author": "Carsten Bormann",
+            "email": "cabo@tzi.org",
+            "role": null
+        }
+    ]
+}

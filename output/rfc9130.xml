@@ -1,0 +1,30 @@
+{
+    "abstract": "This document defines a YANG data model that can be used to configure and manage the IS-IS protocol on network elements. ",
+    "authors": [
+        {
+            "author": "Stephane Litkowski",
+            "email": "slitkows.ietf@gmail.com",
+            "role": "editor"
+        },
+        {
+            "author": "Derek Yeung",
+            "email": "slitkows.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Acee Lindem",
+            "email": "slitkows.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Jeffrey Zhang",
+            "email": "slitkows.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Ladislav Lhotka",
+            "email": "slitkows.ietf@gmail.com",
+            "role": null
+        }
+    ]
+}

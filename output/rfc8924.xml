@@ -1,0 +1,30 @@
+{
+    "abstract": "This document provides a reference framework for Operations, Administration, and Maintenance (OAM) for Service Function Chaining (SFC). ",
+    "authors": [
+        {
+            "author": "Sam K. Aldrin",
+            "email": "aldrin.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Carlos Pignataro",
+            "email": "aldrin.ietf@gmail.com",
+            "role": "editor"
+        },
+        {
+            "author": "Nagendra Kumar",
+            "email": "aldrin.ietf@gmail.com",
+            "role": "editor"
+        },
+        {
+            "author": "Ram Krishnan",
+            "email": "aldrin.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Anoop Ghanwani",
+            "email": "aldrin.ietf@gmail.com",
+            "role": null
+        }
+    ]
+}

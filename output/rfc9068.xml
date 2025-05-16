@@ -1,0 +1,10 @@
+{
+    "abstract": "This specification defines a profile for issuing OAuth 2.0 access tokens in JSON Web Token (JWT) format.  Authorization servers and resource servers from different vendors can leverage this profile to issue and consume access tokens in an interoperable manner. ",
+    "authors": [
+        {
+            "author": "Vittorio Bertocci",
+            "email": "vittorio@auth0.com",
+            "role": null
+        }
+    ]
+}

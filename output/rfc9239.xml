@@ -1,0 +1,25 @@
+{
+    "abstract": "This document describes the registration of media types for the ECMAScript and JavaScript programming languages and conformance requirements for implementations of these types.  This document obsoletes RFC 4329 (\"Scripting Media Types)\", replacing the previous registrations with information and requirements aligned with common usage and implementation experiences. ",
+    "authors": [
+        {
+            "author": "Matthew A. Miller",
+            "email": "linuxwolf+ietf@outer-planes.net",
+            "role": null
+        },
+        {
+            "author": "Myles Borins",
+            "email": "linuxwolf+ietf@outer-planes.net",
+            "role": null
+        },
+        {
+            "author": "Mathias Bynens",
+            "email": "linuxwolf+ietf@outer-planes.net",
+            "role": null
+        },
+        {
+            "author": "Bradley Farias",
+            "email": "linuxwolf+ietf@outer-planes.net",
+            "role": null
+        }
+    ]
+}

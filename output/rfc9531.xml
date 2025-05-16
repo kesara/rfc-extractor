@@ -1,0 +1,15 @@
+{
+    "abstract": "Path steering is a mechanism to discover paths to the producers of Information-Centric Networking (ICN) Content Objects and steer subsequent Interest messages along a previously discovered path.  It has various uses, including the operation of state-of-the-art multi- path congestion control algorithms and for network measurement and management.  This specification derives directly from the design published in \"Path Switching in Content Centric and Named Data Networks\" (4th ACM Conference on Information-Centric Networking) and, therefore, does not recapitulate the design motivations, implementation details, or evaluation of the scheme.  However, some technical details are different, and where there are differences, the design documented here is to be considered definitive.  This document is a product of the IRTF Information-Centric Networking Research Group (ICNRG).  It is not an IETF product and is not an Internet Standard. ",
+    "authors": [
+        {
+            "author": "Ilya Moiseenko",
+            "email": "iliamo@mailbox.org",
+            "role": null
+        },
+        {
+            "author": "Dave Oran",
+            "email": "iliamo@mailbox.org",
+            "role": null
+        }
+    ]
+}

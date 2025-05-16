@@ -1,0 +1,20 @@
+{
+    "abstract": "RFC 5280 specifies several extended key purpose identifiers (KeyPurposeIds) for X.509 certificates.  This document defines a general-purpose Document-Signing KeyPurposeId for inclusion in the Extended Key Usage (EKU) extension of X.509 public key certificates. Document-Signing applications may require that the EKU extension be present and that a Document-Signing KeyPurposeId be indicated in order for the certificate to be acceptable to that Document-Signing application. ",
+    "authors": [
+        {
+            "author": "Tadahiko Ito",
+            "email": "tadahiko.ito.public@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Tomofumi Okubo",
+            "email": "tadahiko.ito.public@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Sean Turner",
+            "email": "tadahiko.ito.public@gmail.com",
+            "role": null
+        }
+    ]
+}

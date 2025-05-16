@@ -1,0 +1,25 @@
+{
+    "abstract": "A BGP speaker performing policy based on the Resource Public Key Infrastructure (RPKI) should not issue route refresh to its neighbors because it has received new RPKI data.  This document updates RFC 8481 by describing how to avoid doing so by either keeping a full Adj-RIB-In or saving paths dropped due to ROV (Route Origin Validation) so they may be reevaluated with respect to new RPKI data. ",
+    "authors": [
+        {
+            "author": "Randy Bush",
+            "email": "randy@psg.com",
+            "role": null
+        },
+        {
+            "author": "Keyur Patel",
+            "email": "randy@psg.com",
+            "role": null
+        },
+        {
+            "author": "Philip Smith",
+            "email": "randy@psg.com",
+            "role": null
+        },
+        {
+            "author": "Mark Tinka",
+            "email": "randy@psg.com",
+            "role": null
+        }
+    ]
+}

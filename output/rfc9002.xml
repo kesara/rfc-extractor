@@ -1,0 +1,15 @@
+{
+    "abstract": "This document describes loss detection and congestion control mechanisms for QUIC. ",
+    "authors": [
+        {
+            "author": "Jana Iyengar",
+            "email": "jri.ietf@gmail.com",
+            "role": "editor"
+        },
+        {
+            "author": "Ian Swett",
+            "email": "jri.ietf@gmail.com",
+            "role": "editor"
+        }
+    ]
+}

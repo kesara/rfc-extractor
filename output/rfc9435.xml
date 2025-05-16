@@ -1,0 +1,20 @@
+{
+    "abstract": "This document discusses considerations for assigning a new recommended Differentiated Services Code Point (DSCP) for a standard Per-Hop Behavior (PHB).  It considers the common observed re-marking behaviors that the Diffserv field might be subjected to along an Internet path.  It also notes some implications of using a specific DSCP. ",
+    "authors": [
+        {
+            "author": "Ana Custura",
+            "email": "ana@erg.abdn.ac.uk",
+            "role": null
+        },
+        {
+            "author": "Godred Fairhurst",
+            "email": "ana@erg.abdn.ac.uk",
+            "role": null
+        },
+        {
+            "author": "Raffaello Secchi",
+            "email": "ana@erg.abdn.ac.uk",
+            "role": null
+        }
+    ]
+}

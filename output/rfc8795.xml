@@ -1,0 +1,35 @@
+{
+    "abstract": "This document defines a YANG data model for representing, retrieving, and manipulating Traffic Engineering (TE) Topologies.  The model serves as a base model that other technology-specific TE topology models can augment. ",
+    "authors": [
+        {
+            "author": "Xufeng Liu",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Igor Bryskin",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Vishnu Pavan Beeram",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Tarek Saad",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Himanshu Shah",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Oscar Gonzalez de Dios",
+            "email": "xufeng.liu.ietf@gmail.com",
+            "role": null
+        }
+    ]
+}

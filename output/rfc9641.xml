@@ -1,0 +1,10 @@
+{
+    "abstract": "This document presents a YANG module for configuring bags of certificates and bags of public keys that can be referenced by other data models for trust.  Notifications are sent when certificates are about to expire. ",
+    "authors": [
+        {
+            "author": "Kent Watsen",
+            "email": "kent+ietf@watsen.net",
+            "role": null
+        }
+    ]
+}

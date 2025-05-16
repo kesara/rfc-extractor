@@ -1,0 +1,20 @@
+{
+    "abstract": "This specification extends the Internet Message Access Protocol, specifically IMAP4rev1 (RFC 3501), to support UTF-8 encoded international characters in user names, mail addresses, and message headers.  This specification replaces RFC 6855.  This specification does not extend IMAP4rev2 (RFC 9051), since that protocol includes everything in this extension. ",
+    "authors": [
+        {
+            "author": "Pete Resnick",
+            "email": "resnick@episteme.net",
+            "role": null
+        },
+        {
+            "author": "Jiankang Yao",
+            "email": "resnick@episteme.net",
+            "role": null
+        },
+        {
+            "author": "Arnt Gulbrandsen",
+            "email": "resnick@episteme.net",
+            "role": null
+        }
+    ]
+}

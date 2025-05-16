@@ -1,0 +1,25 @@
+{
+    "abstract": "The organizational separation between operators of TLS and DTLS endpoints and the certification authority can create limitations. For example, the lifetime of certificates, how they may be used, and the algorithms they support are ultimately determined by the Certification Authority (CA).  This document describes a mechanism to overcome some of these limitations by enabling operators to delegate their own credentials for use in TLS and DTLS without breaking compatibility with peers that do not support this specification. ",
+    "authors": [
+        {
+            "author": "Richard Barnes",
+            "email": "rlb@ipv.sx",
+            "role": null
+        },
+        {
+            "author": "Subodh Iyengar",
+            "email": "rlb@ipv.sx",
+            "role": null
+        },
+        {
+            "author": "Nick Sullivan",
+            "email": "rlb@ipv.sx",
+            "role": null
+        },
+        {
+            "author": "Eric Rescorla",
+            "email": "rlb@ipv.sx",
+            "role": null
+        }
+    ]
+}

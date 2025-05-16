@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes the use of the Bidirectional Forwarding Detection (BFD) protocol in point-to-point Virtual eXtensible Local Area Network (VXLAN) tunnels used to form an overlay network. ",
+    "authors": [
+        {
+            "author": "Santosh Pallagatti",
+            "email": "santosh.pallagatti@gmail.com",
+            "role": "editor"
+        },
+        {
+            "author": "Greg Mirsky",
+            "email": "santosh.pallagatti@gmail.com",
+            "role": "editor"
+        },
+        {
+            "author": "Sudarsan Paragiri",
+            "email": "santosh.pallagatti@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Vengada Prasad Govindan",
+            "email": "santosh.pallagatti@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Mallik Mudigonda",
+            "email": "santosh.pallagatti@gmail.com",
+            "role": null
+        }
+    ]
+}

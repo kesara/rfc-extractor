@@ -1,0 +1,20 @@
+{
+    "abstract": "This document updates some OSPF terminology to be in line with inclusive language used in the industry.  The IETF has designated \"Guidance for NIST Staff on Using Inclusive Language in Documentary Standards\" by the US National Institute of Standards and Technology (NIST) for its inclusive language guidelines.  It is intended that all future OSPF documents use this revised terminology even when they reference the RFCs updated by this document.  This document updates RFCs 2328, 4222, 4811, 5243, 5340, 5614, and 5838. ",
+    "authors": [
+        {
+            "author": "Mike Fox",
+            "email": "mjfox@us.ibm.com",
+            "role": null
+        },
+        {
+            "author": "Acee Lindem",
+            "email": "mjfox@us.ibm.com",
+            "role": null
+        },
+        {
+            "author": "Alvaro Retana",
+            "email": "mjfox@us.ibm.com",
+            "role": null
+        }
+    ]
+}

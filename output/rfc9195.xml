@@ -1,0 +1,15 @@
+{
+    "abstract": "There is a need to document data defined in YANG models at design time, implementation time, or when a live server is unavailable. This document specifies a standard file format for YANG instance data, which follows the syntax and semantics of existing YANG models and annotates it with metadata. ",
+    "authors": [
+        {
+            "author": "Balazs Lengyel",
+            "email": "balazs.lengyel@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Benoit Claise",
+            "email": "balazs.lengyel@ericsson.com",
+            "role": null
+        }
+    ]
+}

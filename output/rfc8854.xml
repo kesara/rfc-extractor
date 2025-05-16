@@ -1,0 +1,10 @@
+{
+    "abstract": "This document provides information and requirements for the use of Forward Error Correction (FEC) by WebRTC implementations. ",
+    "authors": [
+        {
+            "author": "Justin Uberti",
+            "email": "justin@uberti.name",
+            "role": null
+        }
+    ]
+}

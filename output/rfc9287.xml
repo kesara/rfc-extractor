@@ -1,0 +1,10 @@
+{
+    "abstract": "This document describes a method for negotiating the ability to send an arbitrary value for the second-most significant bit in QUIC packets. ",
+    "authors": [
+        {
+            "author": "Martin Thomson",
+            "email": "mt@lowentropy.net",
+            "role": null
+        }
+    ]
+}

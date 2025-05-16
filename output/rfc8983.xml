@@ -1,0 +1,10 @@
+{
+    "abstract": "This document specifies new Internet Key Exchange Protocol Version 2 (IKEv2) notification status types to better manage IPv4 and IPv6 coexistence by allowing the responder to signal to the initiator which address families are allowed.  This document updates RFC 7296. ",
+    "authors": [
+        {
+            "author": "Mohamed Boucadair",
+            "email": "mohamed.boucadair@orange.com",
+            "role": null
+        }
+    ]
+}

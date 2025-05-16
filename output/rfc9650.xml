@@ -1,0 +1,10 @@
+{
+    "abstract": "RFC 5029, \"Definition of an IS-IS Link Attribute Sub-TLV\", defines an IANA registry called \"IS-IS Neighbor Link-Attribute Bit Values\". This document changes the registration procedure for that registry from \"Standards Action\" to \"Expert Review\".  This document updates RFC 5029. ",
+    "authors": [
+        {
+            "author": "Tony Li",
+            "email": "tony.li@tony.li",
+            "role": null
+        }
+    ]
+}

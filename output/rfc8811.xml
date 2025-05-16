@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes an architecture for establishing and maintaining Distributed Denial-of-Service (DDoS) Open Threat Signaling (DOTS) within and between domains.  The document does not specify protocols or protocol extensions, instead focusing on defining architectural relationships, components, and concepts used in a DOTS deployment. ",
+    "authors": [
+        {
+            "author": "Andrew Mortensen",
+            "email": "andrewmortensen@gmail.com",
+            "role": "editor"
+        },
+        {
+            "author": "Tirumaleswar Reddy.K",
+            "email": "andrewmortensen@gmail.com",
+            "role": "editor"
+        },
+        {
+            "author": "Flemming Andreasen",
+            "email": "andrewmortensen@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Nik Teague",
+            "email": "andrewmortensen@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Rich Compton",
+            "email": "andrewmortensen@gmail.com",
+            "role": null
+        }
+    ]
+}

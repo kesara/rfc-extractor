@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes how the Alternate-Marking Method can be used as a passive performance measurement tool in an IPv6 domain.  It defines an Extension Header Option to encode Alternate-Marking information in both the Hop-by-Hop Options Header and Destination Options Header. ",
+    "authors": [
+        {
+            "author": "Giuseppe Fioccola",
+            "email": "giuseppe.fioccola@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Tianran Zhou",
+            "email": "giuseppe.fioccola@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Mauro Cociglio",
+            "email": "giuseppe.fioccola@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Fengwei Qin",
+            "email": "giuseppe.fioccola@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Ran Pang",
+            "email": "giuseppe.fioccola@huawei.com",
+            "role": null
+        }
+    ]
+}

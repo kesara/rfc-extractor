@@ -1,0 +1,10 @@
+{
+    "abstract": "This document updates RFC 4944 with a protocol that forwards individual fragments across a route-over mesh and recovers them end to end, with congestion control capabilities to protect the network. ",
+    "authors": [
+        {
+            "author": "Pascal Thubert",
+            "email": "pthubert@cisco.com",
+            "role": "editor"
+        }
+    ]
+}

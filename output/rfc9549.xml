@@ -1,0 +1,10 @@
+{
+    "abstract": "The updates to RFC 5280 described in this document provide alignment with the 2008 specification for Internationalized Domain Names (IDNs) and includes support for internationalized email addresses in X.509 certificates.  The updates ensure that name constraints for email addresses that contain only ASCII characters and internationalized email addresses are handled in the same manner.  This document obsoletes RFC 8399. ",
+    "authors": [
+        {
+            "author": "Russ Housley",
+            "email": "housley@vigilsec.com",
+            "role": null
+        }
+    ]
+}

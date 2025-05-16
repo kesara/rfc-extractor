@@ -1,0 +1,25 @@
+{
+    "abstract": "This document specifies how to use the Parallel Network File System (pNFS) Small Computer System Interface (SCSI) Layout Type to access storage devices using the Non-Volatile Memory Express (NVMe) protocol family. ",
+    "authors": [
+        {
+            "author": "Christoph Hellwig",
+            "email": "hch@lst.de",
+            "role": "editor"
+        },
+        {
+            "author": "Charles Lever",
+            "email": "hch@lst.de",
+            "role": null
+        },
+        {
+            "author": "Sorin Faibish",
+            "email": "hch@lst.de",
+            "role": null
+        },
+        {
+            "author": "David L. Black",
+            "email": "hch@lst.de",
+            "role": null
+        }
+    ]
+}

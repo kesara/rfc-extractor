@@ -1,0 +1,25 @@
+{
+    "abstract": "This document describes the Argon2 memory-hard function for password hashing and proof-of-work applications.  We provide an implementer- oriented description with test vectors.  The purpose is to simplify adoption of Argon2 for Internet protocols.  This document is a product of the Crypto Forum Research Group (CFRG) in the IRTF. ",
+    "authors": [
+        {
+            "author": "Alex Biryukov",
+            "email": "alex.biryukov@uni.lu",
+            "role": null
+        },
+        {
+            "author": "Daniel Dinu",
+            "email": "alex.biryukov@uni.lu",
+            "role": null
+        },
+        {
+            "author": "Dmitry Khovratovich",
+            "email": "alex.biryukov@uni.lu",
+            "role": null
+        },
+        {
+            "author": "Simon Josefsson",
+            "email": "alex.biryukov@uni.lu",
+            "role": null
+        }
+    ]
+}

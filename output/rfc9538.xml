@@ -1,0 +1,20 @@
+{
+    "abstract": "This document defines metadata to support delegating the delivery of HTTPS content between two or more interconnected Content Delivery Networks (CDNs).  Specifically, this document defines a Content Delivery Network Interconnection (CDNI) Metadata interface object to enable delegation of X.509 certificates leveraging delegation schemes defined in RFC 9115.  Per RFC 9115, delegating entities can remain in full control of the delegation and can revoke it at any time.  This avoids the need to share private cryptographic key material between the involved entities. ",
+    "authors": [
+        {
+            "author": "Fr\u00e9d\u00e9ric Fieau",
+            "email": "frederic.fieau@orange.com",
+            "role": "editor"
+        },
+        {
+            "author": "Emile Stephan",
+            "email": "frederic.fieau@orange.com",
+            "role": null
+        },
+        {
+            "author": "Sanjay Mishra",
+            "email": "frederic.fieau@orange.com",
+            "role": null
+        }
+    ]
+}

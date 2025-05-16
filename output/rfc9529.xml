@@ -1,0 +1,30 @@
+{
+    "abstract": "This document contains example traces of Ephemeral Diffie-Hellman Over COSE (EDHOC). ",
+    "authors": [
+        {
+            "author": "G\u00f6ran Selander",
+            "email": "goran.selander@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "John Preu\u00df Mattsson",
+            "email": "goran.selander@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Marek Serafin",
+            "email": "goran.selander@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Marco Tiloca",
+            "email": "goran.selander@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Mali\u0161a Vu\u010dini\u0107",
+            "email": "goran.selander@ericsson.com",
+            "role": null
+        }
+    ]
+}

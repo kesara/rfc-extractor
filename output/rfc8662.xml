@@ -1,0 +1,35 @@
+{
+    "abstract": "Segment Routing (SR) leverages the source-routing paradigm.  A node steers a packet through an ordered list of instructions, called segments.  Segment Routing can be applied to the Multiprotocol Label Switching (MPLS) data plane.  Entropy labels (ELs) are used in MPLS to improve load-balancing.  This document examines and describes how ELs are to be applied to Segment Routing MPLS. ",
+    "authors": [
+        {
+            "author": "Sriganesh Kini",
+            "email": "sriganeshkini@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Kireeti Kompella",
+            "email": "sriganeshkini@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Siva Sivabalan",
+            "email": "sriganeshkini@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Stephane Litkowski",
+            "email": "sriganeshkini@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Rob Shakir",
+            "email": "sriganeshkini@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Jeff Tantsura",
+            "email": "sriganeshkini@gmail.com",
+            "role": null
+        }
+    ]
+}

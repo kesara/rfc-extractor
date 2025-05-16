@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes an architecture that exposes transport protocol features to applications for network communication.  The Transport Services Application Programming Interface (API) is based on an asynchronous, event-driven interaction pattern.  This API uses Messages for representing data transfer to applications and describes how a Transport Services Implementation can use multiple IP addresses, multiple protocols, and multiple paths and can provide multiple application streams.  This document provides the architecture and requirements.  It defines common terminology and concepts to be used in definitions of a Transport Services API and a Transport Services Implementation. ",
+    "authors": [
+        {
+            "author": "Tommy Pauly",
+            "email": "tpauly@apple.com",
+            "role": "editor"
+        },
+        {
+            "author": "Brian Trammell",
+            "email": "tpauly@apple.com",
+            "role": "editor"
+        },
+        {
+            "author": "Anna Brunstrom",
+            "email": "tpauly@apple.com",
+            "role": null
+        },
+        {
+            "author": "Godred Fairhurst",
+            "email": "tpauly@apple.com",
+            "role": null
+        },
+        {
+            "author": "Colin S. Perkins",
+            "email": "tpauly@apple.com",
+            "role": null
+        }
+    ]
+}

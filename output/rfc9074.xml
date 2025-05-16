@@ -1,0 +1,15 @@
+{
+    "abstract": "This document defines a set of extensions to the iCalendar \"VALARM\" component to enhance the use of alarms and improve interoperability between clients and servers.  This document updates RFC 5545. ",
+    "authors": [
+        {
+            "author": "Cyrus Daboo",
+            "email": "cyrus@daboo.name",
+            "role": null
+        },
+        {
+            "author": "Kenneth Murchison",
+            "email": "cyrus@daboo.name",
+            "role": "editor"
+        }
+    ]
+}

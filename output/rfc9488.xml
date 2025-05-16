@@ -1,0 +1,25 @@
+{
+    "abstract": "This document updates RFC 5440 to clarify usage of the Local Protection Desired bit signaled in the Path Computation Element Communication Protocol (PCEP).  This document also introduces a new flag for signaling protection enforcement in PCEP. ",
+    "authors": [
+        {
+            "author": "Andrew Stone",
+            "email": "andrew.stone@nokia.com",
+            "role": null
+        },
+        {
+            "author": "Mustapha Aissaoui",
+            "email": "andrew.stone@nokia.com",
+            "role": null
+        },
+        {
+            "author": "Samuel Sidor",
+            "email": "andrew.stone@nokia.com",
+            "role": null
+        },
+        {
+            "author": "Siva Sivabalan",
+            "email": "andrew.stone@nokia.com",
+            "role": null
+        }
+    ]
+}

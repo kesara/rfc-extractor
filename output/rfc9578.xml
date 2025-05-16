@@ -1,0 +1,25 @@
+{
+    "abstract": "This document specifies two variants of the two-message issuance protocol for Privacy Pass tokens: one that produces tokens that are privately verifiable using the Issuer Private Key and one that produces tokens that are publicly verifiable using the Issuer Public Key. \u00a0Instances of \"issuance protocol\" and \"issuance protocols\" in the text of this document are used interchangeably to refer to the two variants of the Privacy Pass issuance protocol. ",
+    "authors": [
+        {
+            "author": "Sof\u00eda Celi",
+            "email": "cherenkov@riseup.net",
+            "role": null
+        },
+        {
+            "author": "Alex Davidson",
+            "email": "cherenkov@riseup.net",
+            "role": null
+        },
+        {
+            "author": "Steven Valdez",
+            "email": "cherenkov@riseup.net",
+            "role": null
+        },
+        {
+            "author": "Christopher A. Wood",
+            "email": "cherenkov@riseup.net",
+            "role": null
+        }
+    ]
+}

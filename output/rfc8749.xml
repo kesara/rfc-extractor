@@ -1,0 +1,15 @@
+{
+    "abstract": "This document retires DNSSEC Lookaside Validation (DLV) and reclassifies RFCs 4431 and 5074 as Historic.  Furthermore, this document updates RFC 6698 by excluding the DLV resource record from certificates and updates RFC 6840 by excluding the DLV registries from the trust anchor selection. ",
+    "authors": [
+        {
+            "author": "W. (Matthijs) Mekking",
+            "email": "matthijs@isc.org",
+            "role": null
+        },
+        {
+            "author": "Dan Mahoney",
+            "email": "matthijs@isc.org",
+            "role": null
+        }
+    ]
+}

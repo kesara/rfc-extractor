@@ -1,0 +1,30 @@
+{
+    "abstract": "This document defines a YANG data model for Layer 2 network topologies.  In particular, this data model augments the generic network and network topology data models with topology attributes that are specific to Layer 2. ",
+    "authors": [
+        {
+            "author": "Jie Dong",
+            "email": "jie.dong@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Xiugang Wei",
+            "email": "jie.dong@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Qin Wu",
+            "email": "jie.dong@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Mohamed Boucadair",
+            "email": "jie.dong@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Anders Liu",
+            "email": "jie.dong@huawei.com",
+            "role": null
+        }
+    ]
+}

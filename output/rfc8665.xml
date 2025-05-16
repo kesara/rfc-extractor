@@ -1,0 +1,40 @@
+{
+    "abstract": "Segment Routing (SR) allows a flexible definition of end-to-end paths within IGP topologies by encoding paths as sequences of topological subpaths called \"segments\".  These segments are advertised by the link-state routing protocols (IS-IS and OSPF).  This document describes the OSPFv2 extensions required for Segment Routing. ",
+    "authors": [
+        {
+            "author": "Peter Psenak",
+            "email": "ppsenak@cisco.com",
+            "role": "editor"
+        },
+        {
+            "author": "Stefano Previdi",
+            "email": "ppsenak@cisco.com",
+            "role": "editor"
+        },
+        {
+            "author": "Clarence Filsfils",
+            "email": "ppsenak@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Hannes Gredler",
+            "email": "ppsenak@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Rob Shakir",
+            "email": "ppsenak@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Wim Henderickx",
+            "email": "ppsenak@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Jeff Tantsura",
+            "email": "ppsenak@cisco.com",
+            "role": null
+        }
+    ]
+}

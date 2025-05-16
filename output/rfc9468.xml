@@ -1,0 +1,25 @@
+{
+    "abstract": "For operational simplification of \"sessionless\" applications using Bidirectional Forwarding Detection (BFD), in this document, we present procedures for \"unsolicited BFD\" that allow a BFD session to be initiated by only one side and established without explicit per- session configuration or registration by the other side (subject to certain per-interface or global policies).  We also introduce a new YANG module to configure and manage \"unsolicited BFD\".  The YANG module in this document is based on YANG 1.1, as defined in RFC 7950, and conforms to the Network Management Datastore Architecture (NMDA), as described in RFC 8342.  This document augments RFC 9314. ",
+    "authors": [
+        {
+            "author": "Enke Chen",
+            "email": "enchen@paloaltonetworks.com",
+            "role": null
+        },
+        {
+            "author": "Naiming Shen",
+            "email": "enchen@paloaltonetworks.com",
+            "role": null
+        },
+        {
+            "author": "Robert Raszuk",
+            "email": "enchen@paloaltonetworks.com",
+            "role": null
+        },
+        {
+            "author": "Reshad Rahman",
+            "email": "enchen@paloaltonetworks.com",
+            "role": null
+        }
+    ]
+}

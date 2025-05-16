@@ -1,0 +1,15 @@
+{
+    "abstract": "This RFC proposes a framework for detecting sarcasm in AI systems and provides guidelines for using sarcasm without causing offense.  By training AI systems to identify linguistic patterns that indicate sarcasm, we can improve their understanding of human communication. The guidelines offer a lighthearted approach to using sarcasm in a way that is both effective and respectful, without crossing the line into offensive language. ",
+    "authors": [
+        {
+            "author": "ChatGPT",
+            "email": "rlb@ipv.sx",
+            "role": null
+        },
+        {
+            "author": "Richard L. Barnes",
+            "email": "rlb@ipv.sx",
+            "role": "editor"
+        }
+    ]
+}

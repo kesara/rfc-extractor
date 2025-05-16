@@ -1,0 +1,10 @@
+{
+    "abstract": "This document defines a new IMAP untagged response code, \"INPROGRESS\", that provides progress notifications regarding the status of long-running commands. ",
+    "authors": [
+        {
+            "author": "Marco Bettini",
+            "email": "marco.bettini@open-xchange.com",
+            "role": null
+        }
+    ]
+}

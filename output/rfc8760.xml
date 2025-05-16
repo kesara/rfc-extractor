@@ -1,0 +1,10 @@
+{
+    "abstract": "This document updates RFC 3261 by modifying the Digest Access Authentication scheme used by the Session Initiation Protocol (SIP) to add support for more secure digest algorithms, e.g., SHA-256 and SHA-512/256, to replace the obsolete MD5 algorithm. ",
+    "authors": [
+        {
+            "author": "Rifaat Shekh-Yusef",
+            "email": "rifaat.ietf@gmail.com",
+            "role": null
+        }
+    ]
+}

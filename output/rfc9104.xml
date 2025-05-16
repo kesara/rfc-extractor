@@ -1,0 +1,25 @@
+{
+    "abstract": "Administrative groups are link attributes used for traffic engineering.  This document defines an extension to the Border Gateway Protocol - Link State (BGP-LS) for advertisement of extended administrative groups (EAGs). ",
+    "authors": [
+        {
+            "author": "Jeff Tantsura",
+            "email": "jefftant.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Zitao Wang",
+            "email": "jefftant.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Qin Wu",
+            "email": "jefftant.ietf@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Ketan Talaulikar",
+            "email": "jefftant.ietf@gmail.com",
+            "role": null
+        }
+    ]
+}

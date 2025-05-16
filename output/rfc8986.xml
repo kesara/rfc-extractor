@@ -1,0 +1,35 @@
+{
+    "abstract": "The Segment Routing over IPv6 (SRv6) Network Programming framework enables a network operator or an application to specify a packet processing program by encoding a sequence of instructions in the IPv6 packet header.  Each instruction is implemented on one or several nodes in the network and identified by an SRv6 Segment Identifier in the packet.  This document defines the SRv6 Network Programming concept and specifies the base set of SRv6 behaviors that enables the creation of interoperable overlays with underlay optimization. ",
+    "authors": [
+        {
+            "author": "Clarence Filsfils",
+            "email": "cf@cisco.com",
+            "role": "editor"
+        },
+        {
+            "author": "Pablo Camarillo Garvia",
+            "email": "cf@cisco.com",
+            "role": "editor"
+        },
+        {
+            "author": "John Leddy",
+            "email": "cf@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Daniel Voyer",
+            "email": "cf@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Satoru Matsushima",
+            "email": "cf@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Zhenbin Li",
+            "email": "cf@cisco.com",
+            "role": null
+        }
+    ]
+}

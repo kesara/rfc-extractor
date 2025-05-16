@@ -1,0 +1,20 @@
+{
+    "abstract": "This document describes a workflow for remote attestation of the integrity of firmware and software installed on network devices that contain Trusted Platform Modules (TPMs), as defined by the Trusted Computing Group (TCG), or equivalent hardware implementations that include the protected capabilities, as provided by TPMs. ",
+    "authors": [
+        {
+            "author": "Guy C. Fedorkow",
+            "email": "gfedorkow@juniper.net",
+            "role": "editor"
+        },
+        {
+            "author": "Eric Voit",
+            "email": "gfedorkow@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Jessica Fitzgerald-McKay",
+            "email": "gfedorkow@juniper.net",
+            "role": null
+        }
+    ]
+}

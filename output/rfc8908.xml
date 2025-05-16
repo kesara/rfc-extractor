@@ -1,0 +1,15 @@
+{
+    "abstract": "This document describes an HTTP API that allows clients to interact with a Captive Portal system.  With this API, clients can discover how to get out of captivity and fetch state about their Captive Portal sessions. ",
+    "authors": [
+        {
+            "author": "Tommy Pauly",
+            "email": "tpauly@apple.com",
+            "role": "editor"
+        },
+        {
+            "author": "Darshak Thakore",
+            "email": "tpauly@apple.com",
+            "role": "editor"
+        }
+    ]
+}

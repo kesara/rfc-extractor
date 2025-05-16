@@ -1,0 +1,30 @@
+{
+    "abstract": "This document describes the flow and service information model for Deterministic Networking (DetNet).  These models are defined for IP and MPLS DetNet data planes. ",
+    "authors": [
+        {
+            "author": "Bal\u00e1zs Varga",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "J\u00e1nos Farkas",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Rodney Cummings",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Yuanlong Jiang",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        },
+        {
+            "author": "Don Fedyk",
+            "email": "balazs.a.varga@ericsson.com",
+            "role": null
+        }
+    ]
+}

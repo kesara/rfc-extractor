@@ -1,0 +1,20 @@
+{
+    "abstract": "This document discusses an IPv6 deployment scenario when individual nodes connected to large broadcast networks (such as enterprise networks or public Wi-Fi networks) are allocated unique prefixes via DHCPv6 Prefix Delegation (DHCPv6-PD), as specified in RFC 8415. ",
+    "authors": [
+        {
+            "author": "Lorenzo Colitti",
+            "email": "lorenzo@google.com",
+            "role": null
+        },
+        {
+            "author": "Jen Linkova",
+            "email": "lorenzo@google.com",
+            "role": "editor"
+        },
+        {
+            "author": "Xiao Ma",
+            "email": "lorenzo@google.com",
+            "role": "editor"
+        }
+    ]
+}

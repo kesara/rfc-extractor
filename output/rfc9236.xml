@@ -1,0 +1,20 @@
+{
+    "abstract": "This document describes architectural considerations and implications related to the use of a Name Resolution Service (NRS) in Information- Centric Networking (ICN).  It explains how the ICN architecture can change when an NRS is utilized and how its use influences the ICN routing system.  This document is a product of the Information- Centric Networking Research Group (ICNRG). ",
+    "authors": [
+        {
+            "author": "Jungha Hong",
+            "email": "jhong@etri.re.kr",
+            "role": null
+        },
+        {
+            "author": "Tae-Wan You",
+            "email": "jhong@etri.re.kr",
+            "role": null
+        },
+        {
+            "author": "Ved Kafle",
+            "email": "jhong@etri.re.kr",
+            "role": null
+        }
+    ]
+}

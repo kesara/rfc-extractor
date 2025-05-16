@@ -1,0 +1,10 @@
+{
+    "abstract": "In RFC 9280, responsibility for the RFC Series moved to the RFC Series Working Group and the RFC Series Approval Board.  It is no longer the responsibility of the RFC Editor, and the role of the IAB in the RFC Series is altered.  Accordingly, in Section\u00a02.1 of RFC 2026, the sentence \"RFC publication is the direct responsibility of the RFC Editor, under the general direction of the IAB\" is deleted. ",
+    "authors": [
+        {
+            "author": "Brian Rosen",
+            "email": "br@brianrosen.net",
+            "role": null
+        }
+    ]
+}

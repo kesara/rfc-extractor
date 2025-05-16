@@ -1,0 +1,20 @@
+{
+    "abstract": "This document specifies the Privacy Pass architecture and requirements for its constituent protocols used for authorization based on privacy-preserving authentication mechanisms.  It describes the conceptual model of Privacy Pass and its protocols, its security and privacy goals, practical deployment models, and recommendations for each deployment model, to help ensure that the desired security and privacy goals are fulfilled. ",
+    "authors": [
+        {
+            "author": "Alex Davidson",
+            "email": "alex.davidson92@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Jana Iyengar",
+            "email": "alex.davidson92@gmail.com",
+            "role": null
+        },
+        {
+            "author": "Christopher A. Wood",
+            "email": "alex.davidson92@gmail.com",
+            "role": null
+        }
+    ]
+}

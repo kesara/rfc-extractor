@@ -1,0 +1,25 @@
+{
+    "abstract": "This document defines a new pre-authentication mechanism for the Kerberos protocol.  The mechanism uses a password-authenticated key exchange (PAKE) to prevent brute-force password attacks, and it may incorporate a second factor. ",
+    "authors": [
+        {
+            "author": "Nathaniel McCallum",
+            "email": "nathaniel@mccallum.life",
+            "role": null
+        },
+        {
+            "author": "Simo Sorce",
+            "email": "nathaniel@mccallum.life",
+            "role": null
+        },
+        {
+            "author": "Robbie Harwood",
+            "email": "nathaniel@mccallum.life",
+            "role": null
+        },
+        {
+            "author": "Greg Hudson",
+            "email": "nathaniel@mccallum.life",
+            "role": null
+        }
+    ]
+}

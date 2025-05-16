@@ -1,0 +1,40 @@
+{
+    "abstract": "This document describes a method for automatic DNS zone provisioning among DNS primary and secondary name servers by storing and transferring the catalog of zones to be provisioned as one or more regular DNS zones. ",
+    "authors": [
+        {
+            "author": "Peter van Dijk",
+            "email": "peter.van.dijk@powerdns.com",
+            "role": null
+        },
+        {
+            "author": "Libor Peltan",
+            "email": "peter.van.dijk@powerdns.com",
+            "role": null
+        },
+        {
+            "author": "Ondrej Sury",
+            "email": "peter.van.dijk@powerdns.com",
+            "role": null
+        },
+        {
+            "author": "Willem Toorop",
+            "email": "peter.van.dijk@powerdns.com",
+            "role": null
+        },
+        {
+            "author": "Kees Monshouwer",
+            "email": "peter.van.dijk@powerdns.com",
+            "role": null
+        },
+        {
+            "author": "Peter Thomassen",
+            "email": "peter.van.dijk@powerdns.com",
+            "role": null
+        },
+        {
+            "author": "Aram Sargsyan",
+            "email": "peter.van.dijk@powerdns.com",
+            "role": null
+        }
+    ]
+}

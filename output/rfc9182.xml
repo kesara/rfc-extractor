@@ -1,0 +1,30 @@
+{
+    "abstract": "As a complement to the Layer 3 Virtual Private Network Service Model (L3SM), which is used for communication between customers and service providers, this document defines an L3VPN Network Model (L3NM) that can be used for the provisioning of Layer 3 Virtual Private Network (L3VPN) services within a service provider network.  The model provides a network-centric view of L3VPN services.  The L3NM is meant to be used by a network controller to derive the configuration information that will be sent to relevant network devices.  The model can also facilitate communication between a service orchestrator and a network controller/orchestrator. ",
+    "authors": [
+        {
+            "author": "Samier Barguil",
+            "email": "samier.barguilgiraldo.ext@telefonica.com",
+            "role": null
+        },
+        {
+            "author": "Oscar Gonzalez de Dios",
+            "email": "samier.barguilgiraldo.ext@telefonica.com",
+            "role": "editor"
+        },
+        {
+            "author": "Mohamed Boucadair",
+            "email": "samier.barguilgiraldo.ext@telefonica.com",
+            "role": "editor"
+        },
+        {
+            "author": "Luis Angel Munoz",
+            "email": "samier.barguilgiraldo.ext@telefonica.com",
+            "role": null
+        },
+        {
+            "author": "Alejandro Aguado",
+            "email": "samier.barguilgiraldo.ext@telefonica.com",
+            "role": null
+        }
+    ]
+}

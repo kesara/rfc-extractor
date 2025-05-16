@@ -1,0 +1,15 @@
+{
+    "abstract": "This document specifies a Neighbor Discovery option to be used in Router Advertisements (RAs) to communicate prefixes of Network Address and Protocol Translation from IPv6 clients to IPv4 servers (NAT64) to hosts. ",
+    "authors": [
+        {
+            "author": "Lorenzo Colitti",
+            "email": "lorenzo@google.com",
+            "role": null
+        },
+        {
+            "author": "Jen Linkova",
+            "email": "lorenzo@google.com",
+            "role": null
+        }
+    ]
+}

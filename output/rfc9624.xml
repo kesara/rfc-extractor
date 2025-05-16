@@ -1,0 +1,25 @@
+{
+    "abstract": "This document specifies protocols and procedures for forwarding Broadcast, Unknown Unicast, or Multicast (BUM) traffic of Ethernet VPNs (EVPNs) using Bit Index Explicit Replication (BIER). ",
+    "authors": [
+        {
+            "author": "Zhaohui Zhang",
+            "email": "zzhang@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Tony Przygienda",
+            "email": "zzhang@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Ali Sajassi",
+            "email": "zzhang@juniper.net",
+            "role": null
+        },
+        {
+            "author": "Jorge Rabadan",
+            "email": "zzhang@juniper.net",
+            "role": null
+        }
+    ]
+}

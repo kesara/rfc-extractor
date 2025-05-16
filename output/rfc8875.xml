@@ -1,0 +1,15 @@
+{
+    "abstract": "The use of GitHub in IETF working group processes is increasing. This document describes uses and conventions for working groups that are considering starting to use GitHub.  It does not mandate any processes and does not require changes to the processes used by current and future working groups not using GitHub. ",
+    "authors": [
+        {
+            "author": "Alissa Cooper",
+            "email": "alcoop@cisco.com",
+            "role": null
+        },
+        {
+            "author": "Paul Hoffman",
+            "email": "alcoop@cisco.com",
+            "role": null
+        }
+    ]
+}

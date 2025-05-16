@@ -1,0 +1,30 @@
+{
+    "abstract": "The data model for network topologies defined in RFC 8345 introduces vertical layering relationships between networks that can be augmented to cover network and service topologies.  This document defines a YANG module for performance monitoring (PM) of both underlay networks and overlay VPN services that can be used to monitor and manage network performance on the topology of both layers. ",
+    "authors": [
+        {
+            "author": "Bo Wu",
+            "email": "lana.wubo@huawei.com",
+            "role": "editor"
+        },
+        {
+            "author": "Qin Wu",
+            "email": "lana.wubo@huawei.com",
+            "role": "editor"
+        },
+        {
+            "author": "Mohamed Boucadair",
+            "email": "lana.wubo@huawei.com",
+            "role": "editor"
+        },
+        {
+            "author": "Oscar Gonzalez de Dios",
+            "email": "lana.wubo@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Bin Wen",
+            "email": "lana.wubo@huawei.com",
+            "role": null
+        }
+    ]
+}

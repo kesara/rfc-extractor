@@ -1,0 +1,15 @@
+{
+    "abstract": "This document introduces the YANG module \"iana-dns-class-rr-type\", which contains derived types reflecting two IANA registries: DNS CLASSes and Resource Record (RR) TYPEs.  These YANG types are intended as the minimum basis for future data modeling work. ",
+    "authors": [
+        {
+            "author": "Ladislav Lhotka",
+            "email": "ladislav.lhotka@nic.cz",
+            "role": null
+        },
+        {
+            "author": "Petr \u0160pa\u010dek",
+            "email": "ladislav.lhotka@nic.cz",
+            "role": null
+        }
+    ]
+}

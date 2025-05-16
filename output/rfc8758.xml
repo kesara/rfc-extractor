@@ -1,0 +1,10 @@
+{
+    "abstract": "This document deprecates RC4 in Secure Shell (SSH).  Therefore, this document formally moves RFC 4345 to Historic status. ",
+    "authors": [
+        {
+            "author": "Loganaden Velvindron",
+            "email": "logan@cyberstorm.mu",
+            "role": null
+        }
+    ]
+}

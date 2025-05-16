@@ -1,0 +1,15 @@
+{
+    "abstract": "This document details considerations about how Internet of Things (IoT) devices use IP addresses and DNS names.  These concerns become acute as network operators begin deploying Manufacturer Usage Descriptions (MUD), as specified in RFC 8520, to control device access.  Also, this document makes recommendations on when and how to use DNS names in MUD files. ",
+    "authors": [
+        {
+            "author": "Michael Richardson",
+            "email": "mcr+ietf@sandelman.ca",
+            "role": null
+        },
+        {
+            "author": "Wei Pan",
+            "email": "mcr+ietf@sandelman.ca",
+            "role": null
+        }
+    ]
+}

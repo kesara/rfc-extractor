@@ -1,0 +1,25 @@
+{
+    "abstract": "The Alternate-Marking method, as presented in RFC 8321, can only be applied to point-to-point flows, because it assumes that all the packets of the flow measured on one node are measured again by a single second node.  This document generalizes and expands this methodology to measure any kind of unicast flow whose packets can follow several different paths in the network -- in wider terms, a multipoint-to-multipoint network.  For this reason, the technique here described is called \"Multipoint Alternate Marking\". ",
+    "authors": [
+        {
+            "author": "Giuseppe Fioccola",
+            "email": "giuseppe.fioccola@huawei.com",
+            "role": "editor"
+        },
+        {
+            "author": "Mauro Cociglio",
+            "email": "giuseppe.fioccola@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Amedeo Sapio",
+            "email": "giuseppe.fioccola@huawei.com",
+            "role": null
+        },
+        {
+            "author": "Riccardo Sisto",
+            "email": "giuseppe.fioccola@huawei.com",
+            "role": null
+        }
+    ]
+}

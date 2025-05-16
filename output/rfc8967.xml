@@ -1,0 +1,20 @@
+{
+    "abstract": "This document describes a cryptographic authentication mechanism for the Babel routing protocol that has provisions for replay avoidance. This document obsoletes RFC 7298. ",
+    "authors": [
+        {
+            "author": "Clara D\u00f4",
+            "email": "clarado_perso@yahoo.fr",
+            "role": null
+        },
+        {
+            "author": "Weronika Kolodziejak",
+            "email": "clarado_perso@yahoo.fr",
+            "role": null
+        },
+        {
+            "author": "Juliusz Chroboczek",
+            "email": "clarado_perso@yahoo.fr",
+            "role": null
+        }
+    ]
+}

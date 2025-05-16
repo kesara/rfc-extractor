@@ -1,0 +1,30 @@
+{
+    "abstract": "A major issue in multilevel TRILL is how to manage RBridge nicknames. In this document, area border RBridges use a single nickname in both Level 1 and Level 2.  RBridges in Level 2 must obtain unique nicknames but RBridges in different Level 1 areas may have the same nicknames. ",
+    "authors": [
+        {
+            "author": "Mingui Zhang",
+            "email": "zhangmingui@qq.com",
+            "role": null
+        },
+        {
+            "author": "Donald E. Eastlake, 3rd",
+            "email": "zhangmingui@qq.com",
+            "role": null
+        },
+        {
+            "author": "Radia Perlman",
+            "email": "zhangmingui@qq.com",
+            "role": null
+        },
+        {
+            "author": "Margaret Cullen",
+            "email": "zhangmingui@qq.com",
+            "role": null
+        },
+        {
+            "author": "Hongjun Zhai",
+            "email": "zhangmingui@qq.com",
+            "role": null
+        }
+    ]
+}
