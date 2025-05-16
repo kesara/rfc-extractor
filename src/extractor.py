@@ -33,7 +33,11 @@ def main():
             if "(editor)" in author_name:
                 author_name = author_name.replace(" (editor)", "")
                 role = "editor"
-            email = author.xpath("//address/email")[0].text
+            email = None
+            try:
+                email = author.xpath("//address/email")[0].text
+            except IndexError:
+                pass
             authors.append({"author": author_name, "role": role, "email": email})
         extract["authors"] = authors
 

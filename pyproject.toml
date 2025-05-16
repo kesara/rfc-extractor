@@ -1,6 +1,6 @@
 [project]
 name = "extractor"
-version = "0.0.1"
+version = "0.0.2"
 description = "Extract abtract and author information from RFCs and Internet-Drafts (I-Ds)."
 readme = "README.md"
 requires-python = ">=3.9"
