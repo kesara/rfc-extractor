@@ -1,5 +1,5 @@
 {
-    "abstract": "The Network File System v4 (NFSv4) allows a client to both open a file and be granted a delegation of that file.  This delegation provides the client the right to authoritatively cache metadata on the file locally.  This document presents several extensions for both opening the file and delegating it to the client.  This document extends NFSv4.2 (see RFC 7863). ",
+    "abstract": "The Network File System v4 (NFSv4) allows a client to both open a\\nfile and be granted a delegation of that file.  This delegation\\nprovides the client the right to authoritatively cache metadata on\\nthe file locally.  This document presents several extensions for both\\nopening the file and delegating it to the client.  This document\\nextends NFSv4.2 (see RFC 7863).",
     "authors": [
         {
             "author": "Thomas Haynes",

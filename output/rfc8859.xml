@@ -1,5 +1,5 @@
 {
-    "abstract": "The purpose of this specification is to provide a framework for analyzing the multiplexing characteristics of Session Description Protocol (SDP) attributes when SDP is used to negotiate the usage of a single 5-tuple for sending and receiving media associated with multiple media descriptions.  This specification also categorizes the existing SDP attributes based on the framework described herein. ",
+    "abstract": "The purpose of this specification is to provide a framework for\\nanalyzing the multiplexing characteristics of Session Description\\nProtocol (SDP) attributes when SDP is used to negotiate the usage of\\na single 5-tuple for sending and receiving media associated with\\nmultiple media descriptions.\\n\\nThis specification also categorizes the existing SDP attributes based\\non the framework described herein.",
     "authors": [
         {
             "author": "Suhas Nandakumar",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document analyzes the security implications of IPv6 Extension Headers and associated IPv6 options.  Additionally, it discusses the operational and interoperability implications of discarding packets based on the IPv6 Extension Headers and IPv6 options they contain. Finally, it provides advice on the filtering of such IPv6 packets at transit routers for traffic not directed to them, for those cases where such filtering is deemed as necessary. ",
+    "abstract": "This document analyzes the security implications of IPv6 Extension\\nHeaders and associated IPv6 options.  Additionally, it discusses the\\noperational and interoperability implications of discarding packets\\nbased on the IPv6 Extension Headers and IPv6 options they contain.\\nFinally, it provides advice on the filtering of such IPv6 packets at\\ntransit routers for traffic not directed to them, for those cases\\nwhere such filtering is deemed as necessary.",
     "authors": [
         {
             "author": "Fernando Gont",

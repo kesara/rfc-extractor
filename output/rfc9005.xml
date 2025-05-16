@@ -1,5 +1,5 @@
 {
-    "abstract": "This document introduces a simple mechanism to associate policies with a group of Label Switched Paths (LSPs) via an extension to the Path Computation Element Communication Protocol (PCEP).  The extension allows a PCEP speaker to advertise to a PCEP peer that a particular LSP belongs to a particular Policy Association Group (PAG). ",
+    "abstract": "This document introduces a simple mechanism to associate policies\\nwith a group of Label Switched Paths (LSPs) via an extension to the\\nPath Computation Element Communication Protocol (PCEP).  The\\nextension allows a PCEP speaker to advertise to a PCEP peer that a\\nparticular LSP belongs to a particular Policy Association Group\\n(PAG).",
     "authors": [
         {
             "author": "Stephane Litkowski",

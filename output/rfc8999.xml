@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines the properties of the QUIC transport protocol that are common to all versions of the protocol. ",
+    "abstract": "This document defines the properties of the QUIC transport protocol\\nthat are common to all versions of the protocol.",
     "authors": [
         {
             "author": "Martin Thomson",

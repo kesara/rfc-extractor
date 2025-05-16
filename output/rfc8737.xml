@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies a new challenge for the Automated Certificate Management Environment (ACME) protocol that allows for domain control validation using TLS. ",
+    "abstract": "This document specifies a new challenge for the Automated Certificate\\nManagement Environment (ACME) protocol that allows for domain control\\nvalidation using TLS.",
     "authors": [
         {
             "author": "Roland Bracewell Shoemaker",

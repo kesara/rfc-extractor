@@ -1,5 +1,5 @@
 {
-    "abstract": "Information about which entities are authorized to perform what operations on which constituents of other entities is a crucial component of producing an overall system that is secure.  Conveying precise authorization information is especially critical in highly automated systems with large numbers of entities, such as the Internet of Things.  This specification provides a generic information model and format for representing such authorization information, as well as two variants of a specific instantiation of that format for use with Representational State Transfer (REST) resources identified by URI path. ",
+    "abstract": "Information about which entities are authorized to perform what\\noperations on which constituents of other entities is a crucial\\ncomponent of producing an overall system that is secure.  Conveying\\nprecise authorization information is especially critical in highly\\nautomated systems with large numbers of entities, such as the\\nInternet of Things.\\n\\nThis specification provides a generic information model and format\\nfor representing such authorization information, as well as two\\nvariants of a specific instantiation of that format for use with\\nRepresentational State Transfer (REST) resources identified by URI\\npath.",
     "authors": [
         {
             "author": "Carsten Bormann",

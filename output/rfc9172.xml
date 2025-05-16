@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a security protocol providing data integrity and confidentiality services for the Bundle Protocol (BP). ",
+    "abstract": "This document defines a security protocol providing data integrity\\nand confidentiality services for the Bundle Protocol (BP).",
     "authors": [
         {
             "author": "Edward J. Birrane, III",

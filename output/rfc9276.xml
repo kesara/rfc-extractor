@@ -1,5 +1,5 @@
 {
-    "abstract": "NSEC3 is a DNSSEC mechanism providing proof of nonexistence by asserting that there are no names that exist between two domain names within a zone.  Unlike its counterpart NSEC, NSEC3 avoids directly disclosing the bounding domain name pairs.  This document provides guidance on setting NSEC3 parameters based on recent operational deployment experience.  This document updates RFC 5155 with guidance about selecting NSEC3 iteration and salt parameters. ",
+    "abstract": "NSEC3 is a DNSSEC mechanism providing proof of nonexistence by\\nasserting that there are no names that exist between two domain names\\nwithin a zone.  Unlike its counterpart NSEC, NSEC3 avoids directly\\ndisclosing the bounding domain name pairs.  This document provides\\nguidance on setting NSEC3 parameters based on recent operational\\ndeployment experience.  This document updates RFC 5155 with guidance\\nabout selecting NSEC3 iteration and salt parameters.",
     "authors": [
         {
             "author": "Wes Hardaker",

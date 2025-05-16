@@ -1,5 +1,5 @@
 {
-    "abstract": "This document presents the design of an Information-Centric Networking (ICN) Ping protocol.  It includes the operations of both the client and the forwarder.  This document is a product of the Information-Centric Networking Research Group (ICNRG) of the IRTF. ",
+    "abstract": "This document presents the design of an Information-Centric\\nNetworking (ICN) Ping protocol.  It includes the operations of both\\nthe client and the forwarder.\\n\\nThis document is a product of the Information-Centric Networking\\nResearch Group (ICNRG) of the IRTF.",
     "authors": [
         {
             "author": "Spyridon Mastorakis",

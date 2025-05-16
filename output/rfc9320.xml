@@ -1,5 +1,5 @@
 {
-    "abstract": "This document presents a timing model for sources, destinations, and Deterministic Networking (DetNet) transit nodes.  Using the model, it provides a methodology to compute end-to-end latency and backlog bounds for various queuing methods.  The methodology can be used by the management and control planes and by resource reservation algorithms to provide bounded latency and zero congestion loss for the DetNet service. ",
+    "abstract": "This document presents a timing model for sources, destinations, and\\nDeterministic Networking (DetNet) transit nodes.  Using the model, it\\nprovides a methodology to compute end-to-end latency and backlog\\nbounds for various queuing methods.  The methodology can be used by\\nthe management and control planes and by resource reservation\\nalgorithms to provide bounded latency and zero congestion loss for\\nthe DetNet service.",
     "authors": [
         {
             "author": "Norman Finn",

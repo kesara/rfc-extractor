@@ -1,5 +1,5 @@
 {
-    "abstract": "The Sensor Measurement Lists (SenML) media type and data model can be used to send collections of resources, such as batches of sensor data or configuration parameters.  The Constrained Application Protocol (CoAP) FETCH, PATCH, and iPATCH methods enable accessing and updating parts of a resource or multiple resources with one request.  This document defines new media types for the CoAP FETCH, PATCH, and iPATCH methods for resources represented using the SenML data model. ",
+    "abstract": "The Sensor Measurement Lists (SenML) media type and data model can be\\nused to send collections of resources, such as batches of sensor data\\nor configuration parameters.  The Constrained Application Protocol\\n(CoAP) FETCH, PATCH, and iPATCH methods enable accessing and updating\\nparts of a resource or multiple resources with one request.  This\\ndocument defines new media types for the CoAP FETCH, PATCH, and\\niPATCH methods for resources represented using the SenML data model.",
     "authors": [
         {
             "author": "Ari Ker\u00e4nen",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies two Application-Layer Protocol Negotiation (ALPN) labels for use with Web Real-Time Communication (WebRTC).  The \"webrtc\" label identifies regular WebRTC: a DTLS session that is used to establish keys for the Secure Real-time Transport Protocol (SRTP) or to establish data channels using the Stream Control Transmission Protocol (SCTP) over DTLS.  The \"c-webrtc\" label describes the same protocol, but the peers also agree to maintain the confidentiality of the media by not sharing it with other applications. ",
+    "abstract": "This document specifies two Application-Layer Protocol Negotiation\\n(ALPN) labels for use with Web Real-Time Communication (WebRTC).  The\\n\"webrtc\" label identifies regular WebRTC: a DTLS session that is used\\nto establish keys for the Secure Real-time Transport Protocol (SRTP)\\nor to establish data channels using the Stream Control Transmission\\nProtocol (SCTP) over DTLS.  The \"c-webrtc\" label describes the same\\nprotocol, but the peers also agree to maintain the confidentiality of\\nthe media by not sharing it with other applications.",
     "authors": [
         {
             "author": "Martin Thomson",

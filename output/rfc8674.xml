@@ -1,5 +1,5 @@
 {
-    "abstract": "This specification defines a preference for HTTP requests that expresses a desire to avoid objectionable content, according to the definition of that term by the origin server.  This specification does not define a precise semantic for \"safe\". Rather, the term is interpreted by the server and within the scope of each web site that chooses to act upon this information.  Support for this preference by clients and servers is optional. ",
+    "abstract": "This specification defines a preference for HTTP requests that\\nexpresses a desire to avoid objectionable content, according to the\\ndefinition of that term by the origin server.\\n\\nThis specification does not define a precise semantic for \"safe\".\\nRather, the term is interpreted by the server and within the scope of\\neach web site that chooses to act upon this information.\\n\\nSupport for this preference by clients and servers is optional.",
     "authors": [
         {
             "author": "Mark Nottingham",

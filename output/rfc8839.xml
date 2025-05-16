@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes Session Description Protocol (SDP) Offer/ Answer procedures for carrying out Interactive Connectivity Establishment (ICE) between the agents.  This document obsoletes RFCs 5245 and 6336. ",
+    "abstract": "This document describes Session Description Protocol (SDP) Offer/\\nAnswer procedures for carrying out Interactive Connectivity\\nEstablishment (ICE) between the agents.\\n\\nThis document obsoletes RFCs 5245 and 6336.",
     "authors": [
         {
             "author": "Marc Petit-Huguenin",

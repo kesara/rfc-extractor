@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a stored (\"file\") format for Concise Binary Object Representation (CBOR) data items that is friendly to common systems that recognize file types, such as the Unix file(1) command. ",
+    "abstract": "This document defines a stored (\"file\") format for Concise Binary\\nObject Representation (CBOR) data items that is friendly to common\\nsystems that recognize file types, such as the Unix file(1) command.",
     "authors": [
         {
             "author": "Michael Richardson",

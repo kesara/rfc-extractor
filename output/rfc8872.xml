@@ -1,5 +1,5 @@
 {
-    "abstract": "The Real-time Transport Protocol (RTP) is a flexible protocol that can be used in a wide range of applications, networks, and system topologies.  That flexibility makes for wide applicability but can complicate the application design process.  One particular design question that has received much attention is how to support multiple media streams in RTP.  This memo discusses the available options and design trade-offs, and provides guidelines on how to use the multiplexing features of RTP to support multiple media streams. ",
+    "abstract": "The Real-time Transport Protocol (RTP) is a flexible protocol that\\ncan be used in a wide range of applications, networks, and system\\ntopologies.  That flexibility makes for wide applicability but can\\ncomplicate the application design process.  One particular design\\nquestion that has received much attention is how to support multiple\\nmedia streams in RTP.  This memo discusses the available options and\\ndesign trade-offs, and provides guidelines on how to use the\\nmultiplexing features of RTP to support multiple media streams.",
     "authors": [
         {
             "author": "Magnus Westerlund",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a YANG data model for Layer 2 network topologies.  In particular, this data model augments the generic network and network topology data models with topology attributes that are specific to Layer 2. ",
+    "abstract": "This document defines a YANG data model for Layer 2 network\\ntopologies.  In particular, this data model augments the generic\\nnetwork and network topology data models with topology attributes\\nthat are specific to Layer 2.",
     "authors": [
         {
             "author": "Jie Dong",

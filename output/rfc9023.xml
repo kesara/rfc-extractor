@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the Deterministic Networking IP data plane when operating over a Time-Sensitive Networking (TSN) sub-network. This document does not define new procedures or processes.  Whenever this document makes statements or recommendations, these are taken from normative text in the referenced RFCs. ",
+    "abstract": "This document specifies the Deterministic Networking IP data plane\\nwhen operating over a Time-Sensitive Networking (TSN) sub-network.\\nThis document does not define new procedures or processes.  Whenever\\nthis document makes statements or recommendations, these are taken\\nfrom normative text in the referenced RFCs.",
     "authors": [
         {
             "author": "Bal\u00e1zs Varga",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document discourages the practice of introducing software defects in general and in network protocol implementations specifically.  Software defects are one of the largest cost drivers for the networking industry.  This document is intended to clarify the best current practice in this regard. ",
+    "abstract": "This document discourages the practice of introducing software\\ndefects in general and in network protocol implementations\\nspecifically.  Software defects are one of the largest cost drivers\\nfor the networking industry.  This document is intended to clarify\\nthe best current practice in this regard.",
     "authors": [
         {
             "author": "Job Snijders",

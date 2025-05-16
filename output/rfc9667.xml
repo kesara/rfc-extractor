@@ -1,5 +1,5 @@
 {
-    "abstract": "Routing with link-state protocols in dense network topologies can result in suboptimal convergence times due to the overhead associated with flooding.  This can be addressed by decreasing the flooding topology so that it is less dense.  This document discusses the problem in some depth and an architectural solution.  Specific protocol changes for IS-IS, OSPFv2, and OSPFv3 are described in this document. ",
+    "abstract": "Routing with link-state protocols in dense network topologies can\\nresult in suboptimal convergence times due to the overhead associated\\nwith flooding.  This can be addressed by decreasing the flooding\\ntopology so that it is less dense.\\n\\nThis document discusses the problem in some depth and an\\narchitectural solution.  Specific protocol changes for IS-IS, OSPFv2,\\nand OSPFv3 are described in this document.",
     "authors": [
         {
             "author": "Tony Li",

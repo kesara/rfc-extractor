@@ -1,5 +1,5 @@
 {
-    "abstract": "The IETF Anti-Harassment Procedures are described in RFC 7776.  The IETF Administrative Oversight Committee (IAOC) has been replaced by the IETF Administration LLC, and the IETF Administrative Director has been replaced by the IETF LLC Executive Director.  This document updates RFC 7776 to amend these terms.  RFC 7776 contained updates to RFC 7437.  RFC 8713 has incorporated those updates, so this document also updates RFC 7776 to remove those updates. ",
+    "abstract": "The IETF Anti-Harassment Procedures are described in RFC 7776.\\n\\nThe IETF Administrative Oversight Committee (IAOC) has been replaced\\nby the IETF Administration LLC, and the IETF Administrative Director\\nhas been replaced by the IETF LLC Executive Director.  This document\\nupdates RFC 7776 to amend these terms.\\n\\nRFC 7776 contained updates to RFC 7437.  RFC 8713 has incorporated\\nthose updates, so this document also updates RFC 7776 to remove those\\nupdates.",
     "authors": [
         {
             "author": "Pete Resnick",

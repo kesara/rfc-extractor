@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes the architecture of the Locator/ID Separation Protocol (LISP), making it easier to read the rest of the LISP specifications and providing a basis for discussion about the details of the LISP protocols.  This document is used for introductory purposes; more details can be found in the protocol specifications, RFCs 9300 and 9301. ",
+    "abstract": "This document describes the architecture of the Locator/ID Separation\\nProtocol (LISP), making it easier to read the rest of the LISP\\nspecifications and providing a basis for discussion about the details\\nof the LISP protocols.  This document is used for introductory\\npurposes; more details can be found in the protocol specifications,\\nRFCs 9300 and 9301.",
     "authors": [
         {
             "author": "Albert Cabellos",

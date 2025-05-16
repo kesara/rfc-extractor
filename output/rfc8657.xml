@@ -1,5 +1,5 @@
 {
-    "abstract": "The Certification Authority Authorization (CAA) DNS record allows a domain to communicate an issuance policy to Certification Authorities (CAs) but only allows a domain to define a policy with CA-level granularity.  However, the CAA specification (RFC 8659) also provides facilities for an extension to admit a more granular, CA-specific policy.  This specification defines two such parameters: one allowing specific accounts of a CA to be identified by URIs and one allowing specific methods of domain control validation as defined by the Automatic Certificate Management Environment (ACME) protocol to be required. ",
+    "abstract": "The Certification Authority Authorization (CAA) DNS record allows a\\ndomain to communicate an issuance policy to Certification Authorities\\n(CAs) but only allows a domain to define a policy with CA-level\\ngranularity.  However, the CAA specification (RFC 8659) also provides\\nfacilities for an extension to admit a more granular, CA-specific\\npolicy.  This specification defines two such parameters: one allowing\\nspecific accounts of a CA to be identified by URIs and one allowing\\nspecific methods of domain control validation as defined by the\\nAutomatic Certificate Management Environment (ACME) protocol to be\\nrequired.",
     "authors": [
         {
             "author": "Hugo Landau",

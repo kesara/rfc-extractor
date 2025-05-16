@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines procedures and messages for SRv6-based BGP services, including Layer 3 Virtual Private Network (L3VPN), Ethernet VPN (EVPN), and Internet services.  It builds on \"BGP/MPLS IP Virtual Private Networks (VPNs)\" (RFC 4364) and \"BGP MPLS-Based Ethernet VPN\" (RFC 7432). ",
+    "abstract": "This document defines procedures and messages for SRv6-based BGP\\nservices, including Layer 3 Virtual Private Network (L3VPN), Ethernet\\nVPN (EVPN), and Internet services.  It builds on \"BGP/MPLS IP Virtual\\nPrivate Networks (VPNs)\" (RFC 4364) and \"BGP MPLS-Based Ethernet VPN\"\\n(RFC 7432).",
     "authors": [
         {
             "author": "Gaurav Dawra",

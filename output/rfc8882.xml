@@ -1,5 +1,5 @@
 {
-    "abstract": "DNS-SD (DNS-based Service Discovery) normally discloses information about devices offering and requesting services.  This information includes hostnames, network parameters, and possibly a further description of the corresponding service instance.  Especially when mobile devices engage in DNS-based Service Discovery at a public hotspot, serious privacy problems arise.  We analyze the requirements of a privacy-respecting discovery service. ",
+    "abstract": "DNS-SD (DNS-based Service Discovery) normally discloses information\\nabout devices offering and requesting services.  This information\\nincludes hostnames, network parameters, and possibly a further\\ndescription of the corresponding service instance.  Especially when\\nmobile devices engage in DNS-based Service Discovery at a public\\nhotspot, serious privacy problems arise.  We analyze the requirements\\nof a privacy-respecting discovery service.",
     "authors": [
         {
             "author": "Christian Huitema",

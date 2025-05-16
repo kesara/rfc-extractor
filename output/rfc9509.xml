@@ -1,5 +1,5 @@
 {
-    "abstract": "RFC 5280 specifies several extended key purpose identifiers (KeyPurposeIds) for X.509 certificates.  This document defines encrypting JSON objects in HTTP messages, using JSON Web Tokens (JWTs), and signing the OAuth 2.0 access tokens KeyPurposeIds for inclusion in the Extended Key Usage (EKU) extension of X.509 v3 public key certificates used by Network Functions (NFs) for the 5G System. ",
+    "abstract": "RFC 5280 specifies several extended key purpose identifiers\\n(KeyPurposeIds) for X.509 certificates.  This document defines\\nencrypting JSON objects in HTTP messages, using JSON Web Tokens\\n(JWTs), and signing the OAuth 2.0 access tokens KeyPurposeIds for\\ninclusion in the Extended Key Usage (EKU) extension of X.509 v3\\npublic key certificates used by Network Functions (NFs) for the 5G\\nSystem.",
     "authors": [
         {
             "author": "Tirumaleswar Reddy.K",

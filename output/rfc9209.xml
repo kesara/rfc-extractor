@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines the Proxy-Status HTTP response field to convey the details of an intermediary's response handling, including generated errors. ",
+    "abstract": "This document defines the Proxy-Status HTTP response field to convey\\nthe details of an intermediary's response handling, including\\ngenerated errors.",
     "authors": [
         {
             "author": "Mark Nottingham",

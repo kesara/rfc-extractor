@@ -1,5 +1,5 @@
 {
-    "abstract": "This specification defines a profile of the Authentication and Authorization for Constrained Environments (ACE) framework that allows constrained servers to delegate client authentication and authorization.  The protocol relies on DTLS version 1.2 or later for communication security between entities in a constrained network using either raw public keys or pre-shared keys.  A resource- constrained server can use this protocol to delegate management of authorization information to a trusted host with less-severe limitations regarding processing power and memory. ",
+    "abstract": "This specification defines a profile of the Authentication and\\nAuthorization for Constrained Environments (ACE) framework that\\nallows constrained servers to delegate client authentication and\\nauthorization.  The protocol relies on DTLS version 1.2 or later for\\ncommunication security between entities in a constrained network\\nusing either raw public keys or pre-shared keys.  A resource-\\nconstrained server can use this protocol to delegate management of\\nauthorization information to a trusted host with less-severe\\nlimitations regarding processing power and memory.",
     "authors": [
         {
             "author": "Stefanie Gerdes",

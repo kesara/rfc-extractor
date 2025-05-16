@@ -1,5 +1,5 @@
 {
-    "abstract": "This document provides methods and settings for using IPv6 to communicate among nodes within range of one another over a single IEEE 802.11-OCB link.  Support for these methods and settings require minimal changes to existing stacks.  This document also describes limitations associated with using these methods.  Optimizations and usage of IPv6 over more complex scenarios are not covered in this specification and are a subject for future work. ",
+    "abstract": "This document provides methods and settings for using IPv6 to\\ncommunicate among nodes within range of one another over a single\\nIEEE 802.11-OCB link.  Support for these methods and settings require\\nminimal changes to existing stacks.  This document also describes\\nlimitations associated with using these methods.  Optimizations and\\nusage of IPv6 over more complex scenarios are not covered in this\\nspecification and are a subject for future work.",
     "authors": [
         {
             "author": "Nabil Benamar",

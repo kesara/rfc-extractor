@@ -1,5 +1,5 @@
 {
-    "abstract": "Encrypted Key Transport (EKT) is an extension to DTLS (Datagram Transport Layer Security) and the Secure Real-time Transport Protocol (SRTP) that provides for the secure transport of SRTP master keys, rollover counters, and other information within SRTP.  This facility enables SRTP for decentralized conferences by distributing a common key to all of the conference endpoints. ",
+    "abstract": "Encrypted Key Transport (EKT) is an extension to DTLS (Datagram\\nTransport Layer Security) and the Secure Real-time Transport Protocol\\n(SRTP) that provides for the secure transport of SRTP master keys,\\nrollover counters, and other information within SRTP.  This facility\\nenables SRTP for decentralized conferences by distributing a common\\nkey to all of the conference endpoints.",
     "authors": [
         {
             "author": "Cullen Jennings",

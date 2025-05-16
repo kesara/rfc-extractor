@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes a YANG data model for the Static Context Header Compression (SCHC) compression and fragmentation Rules.  This document formalizes the description of the Rules for better interoperability between SCHC instances either to exchange a set of Rules or to modify the parameters of some Rules. ",
+    "abstract": "This document describes a YANG data model for the Static Context\\nHeader Compression (SCHC) compression and fragmentation Rules.\\n\\nThis document formalizes the description of the Rules for better\\ninteroperability between SCHC instances either to exchange a set of\\nRules or to modify the parameters of some Rules.",
     "authors": [
         {
             "author": "Ana Minaburo",

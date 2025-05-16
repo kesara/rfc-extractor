@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines the encapsulation for MPLS performance measurement with the Alternate-Marking Method, which performs flow- based packet loss, delay, and jitter measurements on MPLS traffic. ",
+    "abstract": "This document defines the encapsulation for MPLS performance\\nmeasurement with the Alternate-Marking Method, which performs flow-\\nbased packet loss, delay, and jitter measurements on MPLS traffic.",
     "authors": [
         {
             "author": "Weiqiang Cheng",

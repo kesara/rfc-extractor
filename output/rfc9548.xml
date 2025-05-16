@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies how to use \"PKCS #12: Personal Information Exchange Syntax v1.1\" (RFC 7292) to transport key containers (PFX) for storing keys and certificates in conjunction with the Russian national standard GOST algorithms.  This specification has been developed outside the IETF.  The purpose of publication is to facilitate interoperable implementations that wish to support the GOST algorithms.  This document does not imply IETF endorsement of the cryptographic algorithms used here. ",
+    "abstract": "This document specifies how to use \"PKCS #12: Personal Information\\nExchange Syntax v1.1\" (RFC 7292) to transport key containers (PFX)\\nfor storing keys and certificates in conjunction with the Russian\\nnational standard GOST algorithms.\\n\\nThis specification has been developed outside the IETF.  The purpose\\nof publication is to facilitate interoperable implementations that\\nwish to support the GOST algorithms.  This document does not imply\\nIETF endorsement of the cryptographic algorithms used here.",
     "authors": [
         {
             "author": "Ekaterina Karelina",

@@ -1,5 +1,5 @@
 {
-    "abstract": "The IEEE and ETSI have specified a type of end-entity certificate. This document defines an experimental change to TLS to support IEEE/ ETSI certificate types to authenticate TLS entities. ",
+    "abstract": "The IEEE and ETSI have specified a type of end-entity certificate.\\nThis document defines an experimental change to TLS to support IEEE/\\nETSI certificate types to authenticate TLS entities.",
     "authors": [
         {
             "author": "Mounira Msahli",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This memo describes a Real-time Transport Protocol (RTP) payload format for Timed Text Markup Language (TTML), an XML-based timed text format from W3C.  This payload format is specifically targeted at streaming workflows using TTML. ",
+    "abstract": "This memo describes a Real-time Transport Protocol (RTP) payload\\nformat for Timed Text Markup Language (TTML), an XML-based timed text\\nformat from W3C.  This payload format is specifically targeted at\\nstreaming workflows using TTML.",
     "authors": [
         {
             "author": "James Sandford",

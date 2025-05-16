@@ -1,5 +1,5 @@
 {
-    "abstract": "This document recommends deprecation of the use of Any-Source Multicast (ASM) for interdomain multicast.  It recommends the use of Source-Specific Multicast (SSM) for interdomain multicast applications and recommends that hosts and routers in these deployments fully support SSM.  The recommendations in this document do not preclude the continued use of ASM within a single organization or domain and are especially easy to adopt in existing deployments of intradomain ASM using PIM Sparse Mode (PIM-SM). ",
+    "abstract": "This document recommends deprecation of the use of Any-Source\\nMulticast (ASM) for interdomain multicast.  It recommends the use of\\nSource-Specific Multicast (SSM) for interdomain multicast\\napplications and recommends that hosts and routers in these\\ndeployments fully support SSM.  The recommendations in this document\\ndo not preclude the continued use of ASM within a single organization\\nor domain and are especially easy to adopt in existing deployments of\\nintradomain ASM using PIM Sparse Mode (PIM-SM).",
     "authors": [
         {
             "author": "Mikael Abrahamsson",

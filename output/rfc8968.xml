@@ -1,5 +1,5 @@
 {
-    "abstract": "The Babel Routing Protocol does not contain any means to authenticate neighbours or provide integrity or confidentiality for messages sent between them.  This document specifies a mechanism to ensure these properties using Datagram Transport Layer Security (DTLS). ",
+    "abstract": "The Babel Routing Protocol does not contain any means to authenticate\\nneighbours or provide integrity or confidentiality for messages sent\\nbetween them.  This document specifies a mechanism to ensure these\\nproperties using Datagram Transport Layer Security (DTLS).",
     "authors": [
         {
             "author": "Antonin D\u00e9cimo",

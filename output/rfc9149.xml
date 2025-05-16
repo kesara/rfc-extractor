@@ -1,5 +1,5 @@
 {
-    "abstract": "TLS session tickets enable stateless connection resumption for clients without server-side, per-client state.  Servers vend an arbitrary number of session tickets to clients, at their discretion, upon connection establishment.  Clients store and use tickets when resuming future connections.  This document describes a mechanism by which clients can specify the desired number of tickets needed for future connections.  This extension aims to provide a means for servers to determine the number of tickets to generate in order to reduce ticket waste while simultaneously priming clients for future connection attempts. ",
+    "abstract": "TLS session tickets enable stateless connection resumption for\\nclients without server-side, per-client state.  Servers vend an\\narbitrary number of session tickets to clients, at their discretion,\\nupon connection establishment.  Clients store and use tickets when\\nresuming future connections.  This document describes a mechanism by\\nwhich clients can specify the desired number of tickets needed for\\nfuture connections.  This extension aims to provide a means for\\nservers to determine the number of tickets to generate in order to\\nreduce ticket waste while simultaneously priming clients for future\\nconnection attempts.",
     "authors": [
         {
             "author": "Tommy Pauly",

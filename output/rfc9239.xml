@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes the registration of media types for the ECMAScript and JavaScript programming languages and conformance requirements for implementations of these types.  This document obsoletes RFC 4329 (\"Scripting Media Types)\", replacing the previous registrations with information and requirements aligned with common usage and implementation experiences. ",
+    "abstract": "This document describes the registration of media types for the\\nECMAScript and JavaScript programming languages and conformance\\nrequirements for implementations of these types.  This document\\nobsoletes RFC 4329 (\"Scripting Media Types)\", replacing the previous\\nregistrations with information and requirements aligned with common\\nusage and implementation experiences.",
     "authors": [
         {
             "author": "Matthew A. Miller",

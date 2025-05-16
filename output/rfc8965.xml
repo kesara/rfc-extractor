@@ -1,5 +1,5 @@
 {
-    "abstract": "Babel is a routing protocol based on the distance-vector algorithm augmented with mechanisms for loop avoidance and starvation avoidance.  This document describes a number of niches where Babel has been found to be useful and that are arguably not adequately served by more mature protocols. ",
+    "abstract": "Babel is a routing protocol based on the distance-vector algorithm\\naugmented with mechanisms for loop avoidance and starvation\\navoidance.  This document describes a number of niches where Babel\\nhas been found to be useful and that are arguably not adequately\\nserved by more mature protocols.",
     "authors": [
         {
             "author": "Juliusz Chroboczek",

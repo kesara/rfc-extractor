@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies two new Remote Authentication Dial-In User Service (RADIUS) attributes that carry DHCP options.  The specification is generic and can be applicable to any service that relies upon DHCP.  Both DHCPv4- and DHCPv6-configured services are covered.  Also, this document updates RFC 4014 by relaxing a constraint on permitted RADIUS attributes in the RADIUS Attributes DHCP suboption. ",
+    "abstract": "This document specifies two new Remote Authentication Dial-In User\\nService (RADIUS) attributes that carry DHCP options.  The\\nspecification is generic and can be applicable to any service that\\nrelies upon DHCP.  Both DHCPv4- and DHCPv6-configured services are\\ncovered.\\n\\nAlso, this document updates RFC 4014 by relaxing a constraint on\\npermitted RADIUS attributes in the RADIUS Attributes DHCP suboption.",
     "authors": [
         {
             "author": "Mohamed Boucadair",

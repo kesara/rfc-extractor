@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a YANG data model that can be used to configure and manage OSPF.  The model is based on YANG 1.1 as defined in RFC 7950 and conforms to the Network Management Datastore Architecture (NMDA) as described in RFC 8342. ",
+    "abstract": "This document defines a YANG data model that can be used to configure\\nand manage OSPF.  The model is based on YANG 1.1 as defined in RFC\\n7950 and conforms to the Network Management Datastore Architecture\\n(NMDA) as described in RFC 8342.",
     "authors": [
         {
             "author": "Derek Yeung",

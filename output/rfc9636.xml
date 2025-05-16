@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the Time Zone Information Format (TZif) for representing and exchanging time zone information, independent of any particular service or protocol.  Two media types for this format are also defined.  This document replaces and obsoletes RFC 8536. ",
+    "abstract": "This document specifies the Time Zone Information Format (TZif) for\\nrepresenting and exchanging time zone information, independent of any\\nparticular service or protocol.  Two media types for this format are\\nalso defined.\\n\\nThis document replaces and obsoletes RFC 8536.",
     "authors": [
         {
             "author": "Arthur David Olson",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes a YANG module for the management of IP Traffic Flow Security (IP-TFS) additions to Internet Key Exchange Protocol version 2 (IKEv2) and IPsec. ",
+    "abstract": "This document describes a YANG module for the management of IP\\nTraffic Flow Security (IP-TFS) additions to Internet Key Exchange\\nProtocol version 2 (IKEv2) and IPsec.",
     "authors": [
         {
             "author": "Don Fedyk",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes a technique called \"QNAME minimisation\" to improve DNS privacy, where the DNS resolver no longer always sends the full original QNAME and original QTYPE to the upstream name server.  This document obsoletes RFC 7816. ",
+    "abstract": "This document describes a technique called \"QNAME minimisation\" to\\nimprove DNS privacy, where the DNS resolver no longer always sends\\nthe full original QNAME and original QTYPE to the upstream name\\nserver.  This document obsoletes RFC 7816.",
     "authors": [
         {
             "author": "Stephane Bortzmeyer",

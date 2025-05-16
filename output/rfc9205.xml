@@ -1,5 +1,5 @@
 {
-    "abstract": "Applications often use HTTP as a substrate to create HTTP-based APIs. This document specifies best practices for writing specifications that use HTTP to define new application protocols.  It is written primarily to guide IETF efforts to define application protocols using HTTP for deployment on the Internet but might be applicable in other situations.  This document obsoletes RFC 3205. ",
+    "abstract": "Applications often use HTTP as a substrate to create HTTP-based APIs.\\nThis document specifies best practices for writing specifications\\nthat use HTTP to define new application protocols.  It is written\\nprimarily to guide IETF efforts to define application protocols using\\nHTTP for deployment on the Internet but might be applicable in other\\nsituations.\\n\\nThis document obsoletes RFC 3205.",
     "authors": [
         {
             "author": "Mark Nottingham",

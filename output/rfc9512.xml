@@ -1,5 +1,5 @@
 {
-    "abstract": "This document registers the application/yaml media type and the +yaml structured syntax suffix with IANA.  Both identify document components that are serialized according to the YAML specification. ",
+    "abstract": "This document registers the application/yaml media type and the +yaml\\nstructured syntax suffix with IANA.  Both identify document\\ncomponents that are serialized according to the YAML specification.",
     "authors": [
         {
             "author": "Roberto Polli",

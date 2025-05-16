@@ -1,5 +1,5 @@
 {
-    "abstract": "The Stream Control Transmission Protocol (SCTP) is a transport protocol used to establish associations between two endpoints.  RFC 8261 specifies how SCTP can be used on top of the Datagram Transport Layer Security (DTLS) protocol, which is referred to as SCTP-over- DTLS.  This specification defines the following new Session Description Protocol (SDP) protocol identifiers (proto values): \"UDP/DTLS/SCTP\" and \"TCP/DTLS/SCTP\".  This specification also specifies how to use the new proto values with the SDP offer/answer mechanism for negotiating SCTP-over-DTLS associations. ",
+    "abstract": "The Stream Control Transmission Protocol (SCTP) is a transport\\nprotocol used to establish associations between two endpoints.  RFC\\n8261 specifies how SCTP can be used on top of the Datagram Transport\\nLayer Security (DTLS) protocol, which is referred to as SCTP-over-\\nDTLS.\\n\\nThis specification defines the following new Session Description\\nProtocol (SDP) protocol identifiers (proto values): \"UDP/DTLS/SCTP\"\\nand \"TCP/DTLS/SCTP\".  This specification also specifies how to use\\nthe new proto values with the SDP offer/answer mechanism for\\nnegotiating SCTP-over-DTLS associations.",
     "authors": [
         {
             "author": "Christer Holmberg",

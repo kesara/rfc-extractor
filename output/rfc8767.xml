@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a method (serve-stale) for recursive resolvers to use stale DNS data to avoid outages when authoritative nameservers cannot be reached to refresh expired data.  One of the motivations for serve-stale is to make the DNS more resilient to DoS attacks and thereby make them less attractive as an attack vector.  This document updates the definitions of TTL from RFCs 1034 and 1035 so that data can be kept in the cache beyond the TTL expiry; it also updates RFC 2181 by interpreting values with the high-order bit set as being positive, rather than 0, and suggests a cap of 7 days. ",
+    "abstract": "This document defines a method (serve-stale) for recursive resolvers\\nto use stale DNS data to avoid outages when authoritative nameservers\\ncannot be reached to refresh expired data.  One of the motivations\\nfor serve-stale is to make the DNS more resilient to DoS attacks and\\nthereby make them less attractive as an attack vector.  This document\\nupdates the definitions of TTL from RFCs 1034 and 1035 so that data\\ncan be kept in the cache beyond the TTL expiry; it also updates RFC\\n2181 by interpreting values with the high-order bit set as being\\npositive, rather than 0, and suggests a cap of 7 days.",
     "authors": [
         {
             "author": "David C Lawrence",

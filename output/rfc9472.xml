@@ -1,5 +1,5 @@
 {
-    "abstract": "To improve cybersecurity posture, automation is necessary to locate the software a device is using, whether that software has known vulnerabilities, and what, if any, recommendations suppliers may have.  This memo extends the Manufacturer User Description (MUD) YANG schema to provide the locations of software bills of materials (SBOMs) and vulnerability information by introducing a transparency schema. ",
+    "abstract": "To improve cybersecurity posture, automation is necessary to locate\\nthe software a device is using, whether that software has known\\nvulnerabilities, and what, if any, recommendations suppliers may\\nhave.  This memo extends the Manufacturer User Description (MUD) YANG\\nschema to provide the locations of software bills of materials\\n(SBOMs) and vulnerability information by introducing a transparency\\nschema.",
     "authors": [
         {
             "author": "Eliot Lear",

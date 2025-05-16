@@ -1,5 +1,5 @@
 {
-    "abstract": "It is not uncommon for resource servers to require different authentication strengths or recentness according to the characteristics of a request.  This document introduces a mechanism that resource servers can use to signal to a client that the authentication event associated with the access token of the current request does not meet its authentication requirements and, further, how to meet them.  This document also codifies a mechanism for a client to request that an authorization server achieve a specific authentication strength or recentness when processing an authorization request. ",
+    "abstract": "It is not uncommon for resource servers to require different\\nauthentication strengths or recentness according to the\\ncharacteristics of a request.  This document introduces a mechanism\\nthat resource servers can use to signal to a client that the\\nauthentication event associated with the access token of the current\\nrequest does not meet its authentication requirements and, further,\\nhow to meet them.  This document also codifies a mechanism for a\\nclient to request that an authorization server achieve a specific\\nauthentication strength or recentness when processing an\\nauthorization request.",
     "authors": [
         {
             "author": "Vittorio Bertocci",

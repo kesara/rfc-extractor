@@ -1,5 +1,5 @@
 {
-    "abstract": "This document registers the \"secret-token\" URI scheme to aid in the identification of authentication tokens. ",
+    "abstract": "This document registers the \"secret-token\" URI scheme to aid in the\\nidentification of authentication tokens.",
     "authors": [
         {
             "author": "Mark Nottingham",

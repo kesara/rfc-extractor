@@ -1,5 +1,5 @@
 {
-    "abstract": "The Path Computation Element Communication Protocol (PCEP) has been extended to support stateful PCE functions where the stateful PCE maintains information about paths and resource usage within a network; however, these extensions do not cover all requirements for GMPLS networks.  This document provides the extensions required for PCEP so as to enable the usage of a stateful PCE capability in GMPLS-controlled networks. ",
+    "abstract": "The Path Computation Element Communication Protocol (PCEP) has been\\nextended to support stateful PCE functions where the stateful PCE\\nmaintains information about paths and resource usage within a\\nnetwork; however, these extensions do not cover all requirements for\\nGMPLS networks.\\n\\nThis document provides the extensions required for PCEP so as to\\nenable the usage of a stateful PCE capability in GMPLS-controlled\\nnetworks.",
     "authors": [
         {
             "author": "Young Lee",

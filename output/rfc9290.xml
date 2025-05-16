@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a concise \"problem detail\" as a way to carry machine-readable details of errors in a Representational State Transfer (REST) response to avoid the need to define new error response formats for REST APIs for constrained environments.  The format is inspired by, but intended to be more concise than, the problem details for HTTP APIs defined in RFC 7807. ",
+    "abstract": "This document defines a concise \"problem detail\" as a way to carry\\nmachine-readable details of errors in a Representational State\\nTransfer (REST) response to avoid the need to define new error\\nresponse formats for REST APIs for constrained environments.  The\\nformat is inspired by, but intended to be more concise than, the\\nproblem details for HTTP APIs defined in RFC 7807.",
     "authors": [
         {
             "author": "Thomas Fossati",

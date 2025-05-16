@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the GeneRic Autonomic Signaling Protocol (GRASP), which enables autonomic nodes and Autonomic Service Agents to dynamically discover peers, to synchronize state with each other, and to negotiate parameter settings with each other.  GRASP depends on an external security environment that is described elsewhere.  The technical objectives and parameters for specific application scenarios are to be described in separate documents.  Appendices briefly discuss requirements for the protocol and existing protocols with comparable features. ",
+    "abstract": "This document specifies the GeneRic Autonomic Signaling Protocol\\n(GRASP), which enables autonomic nodes and Autonomic Service Agents\\nto dynamically discover peers, to synchronize state with each other,\\nand to negotiate parameter settings with each other.  GRASP depends\\non an external security environment that is described elsewhere.  The\\ntechnical objectives and parameters for specific application\\nscenarios are to be described in separate documents.  Appendices\\nbriefly discuss requirements for the protocol and existing protocols\\nwith comparable features.",
     "authors": [
         {
             "author": "Carsten Bormann",

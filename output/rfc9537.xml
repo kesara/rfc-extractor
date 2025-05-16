@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes a Registration Data Access Protocol (RDAP) extension for specifying methods of redaction of RDAP responses and explicitly identifying redacted RDAP response fields, using JSONPath as the default expression language. ",
+    "abstract": "This document describes a Registration Data Access Protocol (RDAP)\\nextension for specifying methods of redaction of RDAP responses and\\nexplicitly identifying redacted RDAP response fields, using JSONPath\\nas the default expression language.",
     "authors": [
         {
             "author": "James Gould",

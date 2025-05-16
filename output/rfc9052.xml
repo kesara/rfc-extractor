@@ -1,5 +1,5 @@
 {
-    "abstract": "Concise Binary Object Representation (CBOR) is a data format designed for small code size and small message size.  There is a need to be able to define basic security services for this data format.  This document defines the CBOR Object Signing and Encryption (COSE) protocol.  This specification describes how to create and process signatures, message authentication codes, and encryption using CBOR for serialization.  This specification additionally describes how to represent cryptographic keys using CBOR.  This document, along with RFC 9053, obsoletes RFC 8152. ",
+    "abstract": "Concise Binary Object Representation (CBOR) is a data format designed\\nfor small code size and small message size.  There is a need to be\\nable to define basic security services for this data format.  This\\ndocument defines the CBOR Object Signing and Encryption (COSE)\\nprotocol.  This specification describes how to create and process\\nsignatures, message authentication codes, and encryption using CBOR\\nfor serialization.  This specification additionally describes how to\\nrepresent cryptographic keys using CBOR.\\n\\nThis document, along with RFC 9053, obsoletes RFC 8152.",
     "authors": [
         {
             "author": "Jim Schaad",

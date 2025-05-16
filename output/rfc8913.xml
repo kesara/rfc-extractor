@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies a data model for client and server implementations of the Two-Way Active Measurement Protocol (TWAMP). This document defines the TWAMP data model through Unified Modeling Language (UML) class diagrams and formally specifies it using the YANG data modeling language (RFC 7950).  The data model is compliant with the Network Management Datastore Architecture (NMDA). ",
+    "abstract": "This document specifies a data model for client and server\\nimplementations of the Two-Way Active Measurement Protocol (TWAMP).\\nThis document defines the TWAMP data model through Unified Modeling\\nLanguage (UML) class diagrams and formally specifies it using the\\nYANG data modeling language (RFC 7950).  The data model is compliant\\nwith the Network Management Datastore Architecture (NMDA).",
     "authors": [
         {
             "author": "Ruth Civil",

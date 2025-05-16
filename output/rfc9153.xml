@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines terminology and requirements for solutions produced by the Drone Remote Identification Protocol (DRIP) Working Group.  These solutions will support Unmanned Aircraft System Remote Identification and tracking (UAS RID) for security, safety, and other purposes (e.g., initiation of identity-based network sessions supporting UAS applications).  DRIP will facilitate use of existing Internet resources to support RID and to enable enhanced related services, and it will enable online and offline verification that RID information is trustworthy. ",
+    "abstract": "This document defines terminology and requirements for solutions\\nproduced by the Drone Remote Identification Protocol (DRIP) Working\\nGroup.  These solutions will support Unmanned Aircraft System Remote\\nIdentification and tracking (UAS RID) for security, safety, and other\\npurposes (e.g., initiation of identity-based network sessions\\nsupporting UAS applications).  DRIP will facilitate use of existing\\nInternet resources to support RID and to enable enhanced related\\nservices, and it will enable online and offline verification that RID\\ninformation is trustworthy.",
     "authors": [
         {
             "author": "Stuart W. Card",

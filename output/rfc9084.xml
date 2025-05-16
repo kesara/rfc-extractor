@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines OSPF extensions to include information associated with the node originating a prefix along with the prefix advertisement.  These extensions do not change the core OSPF route computation functionality but provide useful information for network analysis, troubleshooting, and use cases like traffic engineering. ",
+    "abstract": "This document defines OSPF extensions to include information\\nassociated with the node originating a prefix along with the prefix\\nadvertisement.  These extensions do not change the core OSPF route\\ncomputation functionality but provide useful information for network\\nanalysis, troubleshooting, and use cases like traffic engineering.",
     "authors": [
         {
             "author": "Aijun Wang",

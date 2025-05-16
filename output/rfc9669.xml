@@ -1,5 +1,5 @@
 {
-    "abstract": "eBPF (which is no longer an acronym for anything), also commonly referred to as BPF, is a technology with origins in the Linux kernel that can run untrusted programs in a privileged context such as an operating system kernel.  This document specifies the BPF instruction set architecture (ISA). ",
+    "abstract": "eBPF (which is no longer an acronym for anything), also commonly\\nreferred to as BPF, is a technology with origins in the Linux kernel\\nthat can run untrusted programs in a privileged context such as an\\noperating system kernel.  This document specifies the BPF instruction\\nset architecture (ISA).",
     "authors": [
         {
             "author": "Dave Thaler",

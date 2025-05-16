@@ -1,5 +1,5 @@
 {
-    "abstract": "During the process of establishing peer-to-peer connectivity, Interactive Connectivity Establishment (ICE) agents can encounter situations where they have no candidate pairs to check, and, as a result, conclude that ICE processing has failed.  However, because additional candidate pairs can be discovered during ICE processing, declaring failure at this point may be premature.  This document discusses when these situations can occur.  This document updates RFCs 8445 and 8838 by requiring that an ICE agent wait a minimum amount of time before declaring ICE failure, even if there are no candidate pairs left to check. ",
+    "abstract": "During the process of establishing peer-to-peer connectivity,\\nInteractive Connectivity Establishment (ICE) agents can encounter\\nsituations where they have no candidate pairs to check, and, as a\\nresult, conclude that ICE processing has failed.  However, because\\nadditional candidate pairs can be discovered during ICE processing,\\ndeclaring failure at this point may be premature.  This document\\ndiscusses when these situations can occur.\\n\\nThis document updates RFCs 8445 and 8838 by requiring that an ICE\\nagent wait a minimum amount of time before declaring ICE failure,\\neven if there are no candidate pairs left to check.",
     "authors": [
         {
             "author": "Christer Holmberg",

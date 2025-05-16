@@ -1,5 +1,5 @@
 {
-    "abstract": "This document updates RFC 3405 by removing references to the IETF tree from the procedures for requesting that a URI scheme be inserted into the URI.ARPA zone. ",
+    "abstract": "This document updates RFC 3405 by removing references to the IETF\\ntree from the procedures for requesting that a URI scheme be inserted\\ninto the URI.ARPA zone.",
     "authors": [
         {
             "author": "Ted Hardie",

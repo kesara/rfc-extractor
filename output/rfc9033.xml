@@ -1,5 +1,5 @@
 {
-    "abstract": "This specification defines the \"IPv6 over the TSCH mode of IEEE 802.15.4\" (6TiSCH) Minimal Scheduling Function (MSF).  This Scheduling Function describes both the behavior of a node when joining the network and how the communication schedule is managed in a distributed fashion.  MSF is built upon the 6TiSCH Operation Sublayer Protocol (6P) and the minimal security framework for 6TiSCH. ",
+    "abstract": "This specification defines the \"IPv6 over the TSCH mode of IEEE\\n802.15.4\" (6TiSCH) Minimal Scheduling Function (MSF).  This\\nScheduling Function describes both the behavior of a node when\\njoining the network and how the communication schedule is managed in\\na distributed fashion.  MSF is built upon the 6TiSCH Operation\\nSublayer Protocol (6P) and the minimal security framework for 6TiSCH.",
     "authors": [
         {
             "author": "Tengfei Chang",

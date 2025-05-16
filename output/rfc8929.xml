@@ -1,5 +1,5 @@
 {
-    "abstract": "This document updates RFCs 6775 and 8505 in order to enable proxy services for IPv6 Neighbor Discovery by Routing Registrars called \"Backbone Routers\".  Backbone Routers are placed along the wireless edge of a backbone and federate multiple wireless links to form a single Multi-Link Subnet (MLSN). ",
+    "abstract": "This document updates RFCs 6775 and 8505 in order to enable proxy\\nservices for IPv6 Neighbor Discovery by Routing Registrars called\\n\"Backbone Routers\".  Backbone Routers are placed along the wireless\\nedge of a backbone and federate multiple wireless links to form a\\nsingle Multi-Link Subnet (MLSN).",
     "authors": [
         {
             "author": "Pascal Thubert",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a YANG data model that can be used to configure and manage Internet Group Management Protocol (IGMP) and Multicast Listener Discovery (MLD) devices. ",
+    "abstract": "This document defines a YANG data model that can be used to configure\\nand manage Internet Group Management Protocol (IGMP) and Multicast\\nListener Discovery (MLD) devices.",
     "authors": [
         {
             "author": "Xufeng Liu",

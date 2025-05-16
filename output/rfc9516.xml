@@ -1,5 +1,5 @@
 {
-    "abstract": "A set of requirements for active Operations, Administration, and Maintenance (OAM) for Service Function Chaining (SFC) in a network is presented in this document.  Based on these requirements, an encapsulation of active OAM messages in SFC and a mechanism to detect and localize defects are described. ",
+    "abstract": "A set of requirements for active Operations, Administration, and\\nMaintenance (OAM) for Service Function Chaining (SFC) in a network is\\npresented in this document.  Based on these requirements, an\\nencapsulation of active OAM messages in SFC and a mechanism to detect\\nand localize defects are described.",
     "authors": [
         {
             "author": "Greg Mirsky",

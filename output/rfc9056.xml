@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the Deterministic Networking data plane when encapsulating IP over an MPLS packet-switched network. ",
+    "abstract": "This document specifies the Deterministic Networking data plane when\\nencapsulating IP over an MPLS packet-switched network.",
     "authors": [
         {
             "author": "Bal\u00e1zs Varga",

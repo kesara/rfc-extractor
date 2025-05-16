@@ -1,5 +1,5 @@
 {
-    "abstract": "JSONPath defines a string syntax for selecting and extracting JSON (RFC 8259) values from within a given JSON value. ",
+    "abstract": "JSONPath defines a string syntax for selecting and extracting JSON\\n(RFC 8259) values from within a given JSON value.",
     "authors": [
         {
             "author": "Stefan G\u00f6ssner",

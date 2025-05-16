@@ -1,5 +1,5 @@
 {
-    "abstract": "This document is a conceptual outline of an Application Programming Interface (API) for the GeneRic Autonomic Signaling Protocol (GRASP). Such an API is needed for Autonomic Service Agents (ASAs) calling the GRASP protocol module to exchange Autonomic Network messages with other ASAs.  Since GRASP is designed to support asynchronous operations, the API will need to be adapted according to the support for asynchronicity in various programming languages and operating systems. ",
+    "abstract": "This document is a conceptual outline of an Application Programming\\nInterface (API) for the GeneRic Autonomic Signaling Protocol (GRASP).\\nSuch an API is needed for Autonomic Service Agents (ASAs) calling the\\nGRASP protocol module to exchange Autonomic Network messages with\\nother ASAs.  Since GRASP is designed to support asynchronous\\noperations, the API will need to be adapted according to the support\\nfor asynchronicity in various programming languages and operating\\nsystems.",
     "authors": [
         {
             "author": "Brian E. Carpenter",

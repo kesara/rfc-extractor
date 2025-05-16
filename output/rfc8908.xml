@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes an HTTP API that allows clients to interact with a Captive Portal system.  With this API, clients can discover how to get out of captivity and fetch state about their Captive Portal sessions. ",
+    "abstract": "This document describes an HTTP API that allows clients to interact\\nwith a Captive Portal system.  With this API, clients can discover\\nhow to get out of captivity and fetch state about their Captive\\nPortal sessions.",
     "authors": [
         {
             "author": "Tommy Pauly",

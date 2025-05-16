@@ -1,5 +1,5 @@
 {
-    "abstract": "This document updates RFC 7540 by forbidding TLS 1.3 post-handshake authentication, as an analog to the existing TLS 1.2 renegotiation restriction. ",
+    "abstract": "This document updates RFC 7540 by forbidding TLS 1.3 post-handshake\\nauthentication, as an analog to the existing TLS 1.2 renegotiation\\nrestriction.",
     "authors": [
         {
             "author": "David Benjamin",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies a data model for managing Sieve scripts on a server using the JSON Meta Application Protocol (JMAP).  Clients can use this protocol to efficiently search, access, organize, and validate Sieve scripts. ",
+    "abstract": "This document specifies a data model for managing Sieve scripts on a\\nserver using the JSON Meta Application Protocol (JMAP).  Clients can\\nuse this protocol to efficiently search, access, organize, and\\nvalidate Sieve scripts.",
     "authors": [
         {
             "author": "Kenneth Murchison",

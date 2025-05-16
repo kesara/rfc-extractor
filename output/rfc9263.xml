@@ -1,5 +1,5 @@
 {
-    "abstract": "Service Function Chaining (SFC) uses the Network Service Header (NSH) (RFC 8300) to steer and provide context metadata (MD) with each packet.  Such metadata can be of various types, including MD Type 2, consisting of Variable-Length Context Headers.  This document specifies several such Context Headers that can be used within a Service Function Path (SFP). ",
+    "abstract": "Service Function Chaining (SFC) uses the Network Service Header (NSH)\\n(RFC 8300) to steer and provide context metadata (MD) with each\\npacket.  Such metadata can be of various types, including MD Type 2,\\nconsisting of Variable-Length Context Headers.  This document\\nspecifies several such Context Headers that can be used within a\\nService Function Path (SFP).",
     "authors": [
         {
             "author": "Yuehua Wei",

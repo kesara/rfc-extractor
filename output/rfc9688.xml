@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes the conventions for using the one-way hash functions in the SHA3 family with the Cryptographic Message Syntax (CMS).  The SHA3 family can be used as a message digest algorithm, as part of a signature algorithm, as part of a message authentication code, or as part of a Key Derivation Function (KDF). ",
+    "abstract": "This document describes the conventions for using the one-way hash\\nfunctions in the SHA3 family with the Cryptographic Message Syntax\\n(CMS).  The SHA3 family can be used as a message digest algorithm, as\\npart of a signature algorithm, as part of a message authentication\\ncode, or as part of a Key Derivation Function (KDF).",
     "authors": [
         {
             "author": "Russ Housley",

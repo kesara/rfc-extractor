@@ -1,5 +1,5 @@
 {
-    "abstract": "The Path Computation Element Communication Protocol (PCEP) provides mechanisms for Path Computation Elements (PCEs) to perform path computations in response to Path Computation Client (PCC) requests. Stateful PCE extensions allow stateful control of MPLS-TE Label Switched Paths (LSPs) using PCEP.  The auto-bandwidth feature allows automatic and dynamic adjustment of the TE LSP bandwidth reservation based on the volume of traffic flowing through the LSP.  This document describes PCEP extensions for auto-bandwidth adjustment when employing an active stateful PCE for both PCE-initiated and PCC-initiated LSPs. ",
+    "abstract": "The Path Computation Element Communication Protocol (PCEP) provides\\nmechanisms for Path Computation Elements (PCEs) to perform path\\ncomputations in response to Path Computation Client (PCC) requests.\\nStateful PCE extensions allow stateful control of MPLS-TE Label\\nSwitched Paths (LSPs) using PCEP.\\n\\nThe auto-bandwidth feature allows automatic and dynamic adjustment of\\nthe TE LSP bandwidth reservation based on the volume of traffic\\nflowing through the LSP.  This document describes PCEP extensions for\\nauto-bandwidth adjustment when employing an active stateful PCE for\\nboth PCE-initiated and PCC-initiated LSPs.",
     "authors": [
         {
             "author": "Dhruv Dhody",

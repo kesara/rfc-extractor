@@ -1,5 +1,5 @@
 {
-    "abstract": "Zstandard, or \"zstd\" (pronounced \"zee standard\"), is a lossless data compression mechanism.  This document describes the mechanism and registers a media type, content encoding, and a structured syntax suffix to be used when transporting zstd-compressed content via MIME.  Despite use of the word \"standard\" as part of Zstandard, readers are advised that this document is not an Internet Standards Track specification; it is being published for informational purposes only.  This document replaces and obsoletes RFC 8478. ",
+    "abstract": "Zstandard, or \"zstd\" (pronounced \"zee standard\"), is a lossless data\\ncompression mechanism.  This document describes the mechanism and\\nregisters a media type, content encoding, and a structured syntax\\nsuffix to be used when transporting zstd-compressed content via MIME.\\n\\nDespite use of the word \"standard\" as part of Zstandard, readers are\\nadvised that this document is not an Internet Standards Track\\nspecification; it is being published for informational purposes only.\\n\\nThis document replaces and obsoletes RFC 8478.",
     "authors": [
         {
             "author": "Yann Collet",

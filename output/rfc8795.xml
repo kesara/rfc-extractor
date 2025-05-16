@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a YANG data model for representing, retrieving, and manipulating Traffic Engineering (TE) Topologies.  The model serves as a base model that other technology-specific TE topology models can augment. ",
+    "abstract": "This document defines a YANG data model for representing, retrieving,\\nand manipulating Traffic Engineering (TE) Topologies.  The model\\nserves as a base model that other technology-specific TE topology\\nmodels can augment.",
     "authors": [
         {
             "author": "Xufeng Liu",

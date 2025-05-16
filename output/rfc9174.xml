@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes a TCP convergence layer (TCPCL) for Delay- Tolerant Networking (DTN).  This version of the TCPCL protocol resolves implementation issues in the earlier TCPCL version 3 as defined in RFC 7242 and provides updates to the Bundle Protocol (BP) contents, encodings, and convergence-layer requirements in BP version 7 (BPv7).  Specifically, TCPCLv4 uses BPv7 bundles encoded by the Concise Binary Object Representation (CBOR) as its service data unit being transported and provides a reliable transport of such bundles. This TCPCL version also includes security and extensibility mechanisms. ",
+    "abstract": "This document describes a TCP convergence layer (TCPCL) for Delay-\\nTolerant Networking (DTN).  This version of the TCPCL protocol\\nresolves implementation issues in the earlier TCPCL version 3 as\\ndefined in RFC 7242 and provides updates to the Bundle Protocol (BP)\\ncontents, encodings, and convergence-layer requirements in BP version\\n7 (BPv7).  Specifically, TCPCLv4 uses BPv7 bundles encoded by the\\nConcise Binary Object Representation (CBOR) as its service data unit\\nbeing transported and provides a reliable transport of such bundles.\\nThis TCPCL version also includes security and extensibility\\nmechanisms.",
     "authors": [
         {
             "author": "Brian Sipos",

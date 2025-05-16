@@ -1,5 +1,5 @@
 {
-    "abstract": "This document discusses the properties, applicability, and operational considerations of Routing in Fat Trees (RIFT) in different network scenarios with the intention of providing a rough guide on how RIFT can be deployed to simplify routing operations in Clos topologies and their variations. ",
+    "abstract": "This document discusses the properties, applicability, and\\noperational considerations of Routing in Fat Trees (RIFT) in\\ndifferent network scenarios with the intention of providing a rough\\nguide on how RIFT can be deployed to simplify routing operations in\\nClos topologies and their variations.",
     "authors": [
         {
             "author": "Yuehua Wei",

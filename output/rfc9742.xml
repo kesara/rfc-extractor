@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a YANG data model for the management of a syslog process.  It is intended that this data model be used by vendors who implement syslog collectors in their systems. ",
+    "abstract": "This document defines a YANG data model for the management of a\\nsyslog process.  It is intended that this data model be used by\\nvendors who implement syslog collectors in their systems.",
     "authors": [
         {
             "author": "Joe Clarke",

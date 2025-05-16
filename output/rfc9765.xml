@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines Application-Layer Protocol Negotiation (ALPN) extensions for use with RADIUS/TLS and RADIUS/DTLS.  These extensions permit the negotiation of an application protocol variant of RADIUS called \"RADIUS/1.1\".  No changes are made to RADIUS/UDP or RADIUS/ TCP.  The extensions allow the negotiation of a transport profile where the RADIUS shared secret is no longer used, and all MD5-based packet authentication and attribute obfuscation methods are removed.  This document updates RFCs 2865, 2866, 5176, 6613, 6614, and 7360. ",
+    "abstract": "This document defines Application-Layer Protocol Negotiation (ALPN)\\nextensions for use with RADIUS/TLS and RADIUS/DTLS.  These extensions\\npermit the negotiation of an application protocol variant of RADIUS\\ncalled \"RADIUS/1.1\".  No changes are made to RADIUS/UDP or RADIUS/\\nTCP.  The extensions allow the negotiation of a transport profile\\nwhere the RADIUS shared secret is no longer used, and all MD5-based\\npacket authentication and attribute obfuscation methods are removed.\\n\\nThis document updates RFCs 2865, 2866, 5176, 6613, 6614, and 7360.",
     "authors": [
         {
             "author": "Alan DeKok",

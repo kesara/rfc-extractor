@@ -1,5 +1,5 @@
 {
-    "abstract": "This specification describes an RTP payload format for the VP9 video codec.  The payload format has wide applicability as it supports applications from low bitrate peer-to-peer usage to high bitrate video conferences.  It includes provisions for temporal and spatial scalability. ",
+    "abstract": "This specification describes an RTP payload format for the VP9 video\\ncodec.  The payload format has wide applicability as it supports\\napplications from low bitrate peer-to-peer usage to high bitrate\\nvideo conferences.  It includes provisions for temporal and spatial\\nscalability.",
     "authors": [
         {
             "author": "Justin Uberti",

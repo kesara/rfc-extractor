@@ -1,5 +1,5 @@
 {
-    "abstract": "This document provides Path Computation Element Communication Protocol (PCEP) extensions for the support of Routing and Wavelength Assignment (RWA) in Wavelength Switched Optical Networks (WSONs). Path provisioning in WSONs requires an RWA process.  From a path computation perspective, wavelength assignment is the process of determining which wavelength can be used on each hop of a path and forms an additional routing constraint to optical path computation. ",
+    "abstract": "This document provides Path Computation Element Communication\\nProtocol (PCEP) extensions for the support of Routing and Wavelength\\nAssignment (RWA) in Wavelength Switched Optical Networks (WSONs).\\nPath provisioning in WSONs requires an RWA process.  From a path\\ncomputation perspective, wavelength assignment is the process of\\ndetermining which wavelength can be used on each hop of a path and\\nforms an additional routing constraint to optical path computation.",
     "authors": [
         {
             "author": "Young Lee",

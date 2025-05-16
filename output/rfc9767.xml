@@ -1,5 +1,5 @@
 {
-    "abstract": "The Grant Negotiation and Authorization Protocol (GNAP) defines a mechanism for delegating authorization to a piece of software (the client) and conveying the results and artifacts of that delegation to the software.  This extension defines methods for resource servers (RSs) to connect with authorization servers (ASs) in an interoperable fashion. ",
+    "abstract": "The Grant Negotiation and Authorization Protocol (GNAP) defines a\\nmechanism for delegating authorization to a piece of software (the\\nclient) and conveying the results and artifacts of that delegation to\\nthe software.  This extension defines methods for resource servers\\n(RSs) to connect with authorization servers (ASs) in an interoperable\\nfashion.",
     "authors": [
         {
             "author": "Justin Richer",

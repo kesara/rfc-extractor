@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes the queries that a DNS resolver should emit to initialize its cache.  The result is that the resolver gets both a current NS resource record set (RRset) for the root zone and the necessary address information for reaching the root servers.  This document obsoletes RFC 8109. ",
+    "abstract": "This document describes the queries that a DNS resolver should emit\\nto initialize its cache.  The result is that the resolver gets both a\\ncurrent NS resource record set (RRset) for the root zone and the\\nnecessary address information for reaching the root servers.\\n\\nThis document obsoletes RFC 8109.",
     "authors": [
         {
             "author": "Peter Koch",

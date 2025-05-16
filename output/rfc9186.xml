@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies how Bidirectional Forwarding Detection (BFD) for multipoint networks can provide sub-second failover for routers that participate in Protocol Independent Multicast - Sparse Mode (PIM-SM).  An extension to the PIM Hello message used to bootstrap a point-to-multipoint BFD session is also defined in this document. ",
+    "abstract": "This document specifies how Bidirectional Forwarding Detection (BFD)\\nfor multipoint networks can provide sub-second failover for routers\\nthat participate in Protocol Independent Multicast - Sparse Mode\\n(PIM-SM).  An extension to the PIM Hello message used to bootstrap a\\npoint-to-multipoint BFD session is also defined in this document.",
     "authors": [
         {
             "author": "Greg Mirsky",

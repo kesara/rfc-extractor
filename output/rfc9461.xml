@@ -1,5 +1,5 @@
 {
-    "abstract": "The SVCB DNS resource record type expresses a bound collection of endpoint metadata, for use when establishing a connection to a named service.  DNS itself can be such a service, when the server is identified by a domain name.  This document provides the SVCB mapping for named DNS servers, allowing them to indicate support for encrypted transport protocols. ",
+    "abstract": "The SVCB DNS resource record type expresses a bound collection of\\nendpoint metadata, for use when establishing a connection to a named\\nservice.  DNS itself can be such a service, when the server is\\nidentified by a domain name.  This document provides the SVCB mapping\\nfor named DNS servers, allowing them to indicate support for\\nencrypted transport protocols.",
     "authors": [
         {
             "author": "Benjamin Schwartz",

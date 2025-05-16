@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes IP fragmentation and explains how it introduces fragility to Internet communication.  This document also proposes alternatives to IP fragmentation and provides recommendations for developers and network operators. ",
+    "abstract": "This document describes IP fragmentation and explains how it\\nintroduces fragility to Internet communication.\\n\\nThis document also proposes alternatives to IP fragmentation and\\nprovides recommendations for developers and network operators.",
     "authors": [
         {
             "author": "Ron Bonica",

@@ -1,5 +1,5 @@
 {
-    "abstract": "Link-state routing protocols have hierarchical abstraction already built into them.  However, when lower levels are used for transit, they must expose their internal topologies to each other, thereby leading to scaling issues.  To avoid such issues, this document discusses extensions to the IS-IS routing protocol that allow Level 1 (L1) areas to provide transit but only inject an abstraction of the Level 1 topology into Level 2 (L2). Each Level 1 area is represented as a single Level 2 node, thereby enabling a greater scale. ",
+    "abstract": "Link-state routing protocols have hierarchical abstraction already\\nbuilt into them.  However, when lower levels are used for transit,\\nthey must expose their internal topologies to each other, thereby\\nleading to scaling issues.\\n\\nTo avoid such issues, this document discusses extensions to the IS-IS\\nrouting protocol that allow Level 1 (L1) areas to provide transit but\\nonly inject an abstraction of the Level 1 topology into Level 2 (L2).\\nEach Level 1 area is represented as a single Level 2 node, thereby\\nenabling a greater scale.",
     "authors": [
         {
             "author": "Tony Li",

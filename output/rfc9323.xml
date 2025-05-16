@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a Cryptographic Message Syntax (CMS) protected content type for use with the Resource Public Key Infrastructure (RPKI) to carry a general-purpose listing of checksums (a 'checklist').  The objective is to allow for the creation of an attestation, termed an \"RPKI Signed Checklist (RSC)\", which contains one or more checksums of arbitrary digital objects (files) that are signed with a specific set of Internet Number Resources.  When validated, an RSC confirms that the respective Internet resource holder produced the RSC. ",
+    "abstract": "This document defines a Cryptographic Message Syntax (CMS) protected\\ncontent type for use with the Resource Public Key Infrastructure\\n(RPKI) to carry a general-purpose listing of checksums (a\\n'checklist').  The objective is to allow for the creation of an\\nattestation, termed an \"RPKI Signed Checklist (RSC)\", which contains\\none or more checksums of arbitrary digital objects (files) that are\\nsigned with a specific set of Internet Number Resources.  When\\nvalidated, an RSC confirms that the respective Internet resource\\nholder produced the RSC.",
     "authors": [
         {
             "author": "Job Snijders",

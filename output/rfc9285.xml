@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes the Base45 encoding scheme, which is built upon the Base64, Base32, and Base16 encoding schemes. ",
+    "abstract": "This document describes the Base45 encoding scheme, which is built\\nupon the Base64, Base32, and Base16 encoding schemes.",
     "authors": [
         {
             "author": "Patrik F\u00e4ltstr\u00f6m",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document provides information and requirements for how IP addresses should be handled by Web Real-Time Communication (WebRTC) implementations. ",
+    "abstract": "This document provides information and requirements for how IP\\naddresses should be handled by Web Real-Time Communication (WebRTC)\\nimplementations.",
     "authors": [
         {
             "author": "Justin Uberti",

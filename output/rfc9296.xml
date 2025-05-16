@@ -1,5 +1,5 @@
 {
-    "abstract": "RFC 5309 defines the Point-to-Point (P2P) circuit type, one of the two circuit types used in the link-state routing protocols, and highlights that it is important to identify the correct circuit type when forming adjacencies, flooding link-state database packets, and monitoring the link state.  This document provides advice about the ifStack for the P2P interface over a LAN Type to facilitate operational control, maintenance, and statistics. ",
+    "abstract": "RFC 5309 defines the Point-to-Point (P2P) circuit type, one of the\\ntwo circuit types used in the link-state routing protocols, and\\nhighlights that it is important to identify the correct circuit type\\nwhen forming adjacencies, flooding link-state database packets, and\\nmonitoring the link state.\\n\\nThis document provides advice about the ifStack for the P2P interface\\nover a LAN Type to facilitate operational control, maintenance, and\\nstatistics.",
     "authors": [
         {
             "author": "Daiying Liu",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a YANG data model that can be used to configure and manage devices supporting Protocol Independent Multicast (PIM). The model covers the PIM protocol configuration, operational state, and event notifications data. ",
+    "abstract": "This document defines a YANG data model that can be used to configure\\nand manage devices supporting Protocol Independent Multicast (PIM).\\nThe model covers the PIM protocol configuration, operational state,\\nand event notifications data.",
     "authors": [
         {
             "author": "Xufeng Liu",

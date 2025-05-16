@@ -1,5 +1,5 @@
 {
-    "abstract": "RFC 5280 specifies several extended key purpose identifiers (KeyPurposeIds) for X.509 certificates.  This document defines an Instant Messaging (IM) identity KeyPurposeId for inclusion in the Extended Key Usage (EKU) extension of X.509 v3 public key certificates ",
+    "abstract": "RFC 5280 specifies several extended key purpose identifiers\\n(KeyPurposeIds) for X.509 certificates.  This document defines an\\nInstant Messaging (IM) identity KeyPurposeId for inclusion in the\\nExtended Key Usage (EKU) extension of X.509 v3 public key\\ncertificates",
     "authors": [
         {
             "author": "Rohan Mahy",

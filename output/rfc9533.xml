@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines extensions to the One-Way Active Measurement Protocol (OWAMP) and the Two-Way Active Measurement Protocol (TWAMP) to implement performance measurement on every member link of a Link Aggregation Group (LAG).  Knowing the measured metrics of each member link of a LAG enables operators to enforce the performance-based traffic steering policy across the member links. ",
+    "abstract": "This document defines extensions to the One-Way Active Measurement\\nProtocol (OWAMP) and the Two-Way Active Measurement Protocol (TWAMP)\\nto implement performance measurement on every member link of a Link\\nAggregation Group (LAG).  Knowing the measured metrics of each member\\nlink of a LAG enables operators to enforce the performance-based\\ntraffic steering policy across the member links.",
     "authors": [
         {
             "author": "Zhenqiang Li",

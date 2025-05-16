@@ -1,5 +1,5 @@
 {
-    "abstract": "Networks use tunnels for a variety of reasons.  A large variety of tunnel types are defined, and the tunnel encapsulator router needs to select a type of tunnel that is supported by the tunnel decapsulator router.  This document defines how to advertise, in OSPF Router Information Link State Advertisements (LSAs), the list of tunnel encapsulations supported by the tunnel decapsulator. ",
+    "abstract": "Networks use tunnels for a variety of reasons.  A large variety of\\ntunnel types are defined, and the tunnel encapsulator router needs to\\nselect a type of tunnel that is supported by the tunnel decapsulator\\nrouter.  This document defines how to advertise, in OSPF Router\\nInformation Link State Advertisements (LSAs), the list of tunnel\\nencapsulations supported by the tunnel decapsulator.",
     "authors": [
         {
             "author": "Xiaohu Xu",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document updates the IAB Charter (RFC 2850) to be consistent with version 3 of the RFC Editor Model (RFC 9280). ",
+    "abstract": "This document updates the IAB Charter (RFC 2850) to be consistent\\nwith version 3 of the RFC Editor Model (RFC 9280).",
     "authors": [
         {
             "author": "Brian E. Carpenter",

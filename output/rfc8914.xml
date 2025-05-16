@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines an extensible method to return additional information about the cause of DNS errors.  Though created primarily to extend SERVFAIL to provide additional information about the cause of DNS and DNSSEC failures, the Extended DNS Errors option defined in this document allows all response types to contain extended error information.  Extended DNS Error information does not change the processing of RCODEs. ",
+    "abstract": "This document defines an extensible method to return additional\\ninformation about the cause of DNS errors.  Though created primarily\\nto extend SERVFAIL to provide additional information about the cause\\nof DNS and DNSSEC failures, the Extended DNS Errors option defined in\\nthis document allows all response types to contain extended error\\ninformation.  Extended DNS Error information does not change the\\nprocessing of RCODEs.",
     "authors": [
         {
             "author": "Warren Kumari",

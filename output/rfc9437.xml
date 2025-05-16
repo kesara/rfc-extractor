@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies an extension to the Locator/ID Separation Protocol (LISP) control plane to enable Publish/Subscribe (PubSub) operation. ",
+    "abstract": "This document specifies an extension to the Locator/ID Separation\\nProtocol (LISP) control plane to enable Publish/Subscribe (PubSub)\\noperation.",
     "authors": [
         {
             "author": "Alberto Rodriguez-Natal",

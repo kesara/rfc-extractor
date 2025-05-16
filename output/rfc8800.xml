@@ -1,5 +1,5 @@
 {
-    "abstract": "This document introduces a simple mechanism to associate a group of Label Switched Paths (LSPs) via an extension to the Path Computation Element Communication Protocol (PCEP) with the purpose of computing diverse (disjointed) paths for those LSPs.  The proposed extension allows a Path Computation Client (PCC) to advertise to a Path Computation Element (PCE) that a particular LSP belongs to a particular Disjoint Association Group; thus, the PCE knows that the LSPs in the same group need to be disjoint from each other. ",
+    "abstract": "This document introduces a simple mechanism to associate a group of\\nLabel Switched Paths (LSPs) via an extension to the Path Computation\\nElement Communication Protocol (PCEP) with the purpose of computing\\ndiverse (disjointed) paths for those LSPs.  The proposed extension\\nallows a Path Computation Client (PCC) to advertise to a Path\\nComputation Element (PCE) that a particular LSP belongs to a\\nparticular Disjoint Association Group; thus, the PCE knows that the\\nLSPs in the same group need to be disjoint from each other.",
     "authors": [
         {
             "author": "Stephane Litkowski",

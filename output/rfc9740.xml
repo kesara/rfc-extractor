@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies new IP Flow Information Export (IPFIX) Information Elements (IEs) to solve issues with existing ipv6ExtensionHeaders and tcpOptions IPFIX IEs, especially the ability to export any observed IPv6 extension headers or TCP options. ",
+    "abstract": "This document specifies new IP Flow Information Export (IPFIX)\\nInformation Elements (IEs) to solve issues with existing\\nipv6ExtensionHeaders and tcpOptions IPFIX IEs, especially the ability\\nto export any observed IPv6 extension headers or TCP options.",
     "authors": [
         {
             "author": "Mohamed Boucadair",

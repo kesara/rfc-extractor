@@ -1,5 +1,5 @@
 {
-    "abstract": "Open Caching architecture is a use case of Content Delivery Network Interconnection (CDNI) in which the commercial Content Delivery Network (CDN) is the upstream CDN (uCDN) and the ISP caching layer serves as the downstream CDN (dCDN).  This document defines extensions to the CDNI Metadata Interface (MI) and the Footprint & Capabilities Advertisement interface (FCI).  These extensions are derived from requirements raised by Open Caching but are also applicable to CDNI use cases in general. ",
+    "abstract": "Open Caching architecture is a use case of Content Delivery Network\\nInterconnection (CDNI) in which the commercial Content Delivery\\nNetwork (CDN) is the upstream CDN (uCDN) and the ISP caching layer\\nserves as the downstream CDN (dCDN).  This document defines\\nextensions to the CDNI Metadata Interface (MI) and the Footprint &\\nCapabilities Advertisement interface (FCI).  These extensions are\\nderived from requirements raised by Open Caching but are also\\napplicable to CDNI use cases in general.",
     "authors": [
         {
             "author": "Ori Finkelman",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document deprecates the use of any \"int\" domain names that were designated for infrastructure purposes by the IETF, and it identifies them for removal from the \"int\" top-level domain.  Any implementations that involve these domains are now deprecated.  This document also changes the status of RFC 1528 and RFC 1706 to Historic. ",
+    "abstract": "This document deprecates the use of any \"int\" domain names that were\\ndesignated for infrastructure purposes by the IETF, and it identifies\\nthem for removal from the \"int\" top-level domain.  Any\\nimplementations that involve these domains are now deprecated.  This\\ndocument also changes the status of RFC 1528 and RFC 1706 to\\nHistoric.",
     "authors": [
         {
             "author": "Kim Davies",

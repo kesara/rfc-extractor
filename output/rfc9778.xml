@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies revised IANA considerations for the Internet Group Management Protocol (IGMP) and the Multicast Listener Discovery (MLD) protocol.  This document specifies the guidance provided to IANA to manage values associated with various fields within the protocol headers of the group management protocols.  This document obsoletes RFC 3228 and unifies guidelines for IPv4 and IPv6 group management protocols. ",
+    "abstract": "This document specifies revised IANA considerations for the Internet\\nGroup Management Protocol (IGMP) and the Multicast Listener Discovery\\n(MLD) protocol.  This document specifies the guidance provided to\\nIANA to manage values associated with various fields within the\\nprotocol headers of the group management protocols.\\n\\nThis document obsoletes RFC 3228 and unifies guidelines for IPv4 and\\nIPv6 group management protocols.",
     "authors": [
         {
             "author": "Brian Haberman",

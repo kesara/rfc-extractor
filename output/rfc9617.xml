@@ -1,5 +1,5 @@
 {
-    "abstract": "In situ Operations, Administration, and Maintenance (IOAM) is an example of an on-path hybrid measurement method.  IOAM defines a method for producing operational and telemetry information that may be exported using the in-band or out-of-band method.  RFCs 9197 and 9326 discuss the data fields and associated data types for IOAM. This document defines a YANG module for the configuration of IOAM functions. ",
+    "abstract": "In situ Operations, Administration, and Maintenance (IOAM) is an\\nexample of an on-path hybrid measurement method.  IOAM defines a\\nmethod for producing operational and telemetry information that may\\nbe exported using the in-band or out-of-band method.  RFCs 9197 and\\n9326 discuss the data fields and associated data types for IOAM.\\nThis document defines a YANG module for the configuration of IOAM\\nfunctions.",
     "authors": [
         {
             "author": "Tianran Zhou",

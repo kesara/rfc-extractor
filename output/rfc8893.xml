@@ -1,5 +1,5 @@
 {
-    "abstract": "A BGP speaker may perform Resource Public Key Infrastructure (RPKI) origin validation not only on routes received from BGP neighbors and routes that are redistributed from other routing protocols, but also on routes it sends to BGP neighbors.  For egress policy, it is important that the classification use the 'effective origin AS' of the processed route, which may specifically be altered by the commonly available knobs, such as removing private ASes, confederation handling, and other modifications of the origin AS. This document updates RFC 6811. ",
+    "abstract": "A BGP speaker may perform Resource Public Key Infrastructure (RPKI)\\norigin validation not only on routes received from BGP neighbors and\\nroutes that are redistributed from other routing protocols, but also\\non routes it sends to BGP neighbors.  For egress policy, it is\\nimportant that the classification use the 'effective origin AS' of\\nthe processed route, which may specifically be altered by the\\ncommonly available knobs, such as removing private ASes,\\nconfederation handling, and other modifications of the origin AS.\\nThis document updates RFC 6811.",
     "authors": [
         {
             "author": "Randy Bush",

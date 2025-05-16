@@ -1,5 +1,5 @@
 {
-    "abstract": "This document provides an overall framework for the Deterministic Networking (DetNet) data plane.  It covers concepts and considerations that are generally common to any DetNet data plane specification.  It describes related Controller Plane considerations as well. ",
+    "abstract": "This document provides an overall framework for the Deterministic\\nNetworking (DetNet) data plane.  It covers concepts and\\nconsiderations that are generally common to any DetNet data plane\\nspecification.  It describes related Controller Plane considerations\\nas well.",
     "authors": [
         {
             "author": "Bal\u00e1zs Varga",

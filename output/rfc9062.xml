@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the requirements and reference framework for Ethernet VPN (EVPN) Operations, Administration, and Maintenance (OAM).  The requirements cover the OAM aspects of EVPN and Provider Backbone Bridge EVPN (PBB-EVPN).  The framework defines the layered OAM model encompassing the EVPN service layer, network layer, underlying Packet Switched Network (PSN) transport layer, and link layer but focuses on the service and network layers. ",
+    "abstract": "This document specifies the requirements and reference framework for\\nEthernet VPN (EVPN) Operations, Administration, and Maintenance\\n(OAM).  The requirements cover the OAM aspects of EVPN and Provider\\nBackbone Bridge EVPN (PBB-EVPN).  The framework defines the layered\\nOAM model encompassing the EVPN service layer, network layer,\\nunderlying Packet Switched Network (PSN) transport layer, and link\\nlayer but focuses on the service and network layers.",
     "authors": [
         {
             "author": "Samer Salam",

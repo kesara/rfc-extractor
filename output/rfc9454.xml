@@ -1,5 +1,5 @@
 {
-    "abstract": "This document updates some OSPF terminology to be in line with inclusive language used in the industry.  The IETF has designated \"Guidance for NIST Staff on Using Inclusive Language in Documentary Standards\" by the US National Institute of Standards and Technology (NIST) for its inclusive language guidelines.  It is intended that all future OSPF documents use this revised terminology even when they reference the RFCs updated by this document.  This document updates RFCs 2328, 4222, 4811, 5243, 5340, 5614, and 5838. ",
+    "abstract": "This document updates some OSPF terminology to be in line with\\ninclusive language used in the industry.  The IETF has designated\\n\"Guidance for NIST Staff on Using Inclusive Language in Documentary\\nStandards\" by the US National Institute of Standards and Technology\\n(NIST) for its inclusive language guidelines.  It is intended that\\nall future OSPF documents use this revised terminology even when they\\nreference the RFCs updated by this document.\\n\\nThis document updates RFCs 2328, 4222, 4811, 5243, 5340, 5614, and\\n5838.",
     "authors": [
         {
             "author": "Mike Fox",

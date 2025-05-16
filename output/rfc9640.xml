@@ -1,5 +1,5 @@
 {
-    "abstract": "This document presents a YANG 1.1 (RFC 7950) module defining identities, typedefs, and groupings useful to cryptographic applications. ",
+    "abstract": "This document presents a YANG 1.1 (RFC 7950) module defining\\nidentities, typedefs, and groupings useful to cryptographic\\napplications.",
     "authors": [
         {
             "author": "Kent Watsen",

@@ -1,5 +1,5 @@
 {
-    "abstract": "There is a false notion that Internet Number Resources (INRs) in the RPKI can be associated with the real-world identity of the 'holder' of an INR.  This document specifies that RPKI does not associate to the INR holder. ",
+    "abstract": "There is a false notion that Internet Number Resources (INRs) in the\\nRPKI can be associated with the real-world identity of the 'holder'\\nof an INR.  This document specifies that RPKI does not associate to\\nthe INR holder.",
     "authors": [
         {
             "author": "Randy Bush",

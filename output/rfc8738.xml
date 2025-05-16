@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies identifiers and challenges required to enable the Automated Certificate Management Environment (ACME) to issue certificates for IP addresses. ",
+    "abstract": "This document specifies identifiers and challenges required to enable\\nthe Automated Certificate Management Environment (ACME) to issue\\ncertificates for IP addresses.",
     "authors": [
         {
             "author": "Roland Bracewell Shoemaker",

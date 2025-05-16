@@ -1,5 +1,5 @@
 {
-    "abstract": "This document assigns a value for Edwards-Curve Digital Signature Algorithm (EdDSA) Public Keys to the \"IPSECKEY Resource Record Parameters\" registry. ",
+    "abstract": "This document assigns a value for Edwards-Curve Digital Signature\\nAlgorithm (EdDSA) Public Keys to the \"IPSECKEY Resource Record\\nParameters\" registry.",
     "authors": [
         {
             "author": "Robert Moskowitz",

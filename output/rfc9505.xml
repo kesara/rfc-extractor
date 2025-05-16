@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes technical mechanisms employed in network censorship that regimes around the world use for blocking or impairing Internet traffic.  It aims to make designers, implementers, and users of Internet protocols aware of the properties exploited and mechanisms used for censoring end-user access to information.  This document makes no suggestions on individual protocol considerations, and is purely informational, intended as a reference.  This document is a product of the Privacy Enhancement and Assessment Research Group (PEARG) in the IRTF. ",
+    "abstract": "This document describes technical mechanisms employed in network\\ncensorship that regimes around the world use for blocking or\\nimpairing Internet traffic.  It aims to make designers, implementers,\\nand users of Internet protocols aware of the properties exploited and\\nmechanisms used for censoring end-user access to information.  This\\ndocument makes no suggestions on individual protocol considerations,\\nand is purely informational, intended as a reference.  This document\\nis a product of the Privacy Enhancement and Assessment Research Group\\n(PEARG) in the IRTF.",
     "authors": [
         {
             "author": "Joseph Lorenzo Hall",

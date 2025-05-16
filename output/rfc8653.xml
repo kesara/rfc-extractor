@@ -1,5 +1,5 @@
 {
-    "abstract": "Applications differ with respect to whether they need session continuity and/or IP address reachability.  The network providing the same type of service to any mobile host and any application running on the host yields inefficiencies, as described in RFC 7333.  This document defines a new concept of enabling applications to influence the network's mobility services (session continuity and/or IP address reachability) on a per-socket basis, and suggests extensions to the networking stack's API to accommodate this concept. ",
+    "abstract": "Applications differ with respect to whether they need session\\ncontinuity and/or IP address reachability.  The network providing the\\nsame type of service to any mobile host and any application running\\non the host yields inefficiencies, as described in RFC 7333.  This\\ndocument defines a new concept of enabling applications to influence\\nthe network's mobility services (session continuity and/or IP address\\nreachability) on a per-socket basis, and suggests extensions to the\\nnetworking stack's API to accommodate this concept.",
     "authors": [
         {
             "author": "Alper Yegin",

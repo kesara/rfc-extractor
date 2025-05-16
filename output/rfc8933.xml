@@ -1,5 +1,5 @@
 {
-    "abstract": "This document updates the Cryptographic Message Syntax (CMS) specified in RFC 5652 to ensure that algorithm identifiers in signed- data and authenticated-data content types are adequately protected. ",
+    "abstract": "This document updates the Cryptographic Message Syntax (CMS)\\nspecified in RFC 5652 to ensure that algorithm identifiers in signed-\\ndata and authenticated-data content types are adequately protected.",
     "authors": [
         {
             "author": "Russ Housley",

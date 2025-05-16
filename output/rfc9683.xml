@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes a workflow for remote attestation of the integrity of firmware and software installed on network devices that contain Trusted Platform Modules (TPMs), as defined by the Trusted Computing Group (TCG), or equivalent hardware implementations that include the protected capabilities, as provided by TPMs. ",
+    "abstract": "This document describes a workflow for remote attestation of the\\nintegrity of firmware and software installed on network devices that\\ncontain Trusted Platform Modules (TPMs), as defined by the Trusted\\nComputing Group (TCG), or equivalent hardware implementations that\\ninclude the protected capabilities, as provided by TPMs.",
     "authors": [
         {
             "author": "Guy C. Fedorkow",

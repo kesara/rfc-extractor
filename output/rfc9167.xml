@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes an Extensible Provisioning Protocol (EPP) extension called \"Registry Maintenance Notification\", which is used by EPP servers to notify EPP clients and allow EPP clients to query EPP servers regarding maintenance events. ",
+    "abstract": "This document describes an Extensible Provisioning Protocol (EPP)\\nextension called \"Registry Maintenance Notification\", which is used\\nby EPP servers to notify EPP clients and allow EPP clients to query\\nEPP servers regarding maintenance events.",
     "authors": [
         {
             "author": "Tobias Sattler",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes \"Trickle ICE\", an extension to the Interactive Connectivity Establishment (ICE) protocol that enables ICE agents to begin connectivity checks while they are still gathering candidates, by incrementally exchanging candidates over time instead of all at once.  This method can considerably accelerate the process of establishing a communication session. ",
+    "abstract": "This document describes \"Trickle ICE\", an extension to the\\nInteractive Connectivity Establishment (ICE) protocol that enables\\nICE agents to begin connectivity checks while they are still\\ngathering candidates, by incrementally exchanging candidates over\\ntime instead of all at once.  This method can considerably accelerate\\nthe process of establishing a communication session.",
     "authors": [
         {
             "author": "Emil Ivov",

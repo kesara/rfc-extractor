@@ -1,5 +1,5 @@
 {
-    "abstract": "The purpose of this document is to make the Russian cryptographic standards available to the Internet community for their implementation in the Transport Layer Security (TLS) Protocol Version 1.3.  This document defines the cipher suites, signature schemes, and key exchange mechanisms for using Russian cryptographic standards, called GOST algorithms, with TLS Version 1.3.  Additionally, this document specifies a profile of TLS 1.3 with GOST algorithms to facilitate interoperable implementations.  The IETF has not endorsed the cipher suites, signature schemes, or key exchange mechanisms described in this document. ",
+    "abstract": "The purpose of this document is to make the Russian cryptographic\\nstandards available to the Internet community for their\\nimplementation in the Transport Layer Security (TLS) Protocol Version\\n1.3.\\n\\nThis document defines the cipher suites, signature schemes, and key\\nexchange mechanisms for using Russian cryptographic standards, called\\nGOST algorithms, with TLS Version 1.3.  Additionally, this document\\nspecifies a profile of TLS 1.3 with GOST algorithms to facilitate\\ninteroperable implementations.  The IETF has not endorsed the cipher\\nsuites, signature schemes, or key exchange mechanisms described in\\nthis document.",
     "authors": [
         {
             "author": "Stanislav Smyshlyaev",

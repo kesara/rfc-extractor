@@ -1,5 +1,5 @@
 {
-    "abstract": "The Network Time Protocol (NTP) and Network Time Security (NTS) documents define a number of registries, collectively called the NTP registries.  Some registries are correct, but some include incorrect assignments and some don't follow common practice.  For the sake of completeness, this document reviews all NTP and NTS registries, and corrects the registries where necessary.  This document updates RFCs 5905, 5906, 7821, 7822, and 8573. ",
+    "abstract": "The Network Time Protocol (NTP) and Network Time Security (NTS)\\ndocuments define a number of registries, collectively called the NTP\\nregistries.\\n\\nSome registries are correct, but some include incorrect assignments\\nand some don't follow common practice.  For the sake of completeness,\\nthis document reviews all NTP and NTS registries, and corrects the\\nregistries where necessary.\\n\\nThis document updates RFCs 5905, 5906, 7821, 7822, and 8573.",
     "authors": [
         {
             "author": "Rich Salz",

@@ -1,5 +1,5 @@
 {
-    "abstract": "YANG Schema Item iDentifiers (YANG SIDs) are globally unique 63-bit unsigned integers used to identify YANG items.  SIDs provide a more compact method for identifying those YANG items that can be used efficiently, notably in constrained environments (RFC 7228).  This document defines the semantics, registration processes, and assignment processes for YANG SIDs for IETF-managed YANG modules.  To enable the implementation of these processes, this document also defines a file format used to persist and publish assigned YANG SIDs. ",
+    "abstract": "YANG Schema Item iDentifiers (YANG SIDs) are globally unique 63-bit\\nunsigned integers used to identify YANG items.  SIDs provide a more\\ncompact method for identifying those YANG items that can be used\\nefficiently, notably in constrained environments (RFC 7228).  This\\ndocument defines the semantics, registration processes, and\\nassignment processes for YANG SIDs for IETF-managed YANG modules.  To\\nenable the implementation of these processes, this document also\\ndefines a file format used to persist and publish assigned YANG SIDs.",
     "authors": [
         {
             "author": "Michel Veillette",

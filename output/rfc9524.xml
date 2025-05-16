@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes the Segment Routing Replication segment for multipoint service delivery.  A Replication segment allows a packet to be replicated from a replication node to downstream nodes. ",
+    "abstract": "This document describes the Segment Routing Replication segment for\\nmultipoint service delivery.  A Replication segment allows a packet\\nto be replicated from a replication node to downstream nodes.",
     "authors": [
         {
             "author": "Daniel Voyer",

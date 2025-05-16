@@ -1,5 +1,5 @@
 {
-    "abstract": "The RSA Key Encapsulation Mechanism (RSA-KEM) algorithm is a one-pass (store-and-forward) cryptographic mechanism for an originator to securely send keying material to a recipient using the recipient's RSA public key.  The RSA-KEM algorithm is specified in Clause 11.5 of ISO/IEC: 18033-2:2006.  This document specifies the conventions for using the RSA-KEM algorithm as a standalone KEM algorithm and the conventions for using the RSA-KEM algorithm with the Cryptographic Message Syntax (CMS) using KEMRecipientInfo as specified in RFC 9629. This document obsoletes RFC 5990. ",
+    "abstract": "The RSA Key Encapsulation Mechanism (RSA-KEM) algorithm is a one-pass\\n(store-and-forward) cryptographic mechanism for an originator to\\nsecurely send keying material to a recipient using the recipient's\\nRSA public key.  The RSA-KEM algorithm is specified in Clause 11.5 of\\nISO/IEC: 18033-2:2006.  This document specifies the conventions for\\nusing the RSA-KEM algorithm as a standalone KEM algorithm and the\\nconventions for using the RSA-KEM algorithm with the Cryptographic\\nMessage Syntax (CMS) using KEMRecipientInfo as specified in RFC 9629.\\nThis document obsoletes RFC 5990.",
     "authors": [
         {
             "author": "Russ Housley",

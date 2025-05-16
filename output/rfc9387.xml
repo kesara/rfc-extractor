@@ -1,5 +1,5 @@
 {
-    "abstract": "DDoS Open Threat Signaling (DOTS) telemetry enriches the base DOTS protocols to assist the mitigator in using efficient DDoS attack mitigation techniques in a network.  This document presents sample use cases for DOTS telemetry.  It discusses what components are deployed in the network, how they cooperate, and what information is exchanged to effectively use these techniques. ",
+    "abstract": "DDoS Open Threat Signaling (DOTS) telemetry enriches the base DOTS\\nprotocols to assist the mitigator in using efficient DDoS attack\\nmitigation techniques in a network.  This document presents sample\\nuse cases for DOTS telemetry.  It discusses what components are\\ndeployed in the network, how they cooperate, and what information is\\nexchanged to effectively use these techniques.",
     "authors": [
         {
             "author": "Yuhei Hayashi",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a QUOTA extension of the Internet Message Access Protocol (IMAP) (see RFCs 3501 and 9051) that permits administrative limits on resource usage (quotas) to be manipulated through the IMAP protocol.  This document obsoletes RFC 2087 but attempts to remain backwards compatible whenever possible. ",
+    "abstract": "This document defines a QUOTA extension of the Internet Message\\nAccess Protocol (IMAP) (see RFCs 3501 and 9051) that permits\\nadministrative limits on resource usage (quotas) to be manipulated\\nthrough the IMAP protocol.\\n\\nThis document obsoletes RFC 2087 but attempts to remain backwards\\ncompatible whenever possible.",
     "authors": [
         {
             "author": "Alexey Melnikov",

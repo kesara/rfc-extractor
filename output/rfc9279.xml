@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies a generic mechanism to extend IGMPv3 and Multicast Listener Discovery Version 2 (MLDv2) by using a list of TLVs (Type, Length, and Value). ",
+    "abstract": "This document specifies a generic mechanism to extend IGMPv3 and\\nMulticast Listener Discovery Version 2 (MLDv2) by using a list of\\nTLVs (Type, Length, and Value).",
     "authors": [
         {
             "author": "Mahesh Sivakumar",

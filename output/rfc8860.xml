@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies how an RTP session can contain RTP streams with media from multiple media types such as audio, video, and text. This has been restricted by the RTP specifications (RFCs 3550 and 3551), and thus this document updates RFCs 3550 and 3551 to enable this behaviour for applications that satisfy the applicability for using multiple media types in a single RTP session. ",
+    "abstract": "This document specifies how an RTP session can contain RTP streams\\nwith media from multiple media types such as audio, video, and text.\\nThis has been restricted by the RTP specifications (RFCs 3550 and\\n3551), and thus this document updates RFCs 3550 and 3551 to enable\\nthis behaviour for applications that satisfy the applicability for\\nusing multiple media types in a single RTP session.",
     "authors": [
         {
             "author": "Magnus Westerlund",

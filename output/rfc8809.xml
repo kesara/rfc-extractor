@@ -1,5 +1,5 @@
 {
-    "abstract": "This specification defines IANA registries for W3C Web Authentication (WebAuthn) attestation statement format identifiers and extension identifiers. ",
+    "abstract": "This specification defines IANA registries for W3C Web Authentication\\n(WebAuthn) attestation statement format identifiers and extension\\nidentifiers.",
     "authors": [
         {
             "author": "Jeff Hodges",

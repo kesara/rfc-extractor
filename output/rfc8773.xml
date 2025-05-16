@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies a TLS 1.3 extension that allows a server to authenticate with a combination of a certificate and an external pre- shared key (PSK). ",
+    "abstract": "This document specifies a TLS 1.3 extension that allows a server to\\nauthenticate with a combination of a certificate and an external pre-\\nshared key (PSK).",
     "authors": [
         {
             "author": "Russ Housley",

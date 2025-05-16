@@ -1,5 +1,5 @@
 {
-    "abstract": "In situ Operations, Administration, and Maintenance (IOAM) collects operational and telemetry information in the packet while the packet traverses a path between two points in the network.  This document provides a framework for IOAM deployment and provides IOAM deployment considerations and guidance. ",
+    "abstract": "In situ Operations, Administration, and Maintenance (IOAM) collects\\noperational and telemetry information in the packet while the packet\\ntraverses a path between two points in the network.  This document\\nprovides a framework for IOAM deployment and provides IOAM deployment\\nconsiderations and guidance.",
     "authors": [
         {
             "author": "Frank Brockners",

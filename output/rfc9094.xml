@@ -1,5 +1,5 @@
 {
-    "abstract": "This document provides a YANG data model for the routing and wavelength assignment (RWA) TE topology in Wavelength Switched Optical Networks (WSONs).  The YANG data model defined in this document conforms to the Network Management Datastore Architecture (NMDA). ",
+    "abstract": "This document provides a YANG data model for the routing and\\nwavelength assignment (RWA) TE topology in Wavelength Switched\\nOptical Networks (WSONs).  The YANG data model defined in this\\ndocument conforms to the Network Management Datastore Architecture\\n(NMDA).",
     "authors": [
         {
             "author": "\u90d1\u597d\u68c9",

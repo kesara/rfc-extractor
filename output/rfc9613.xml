@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies requirements for the development of MPLS Network Actions (MNAs) that affect the forwarding or other processing of MPLS packets.  These requirements are informed by a number of proposals for additions to the MPLS information in the labeled packet to allow such actions to be performed, either by a transit or terminating Label Switching Router (i.e., the Label Edge Router - LER). ",
+    "abstract": "This document specifies requirements for the development of MPLS\\nNetwork Actions (MNAs) that affect the forwarding or other processing\\nof MPLS packets.  These requirements are informed by a number of\\nproposals for additions to the MPLS information in the labeled packet\\nto allow such actions to be performed, either by a transit or\\nterminating Label Switching Router (i.e., the Label Edge Router -\\nLER).",
     "authors": [
         {
             "author": "Matthew Bocci",

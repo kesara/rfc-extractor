@@ -1,5 +1,5 @@
 {
-    "abstract": "The Registration Data Access Protocol (RDAP) does not include core functionality for clients to provide sorting and paging parameters for control of large result sets.  This omission can lead to unpredictable server processing of queries and client processing of responses.  This unpredictability can be greatly reduced if clients can provide servers with their preferences for managing large responses.  This document describes RDAP query extensions that allow clients to specify their preferences for sorting and paging result sets. ",
+    "abstract": "The Registration Data Access Protocol (RDAP) does not include core\\nfunctionality for clients to provide sorting and paging parameters\\nfor control of large result sets.  This omission can lead to\\nunpredictable server processing of queries and client processing of\\nresponses.  This unpredictability can be greatly reduced if clients\\ncan provide servers with their preferences for managing large\\nresponses.  This document describes RDAP query extensions that allow\\nclients to specify their preferences for sorting and paging result\\nsets.",
     "authors": [
         {
             "author": "Mario Loffredo",

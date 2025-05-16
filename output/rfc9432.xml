@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes a method for automatic DNS zone provisioning among DNS primary and secondary name servers by storing and transferring the catalog of zones to be provisioned as one or more regular DNS zones. ",
+    "abstract": "This document describes a method for automatic DNS zone provisioning\\namong DNS primary and secondary name servers by storing and\\ntransferring the catalog of zones to be provisioned as one or more\\nregular DNS zones.",
     "authors": [
         {
             "author": "Peter van Dijk",

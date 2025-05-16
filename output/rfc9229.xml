@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines an extension to the Babel routing protocol that allows announcing routes to an IPv4 prefix with an IPv6 next hop, which makes it possible for IPv4 traffic to flow through interfaces that have not been assigned an IPv4 address. ",
+    "abstract": "This document defines an extension to the Babel routing protocol that\\nallows announcing routes to an IPv4 prefix with an IPv6 next hop,\\nwhich makes it possible for IPv4 traffic to flow through interfaces\\nthat have not been assigned an IPv4 address.",
     "authors": [
         {
             "author": "Juliusz Chroboczek",

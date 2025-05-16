@@ -1,5 +1,5 @@
 {
-    "abstract": "This memo describes common vulnerabilities related to Domain Name System (DNS) resource record (RR) processing as seen in several DNS client implementations.  These vulnerabilities may lead to successful Denial-of-Service and Remote Code Execution attacks against the affected software.  Where applicable, violations of RFC 1035 are mentioned. ",
+    "abstract": "This memo describes common vulnerabilities related to Domain Name\\nSystem (DNS) resource record (RR) processing as seen in several DNS\\nclient implementations.  These vulnerabilities may lead to successful\\nDenial-of-Service and Remote Code Execution attacks against the\\naffected software.  Where applicable, violations of RFC 1035 are\\nmentioned.",
     "authors": [
         {
             "author": "Stanislav Dashevskyi",

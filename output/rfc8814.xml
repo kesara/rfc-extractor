@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a way for a Border Gateway Protocol - Link State (BGP-LS) speaker to advertise multiple types of supported Maximum SID Depths (MSDs) at node and/or link granularity.  Such advertisements allow entities (e.g., centralized controllers) to determine whether a particular Segment Identifier (SID) stack can be supported in a given network. ",
+    "abstract": "This document defines a way for a Border Gateway Protocol - Link\\nState (BGP-LS) speaker to advertise multiple types of supported\\nMaximum SID Depths (MSDs) at node and/or link granularity.\\n\\nSuch advertisements allow entities (e.g., centralized controllers) to\\ndetermine whether a particular Segment Identifier (SID) stack can be\\nsupported in a given network.",
     "authors": [
         {
             "author": "Jeff Tantsura",

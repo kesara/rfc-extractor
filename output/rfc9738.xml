@@ -1,5 +1,5 @@
 {
-    "abstract": "The MESSAGELIMIT extension of the Internet Message Access Protocol (RFCs 3501 and 9051) allows servers to announce a limit on the number of messages that can be processed in a single FETCH, SEARCH, STORE, COPY, or MOVE command (or their UID variants), or in a single APPEND or UID EXPUNGE command.  This helps servers to control resource usage when performing various IMAP operations.  This helps clients to know the message limit enforced by the corresponding IMAP server and avoid issuing commands that would exceed such limit. ",
+    "abstract": "The MESSAGELIMIT extension of the Internet Message Access Protocol\\n(RFCs 3501 and 9051) allows servers to announce a limit on the number\\nof messages that can be processed in a single FETCH, SEARCH, STORE,\\nCOPY, or MOVE command (or their UID variants), or in a single APPEND\\nor UID EXPUNGE command.  This helps servers to control resource usage\\nwhen performing various IMAP operations.  This helps clients to know\\nthe message limit enforced by the corresponding IMAP server and avoid\\nissuing commands that would exceed such limit.",
     "authors": [
         {
             "author": "Alexey Melnikov",

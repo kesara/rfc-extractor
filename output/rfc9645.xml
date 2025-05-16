@@ -1,5 +1,5 @@
 {
-    "abstract": "This document presents four YANG 1.1 modules -- three IETF modules and one supporting IANA module.  The three IETF modules are \"ietf-tls-common\", \"ietf-tls-client\", and \"ietf-tls-server\".  The \"ietf-tls-client\" and \"ietf-tls-server\" modules are the primary productions of this work, supporting the configuration and monitoring of TLS clients and servers.  The IANA module is \"iana-tls-cipher-suite-algs\".  This module defines YANG enumerations that provide support for an IANA-maintained algorithm registry. ",
+    "abstract": "This document presents four YANG 1.1 modules -- three IETF modules\\nand one supporting IANA module.\\n\\nThe three IETF modules are \"ietf-tls-common\", \"ietf-tls-client\", and\\n\"ietf-tls-server\".  The \"ietf-tls-client\" and \"ietf-tls-server\"\\nmodules are the primary productions of this work, supporting the\\nconfiguration and monitoring of TLS clients and servers.\\n\\nThe IANA module is \"iana-tls-cipher-suite-algs\".  This module defines\\nYANG enumerations that provide support for an IANA-maintained\\nalgorithm registry.",
     "authors": [
         {
             "author": "Kent Watsen",

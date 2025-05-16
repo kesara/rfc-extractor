@@ -1,5 +1,5 @@
 {
-    "abstract": "This document discusses the problem statement and use cases of IPv6-based vehicular networking for Intelligent Transportation Systems (ITS).  The main scenarios of vehicular communications are vehicle-to-vehicle (V2V), vehicle-to-infrastructure (V2I), and vehicle-to-everything (V2X) communications.  First, this document explains use cases using V2V, V2I, and V2X networking.  Next, for IPv6-based vehicular networks, it makes a gap analysis of current IPv6 protocols (e.g., IPv6 Neighbor Discovery, mobility management, as well as security and privacy). ",
+    "abstract": "This document discusses the problem statement and use cases of\\nIPv6-based vehicular networking for Intelligent Transportation\\nSystems (ITS).  The main scenarios of vehicular communications are\\nvehicle-to-vehicle (V2V), vehicle-to-infrastructure (V2I), and\\nvehicle-to-everything (V2X) communications.  First, this document\\nexplains use cases using V2V, V2I, and V2X networking.  Next, for\\nIPv6-based vehicular networks, it makes a gap analysis of current\\nIPv6 protocols (e.g., IPv6 Neighbor Discovery, mobility management,\\nas well as security and privacy).",
     "authors": [
         {
             "author": "Jaehoon Paul Jeong",

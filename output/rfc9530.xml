@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines HTTP fields that support integrity digests. The Content-Digest field can be used for the integrity of HTTP message content.  The Repr-Digest field can be used for the integrity of HTTP representations.  Want-Content-Digest and Want-Repr-Digest can be used to indicate a sender's interest and preferences for receiving the respective Integrity fields.  This document obsoletes RFC 3230 and the Digest and Want-Digest HTTP fields. ",
+    "abstract": "This document defines HTTP fields that support integrity digests.\\nThe Content-Digest field can be used for the integrity of HTTP\\nmessage content.  The Repr-Digest field can be used for the integrity\\nof HTTP representations.  Want-Content-Digest and Want-Repr-Digest\\ncan be used to indicate a sender's interest and preferences for\\nreceiving the respective Integrity fields.\\n\\nThis document obsoletes RFC 3230 and the Digest and Want-Digest HTTP\\nfields.",
     "authors": [
         {
             "author": "Roberto Polli",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a binary format for representing HTTP messages. ",
+    "abstract": "This document defines a binary format for representing HTTP messages.",
     "authors": [
         {
             "author": "Martin Thomson",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This specification describes how to declare in a CBOR Web Token (CWT) (which is defined by RFC 8392) that the presenter of the CWT possesses a particular proof-of-possession key.  Being able to prove possession of a key is also sometimes described as being the holder- of-key.  This specification provides equivalent functionality to \"Proof-of-Possession Key Semantics for JSON Web Tokens (JWTs)\" (RFC 7800) but using Concise Binary Object Representation (CBOR) and CWTs rather than JavaScript Object Notation (JSON) and JSON Web Tokens (JWTs). ",
+    "abstract": "This specification describes how to declare in a CBOR Web Token (CWT)\\n(which is defined by RFC 8392) that the presenter of the CWT\\npossesses a particular proof-of-possession key.  Being able to prove\\npossession of a key is also sometimes described as being the holder-\\nof-key.  This specification provides equivalent functionality to\\n\"Proof-of-Possession Key Semantics for JSON Web Tokens (JWTs)\" (RFC\\n7800) but using Concise Binary Object Representation (CBOR) and CWTs\\nrather than JavaScript Object Notation (JSON) and JSON Web Tokens\\n(JWTs).",
     "authors": [
         {
             "author": "Michael B. Jones",

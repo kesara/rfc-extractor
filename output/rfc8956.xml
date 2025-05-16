@@ -1,5 +1,5 @@
 {
-    "abstract": "\"Dissemination of Flow Specification Rules\" (RFC 8955) provides a Border Gateway Protocol (BGP) extension for the propagation of traffic flow information for the purpose of rate limiting or filtering IPv4 protocol data packets.  This document extends RFC 8955 with IPv6 functionality.  It also updates RFC 8955 by changing the IANA Flow Spec Component Types registry. ",
+    "abstract": "\"Dissemination of Flow Specification Rules\" (RFC 8955) provides a\\nBorder Gateway Protocol (BGP) extension for the propagation of\\ntraffic flow information for the purpose of rate limiting or\\nfiltering IPv4 protocol data packets.\\n\\nThis document extends RFC 8955 with IPv6 functionality.  It also\\nupdates RFC 8955 by changing the IANA Flow Spec Component Types\\nregistry.",
     "authors": [
         {
             "author": "Christoph Loibl",

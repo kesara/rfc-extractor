@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a YANG data model that can be used to configure and manage the IS-IS protocol on network elements. ",
+    "abstract": "This document defines a YANG data model that can be used to configure\\nand manage the IS-IS protocol on network elements.",
     "authors": [
         {
             "author": "Stephane Litkowski",

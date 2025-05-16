@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the certificate extension for including Network Function Types (NFTypes) for the 5G System in X.509 v3 public key certificates as profiled in RFC 5280. ",
+    "abstract": "This document specifies the certificate extension for including\\nNetwork Function Types (NFTypes) for the 5G System in X.509 v3 public\\nkey certificates as profiled in RFC 5280.",
     "authors": [
         {
             "author": "Russ Housley",

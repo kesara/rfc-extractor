@@ -1,5 +1,5 @@
 {
-    "abstract": "Label Switched Path (LSP) Ping is a widely deployed Operations, Administration, and Maintenance (OAM) mechanism in MPLS networks. This document describes mechanisms for detecting data plane failures using LSP Ping in MPLS-based Ethernet VPN (EVPN) and Provider Backbone Bridging EVPN (PBB-EVPN) networks. ",
+    "abstract": "Label Switched Path (LSP) Ping is a widely deployed Operations,\\nAdministration, and Maintenance (OAM) mechanism in MPLS networks.\\nThis document describes mechanisms for detecting data plane failures\\nusing LSP Ping in MPLS-based Ethernet VPN (EVPN) and Provider\\nBackbone Bridging EVPN (PBB-EVPN) networks.",
     "authors": [
         {
             "author": "Parag Jain",

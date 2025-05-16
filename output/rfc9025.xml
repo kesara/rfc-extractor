@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the MPLS Deterministic Networking (DetNet) data plane operation and encapsulation over an IP network.  The approach is based on the operation of MPLS-over-UDP technology. ",
+    "abstract": "This document specifies the MPLS Deterministic Networking (DetNet)\\ndata plane operation and encapsulation over an IP network.  The\\napproach is based on the operation of MPLS-over-UDP technology.",
     "authors": [
         {
             "author": "Bal\u00e1zs Varga",

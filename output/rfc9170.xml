@@ -1,5 +1,5 @@
 {
-    "abstract": "The ability to change protocols depends on exercising the extension and version-negotiation mechanisms that support change.  This document explores how regular use of new protocol features can ensure that it remains possible to deploy changes to a protocol.  Examples are given where lack of use caused changes to be more difficult or costly. ",
+    "abstract": "The ability to change protocols depends on exercising the extension\\nand version-negotiation mechanisms that support change.  This\\ndocument explores how regular use of new protocol features can ensure\\nthat it remains possible to deploy changes to a protocol.  Examples\\nare given where lack of use caused changes to be more difficult or\\ncostly.",
     "authors": [
         {
             "author": "Martin Thomson",

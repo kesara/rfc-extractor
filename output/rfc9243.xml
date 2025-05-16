@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes YANG data models for the configuration and management of Dynamic Host Configuration Protocol for IPv6 (DHCPv6) (RFC 8415) servers, relays, and clients. ",
+    "abstract": "This document describes YANG data models for the configuration and\\nmanagement of Dynamic Host Configuration Protocol for IPv6 (DHCPv6)\\n(RFC 8415) servers, relays, and clients.",
     "authors": [
         {
             "author": "Ian Farrer",

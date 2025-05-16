@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a set of cryptographic transforms for use in the Internet Key Exchange Protocol version 2 (IKEv2).  The transforms are based on Russian cryptographic standard algorithms (called \"GOST\" algorithms).  Use of GOST ciphers in IKEv2 is defined in RFC 9227. This document aims to define the use of GOST algorithms for the rest of the cryptographic transforms used in IKEv2.  This specification was developed to facilitate implementations that wish to support the GOST algorithms.  This document does not imply IETF endorsement of the cryptographic algorithms used in this document. ",
+    "abstract": "This document defines a set of cryptographic transforms for use in\\nthe Internet Key Exchange Protocol version 2 (IKEv2).  The transforms\\nare based on Russian cryptographic standard algorithms (called \"GOST\"\\nalgorithms).  Use of GOST ciphers in IKEv2 is defined in RFC 9227.\\nThis document aims to define the use of GOST algorithms for the rest\\nof the cryptographic transforms used in IKEv2.\\n\\nThis specification was developed to facilitate implementations that\\nwish to support the GOST algorithms.  This document does not imply\\nIETF endorsement of the cryptographic algorithms used in this\\ndocument.",
     "authors": [
         {
             "author": "Valery Smyslov",

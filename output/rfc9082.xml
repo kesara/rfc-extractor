@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes uniform patterns to construct HTTP URLs that may be used to retrieve registration information from registries (including both Regional Internet Registries (RIRs) and Domain Name Registries (DNRs)) using \"RESTful\" web access patterns.  These uniform patterns define the query syntax for the Registration Data Access Protocol (RDAP).  This document obsoletes RFC 7482. ",
+    "abstract": "This document describes uniform patterns to construct HTTP URLs that\\nmay be used to retrieve registration information from registries\\n(including both Regional Internet Registries (RIRs) and Domain Name\\nRegistries (DNRs)) using \"RESTful\" web access patterns.  These\\nuniform patterns define the query syntax for the Registration Data\\nAccess Protocol (RDAP).  This document obsoletes RFC 7482.",
     "authors": [
         {
             "author": "Scott Hollenbeck",

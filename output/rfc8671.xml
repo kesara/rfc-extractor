@@ -1,5 +1,5 @@
 {
-    "abstract": "The BGP Monitoring Protocol (BMP) only defines access to the Adj-RIB- In Routing Information Bases (RIBs).  This document updates BMP (RFC 7854) by adding access to the Adj-RIB-Out RIBs.  It also adds a new flag to the peer header to distinguish between Adj-RIB-In and Adj- RIB-Out. ",
+    "abstract": "The BGP Monitoring Protocol (BMP) only defines access to the Adj-RIB-\\nIn Routing Information Bases (RIBs).  This document updates BMP (RFC\\n7854) by adding access to the Adj-RIB-Out RIBs.  It also adds a new\\nflag to the peer header to distinguish between Adj-RIB-In and Adj-\\nRIB-Out.",
     "authors": [
         {
             "author": "Tim Evens",

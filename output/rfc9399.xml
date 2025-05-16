@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies a certificate extension for including logotypes in public key certificates and attribute certificates. This document obsoletes RFCs 3709 and 6170. ",
+    "abstract": "This document specifies a certificate extension for including\\nlogotypes in public key certificates and attribute certificates.\\nThis document obsoletes RFCs 3709 and 6170.",
     "authors": [
         {
             "author": "Stefan Santesson",

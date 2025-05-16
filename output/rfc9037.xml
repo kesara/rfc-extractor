@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the Deterministic Networking (DetNet) MPLS data plane when operating over an IEEE 802.1 Time-Sensitive Networking (TSN) sub-network.  This document does not define new procedures or processes.  Whenever this document makes statements or recommendations, they are taken from normative text in the referenced RFCs. ",
+    "abstract": "This document specifies the Deterministic Networking (DetNet) MPLS\\ndata plane when operating over an IEEE 802.1 Time-Sensitive\\nNetworking (TSN) sub-network.  This document does not define new\\nprocedures or processes.  Whenever this document makes statements or\\nrecommendations, they are taken from normative text in the referenced\\nRFCs.",
     "authors": [
         {
             "author": "Bal\u00e1zs Varga",

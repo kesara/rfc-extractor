@@ -1,5 +1,5 @@
 {
-    "abstract": "The root zone of the global Domain Name System (DNS) is cryptographically signed using DNS Security Extensions (DNSSEC).  In order to obtain secure answers from the root zone of the DNS using DNSSEC, a client must configure a suitable trust anchor.  This document describes the format and publication mechanisms IANA uses to distribute the DNSSEC trust anchors.  This document obsoletes RFC 7958. ",
+    "abstract": "The root zone of the global Domain Name System (DNS) is\\ncryptographically signed using DNS Security Extensions (DNSSEC).\\n\\nIn order to obtain secure answers from the root zone of the DNS using\\nDNSSEC, a client must configure a suitable trust anchor.  This\\ndocument describes the format and publication mechanisms IANA uses to\\ndistribute the DNSSEC trust anchors.\\n\\nThis document obsoletes RFC 7958.",
     "authors": [
         {
             "author": "Joe Abley",

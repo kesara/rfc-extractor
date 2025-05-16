@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a YANG data model for configuring and managing routing policies in a vendor-neutral way.  The model provides a generic routing policy framework that can be extended for specific routing protocols using the YANG 'augment' mechanism. ",
+    "abstract": "This document defines a YANG data model for configuring and managing\\nrouting policies in a vendor-neutral way.  The model provides a\\ngeneric routing policy framework that can be extended for specific\\nrouting protocols using the YANG 'augment' mechanism.",
     "authors": [
         {
             "author": "Yingzhen Qu",

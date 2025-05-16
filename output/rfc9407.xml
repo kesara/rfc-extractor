@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes Tetrys, which is an on-the-fly network coding protocol that can be used to transport delay-sensitive and loss- sensitive data over a lossy network.  Tetrys may recover from erasures within an RTT-independent delay thanks to the transmission of coded packets.  This document is a record of the experience gained by the authors while developing and testing the Tetrys protocol in real conditions.  This document is a product of the Coding for Efficient NetWork Communications Research Group (NWCRG).  It conforms to the NWCRG taxonomy described in RFC 8406. ",
+    "abstract": "This document describes Tetrys, which is an on-the-fly network coding\\nprotocol that can be used to transport delay-sensitive and loss-\\nsensitive data over a lossy network.  Tetrys may recover from\\nerasures within an RTT-independent delay thanks to the transmission\\nof coded packets.  This document is a record of the experience gained\\nby the authors while developing and testing the Tetrys protocol in\\nreal conditions.\\n\\nThis document is a product of the Coding for Efficient NetWork\\nCommunications Research Group (NWCRG).  It conforms to the NWCRG\\ntaxonomy described in RFC 8406.",
     "authors": [
         {
             "author": "Jonathan Detchart",

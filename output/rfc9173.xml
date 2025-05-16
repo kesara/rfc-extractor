@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines default integrity and confidentiality security contexts that can be used with Bundle Protocol Security (BPSec) implementations.  These security contexts are intended to be used both for testing the interoperability of BPSec implementations and for providing basic security operations when no other security contexts are defined or otherwise required for a network. ",
+    "abstract": "This document defines default integrity and confidentiality security\\ncontexts that can be used with Bundle Protocol Security (BPSec)\\nimplementations.  These security contexts are intended to be used\\nboth for testing the interoperability of BPSec implementations and\\nfor providing basic security operations when no other security\\ncontexts are defined or otherwise required for a network.",
     "authors": [
         {
             "author": "Edward J. Birrane, III",

@@ -1,5 +1,5 @@
 {
-    "abstract": "When security vulnerabilities are discovered by researchers, proper reporting channels are often lacking.  As a result, vulnerabilities may be left unreported.  This document defines a machine-parsable format (\"security.txt\") to help organizations describe their vulnerability disclosure practices to make it easier for researchers to report vulnerabilities. ",
+    "abstract": "When security vulnerabilities are discovered by researchers, proper\\nreporting channels are often lacking.  As a result, vulnerabilities\\nmay be left unreported.  This document defines a machine-parsable\\nformat (\"security.txt\") to help organizations describe their\\nvulnerability disclosure practices to make it easier for researchers\\nto report vulnerabilities.",
     "authors": [
         {
             "author": "Edwin Foudil",

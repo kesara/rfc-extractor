@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines YANG modules for the configuration and operation of IPv4-in-IPv6 softwire Border Relays and Customer Premises Equipment for the Lightweight 4over6, Mapping of Address and Port with Encapsulation (MAP-E), and Mapping of Address and Port using Translation (MAP-T) softwire mechanisms. ",
+    "abstract": "This document defines YANG modules for the configuration and\\noperation of IPv4-in-IPv6 softwire Border Relays and Customer\\nPremises Equipment for the Lightweight 4over6, Mapping of Address and\\nPort with Encapsulation (MAP-E), and Mapping of Address and Port\\nusing Translation (MAP-T) softwire mechanisms.",
     "authors": [
         {
             "author": "Ian Farrer",

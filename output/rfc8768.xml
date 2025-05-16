@@ -1,5 +1,5 @@
 {
-    "abstract": "The presence of Constrained Application Protocol (CoAP) proxies may lead to infinite forwarding loops, which is undesirable.  To prevent and detect such loops, this document specifies the Hop-Limit CoAP option. ",
+    "abstract": "The presence of Constrained Application Protocol (CoAP) proxies may\\nlead to infinite forwarding loops, which is undesirable.  To prevent\\nand detect such loops, this document specifies the Hop-Limit CoAP\\noption.",
     "authors": [
         {
             "author": "Mohamed Boucadair",

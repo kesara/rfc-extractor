@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the conventions for using the AES-GMAC Message Authentication Code algorithm with the Cryptographic Message Syntax (CMS) as specified in RFC 5652. ",
+    "abstract": "This document specifies the conventions for using the AES-GMAC\\nMessage Authentication Code algorithm with the Cryptographic Message\\nSyntax (CMS) as specified in RFC 5652.",
     "authors": [
         {
             "author": "Russ Housley",

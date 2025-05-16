@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes the Secure Frame (SFrame) end-to-end encryption and authentication mechanism for media frames in a multiparty conference call, in which central media servers (Selective Forwarding Units or SFUs) can access the media metadata needed to make forwarding decisions without having access to the actual media.  This mechanism differs from the Secure Real-Time Protocol (SRTP) in that it is independent of RTP (thus compatible with non-RTP media transport) and can be applied to whole media frames in order to be more bandwidth efficient. ",
+    "abstract": "This document describes the Secure Frame (SFrame) end-to-end\\nencryption and authentication mechanism for media frames in a\\nmultiparty conference call, in which central media servers (Selective\\nForwarding Units or SFUs) can access the media metadata needed to\\nmake forwarding decisions without having access to the actual media.\\n\\nThis mechanism differs from the Secure Real-Time Protocol (SRTP) in\\nthat it is independent of RTP (thus compatible with non-RTP media\\ntransport) and can be applied to whole media frames in order to be\\nmore bandwidth efficient.",
     "authors": [
         {
             "author": "Emad Omara",

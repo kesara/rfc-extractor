@@ -1,5 +1,5 @@
 {
-    "abstract": "Ethernet VPN (EVPN) provides an extensible and flexible multihoming VPN solution over an MPLS/IP network for intra-subnet connectivity among Tenant Systems and end devices that can be physical or virtual. However, there are scenarios for which there is a need for a dynamic and efficient inter-subnet connectivity among these Tenant Systems and end devices while maintaining the multihoming capabilities of EVPN.  This document describes an Integrated Routing and Bridging (IRB) solution based on EVPN to address such requirements. ",
+    "abstract": "Ethernet VPN (EVPN) provides an extensible and flexible multihoming\\nVPN solution over an MPLS/IP network for intra-subnet connectivity\\namong Tenant Systems and end devices that can be physical or virtual.\\nHowever, there are scenarios for which there is a need for a dynamic\\nand efficient inter-subnet connectivity among these Tenant Systems\\nand end devices while maintaining the multihoming capabilities of\\nEVPN.  This document describes an Integrated Routing and Bridging\\n(IRB) solution based on EVPN to address such requirements.",
     "authors": [
         {
             "author": "Ali Sajassi",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the Flexible Round-Optimized Schnorr Threshold (FROST) signing protocol.  FROST signatures can be issued after a threshold number of entities cooperate to compute a signature, allowing for improved distribution of trust and redundancy with respect to a secret key.  FROST depends only on a prime-order group and cryptographic hash function.  This document specifies a number of ciphersuites to instantiate FROST using different prime- order groups and hash functions.  This document is a product of the Crypto Forum Research Group (CFRG) in the IRTF. ",
+    "abstract": "This document specifies the Flexible Round-Optimized Schnorr\\nThreshold (FROST) signing protocol.  FROST signatures can be issued\\nafter a threshold number of entities cooperate to compute a\\nsignature, allowing for improved distribution of trust and redundancy\\nwith respect to a secret key.  FROST depends only on a prime-order\\ngroup and cryptographic hash function.  This document specifies a\\nnumber of ciphersuites to instantiate FROST using different prime-\\norder groups and hash functions.  This document is a product of the\\nCrypto Forum Research Group (CFRG) in the IRTF.",
     "authors": [
         {
             "author": "Deirdre Connolly",

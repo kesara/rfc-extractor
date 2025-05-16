@@ -1,5 +1,5 @@
 {
-    "abstract": "Segment Routing (SR) leverages the source-routing paradigm.  A node steers a packet through a controlled set of instructions, called segments, by prepending the packet with an SR header.  In the MPLS data plane, the SR header is instantiated through a label stack. This document specifies the forwarding behavior to allow instantiating SR over the MPLS data plane (SR-MPLS). ",
+    "abstract": "Segment Routing (SR) leverages the source-routing paradigm.  A node\\nsteers a packet through a controlled set of instructions, called\\nsegments, by prepending the packet with an SR header.  In the MPLS\\ndata plane, the SR header is instantiated through a label stack.\\nThis document specifies the forwarding behavior to allow\\ninstantiating SR over the MPLS data plane (SR-MPLS).",
     "authors": [
         {
             "author": "Ahmed Bashandy",

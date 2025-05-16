@@ -1,5 +1,5 @@
 {
-    "abstract": "The Quantum Internet has the potential to improve application functionality by incorporating quantum information technology into the infrastructure of the overall Internet.  This document provides an overview of some applications expected to be used on the Quantum Internet and categorizes them.  Some general requirements for the Quantum Internet are also discussed.  The intent of this document is to describe a framework for applications and to describe a few selected application scenarios for the Quantum Internet.  This document is a product of the Quantum Internet Research Group (QIRG). ",
+    "abstract": "The Quantum Internet has the potential to improve application\\nfunctionality by incorporating quantum information technology into\\nthe infrastructure of the overall Internet.  This document provides\\nan overview of some applications expected to be used on the Quantum\\nInternet and categorizes them.  Some general requirements for the\\nQuantum Internet are also discussed.  The intent of this document is\\nto describe a framework for applications and to describe a few\\nselected application scenarios for the Quantum Internet.  This\\ndocument is a product of the Quantum Internet Research Group (QIRG).",
     "authors": [
         {
             "author": "Chonggang Wang",

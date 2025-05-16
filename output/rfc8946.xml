@@ -1,5 +1,5 @@
 {
-    "abstract": "The Personal Assertion Token (PASSporT) is specified in RFC 8225 to convey cryptographically signed information about the people involved in personal communications.  This document extends PASSporT to include an indication that a call has been diverted from its original destination to a new one.  This information can greatly improve the decisions made by verification services in call forwarding scenarios. Also specified here is an encapsulation mechanism for nesting a PASSporT within another PASSporT that assists relying parties in some diversion scenarios.  This document updates RFC 8224. ",
+    "abstract": "The Personal Assertion Token (PASSporT) is specified in RFC 8225 to\\nconvey cryptographically signed information about the people involved\\nin personal communications.  This document extends PASSporT to\\ninclude an indication that a call has been diverted from its original\\ndestination to a new one.  This information can greatly improve the\\ndecisions made by verification services in call forwarding scenarios.\\nAlso specified here is an encapsulation mechanism for nesting a\\nPASSporT within another PASSporT that assists relying parties in some\\ndiversion scenarios.\\n\\nThis document updates RFC 8224.",
     "authors": [
         {
             "author": "Jon Peterson",

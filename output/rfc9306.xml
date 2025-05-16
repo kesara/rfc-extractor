@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes a new Locator/ID Separation Protocol (LISP) Canonical Address Format (LCAF), the Vendor-Specific LCAF.  This LCAF enables organizations to have implementation-specific encodings for LCAF addresses.  This document updates RFC 8060. ",
+    "abstract": "This document describes a new Locator/ID Separation Protocol (LISP)\\nCanonical Address Format (LCAF), the Vendor-Specific LCAF.  This LCAF\\nenables organizations to have implementation-specific encodings for\\nLCAF addresses.  This document updates RFC 8060.",
     "authors": [
         {
             "author": "Alberto Rodriguez-Natal",

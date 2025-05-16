@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes revisions to operational practices to separate the function of the \"arpa\" top-level domain in the DNS from its historical operation alongside the DNS root zone. ",
+    "abstract": "This document describes revisions to operational practices to\\nseparate the function of the \"arpa\" top-level domain in the DNS from\\nits historical operation alongside the DNS root zone.",
     "authors": [
         {
             "author": "Kim Davies",

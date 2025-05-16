@@ -1,5 +1,5 @@
 {
-    "abstract": "This document updates RFC 7030: Enrollment over Secure Transport to resolve some errata that were reported and that have proven to cause interoperability issues when RFC 7030 was extended.  This document deprecates the specification of \"Content-Transfer- Encoding\" headers for Enrollment over Secure Transport (EST) endpoints.  This document fixes some syntactical errors in ASN.1 that were present. ",
+    "abstract": "This document updates RFC 7030: Enrollment over Secure Transport to\\nresolve some errata that were reported and that have proven to cause\\ninteroperability issues when RFC 7030 was extended.\\n\\nThis document deprecates the specification of \"Content-Transfer-\\nEncoding\" headers for Enrollment over Secure Transport (EST)\\nendpoints.  This document fixes some syntactical errors in ASN.1 that\\nwere present.",
     "authors": [
         {
             "author": "Michael Richardson",

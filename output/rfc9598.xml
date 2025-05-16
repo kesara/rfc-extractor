@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a new name form for inclusion in the otherName field of an X.509 Subject Alternative Name and Issuer Alternative Name extension that allows a certificate subject to be associated with an internationalized email address.  This document updates RFC 5280 and obsoletes RFC 8398. ",
+    "abstract": "This document defines a new name form for inclusion in the otherName\\nfield of an X.509 Subject Alternative Name and Issuer Alternative\\nName extension that allows a certificate subject to be associated\\nwith an internationalized email address.\\n\\nThis document updates RFC 5280 and obsoletes RFC 8398.",
     "authors": [
         {
             "author": "Alexey Melnikov",

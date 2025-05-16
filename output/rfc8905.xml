@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines the 'payto' Uniform Resource Identifier (URI) scheme for designating targets for payments.  A unified URI scheme for all payment target types allows applications to offer user interactions with URIs that represent payment targets, simplifying the introduction of new payment systems and applications. ",
+    "abstract": "This document defines the 'payto' Uniform Resource Identifier (URI)\\nscheme for designating targets for payments.\\n\\nA unified URI scheme for all payment target types allows applications\\nto offer user interactions with URIs that represent payment targets,\\nsimplifying the introduction of new payment systems and applications.",
     "authors": [
         {
             "author": "Florian Dold",

@@ -1,5 +1,5 @@
 {
-    "abstract": "The age of quantum networking is upon us, and with it comes \"entanglement\": a procedure in which a state (i.e., a bit) can be transferred instantly, with no measurable delay between peers.  This will lead to a perceived round-trip time of zero seconds on some Internet paths, a capability which was not predicted and so not included as a possibility in many protocol specifications.  Worse than the millennium bug, this unexpected value is bound to cause serious Internet failures unless the specifications are fixed in time. ",
+    "abstract": "The age of quantum networking is upon us, and with it comes\\n\"entanglement\": a procedure in which a state (i.e., a bit) can be\\ntransferred instantly, with no measurable delay between peers.  This\\nwill lead to a perceived round-trip time of zero seconds on some\\nInternet paths, a capability which was not predicted and so not\\nincluded as a possibility in many protocol specifications.  Worse\\nthan the millennium bug, this unexpected value is bound to cause\\nserious Internet failures unless the specifications are fixed in\\ntime.",
     "authors": [
         {
             "author": "Michael Welzl",

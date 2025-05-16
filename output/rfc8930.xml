@@ -1,5 +1,5 @@
 {
-    "abstract": "This document provides generic rules to enable the forwarding of an IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) fragment over a route-over network.  Forwarding fragments can improve both end-to-end latency and reliability as well as reduce the buffer requirements in intermediate nodes; it may be implemented using RFC 4944 and Virtual Reassembly Buffers (VRBs). ",
+    "abstract": "This document provides generic rules to enable the forwarding of an\\nIPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) fragment\\nover a route-over network.  Forwarding fragments can improve both\\nend-to-end latency and reliability as well as reduce the buffer\\nrequirements in intermediate nodes; it may be implemented using RFC\\n4944 and Virtual Reassembly Buffers (VRBs).",
     "authors": [
         {
             "author": "Thomas Watteyne",

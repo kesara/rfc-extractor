@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a YANG data model that can be used to configure and manage Internet Group Management Protocol (IGMP) or Multicast Listener Discovery (MLD) Proxy devices.  The YANG module in this document conforms to the Network Management Datastore Architecture (NMDA). ",
+    "abstract": "This document defines a YANG data model that can be used to configure\\nand manage Internet Group Management Protocol (IGMP) or Multicast\\nListener Discovery (MLD) Proxy devices.  The YANG module in this\\ndocument conforms to the Network Management Datastore Architecture\\n(NMDA).",
     "authors": [
         {
             "author": "Hongji Zhao",

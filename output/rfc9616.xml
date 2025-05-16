@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines an extension to the Babel routing protocol that measures the round-trip time (RTT) between routers and makes it possible to prefer lower-latency links over higher-latency ones. ",
+    "abstract": "This document defines an extension to the Babel routing protocol that\\nmeasures the round-trip time (RTT) between routers and makes it\\npossible to prefer lower-latency links over higher-latency ones.",
     "authors": [
         {
             "author": "Baptiste Jonglez",

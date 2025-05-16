@@ -1,5 +1,5 @@
 {
-    "abstract": "IGP protocols historically compute the best paths over the network based on the IGP metric assigned to the links.  Many network deployments use RSVP-TE or Segment Routing - Traffic Engineering (SR- TE) to steer traffic over a path that is computed using different metrics or constraints than the shortest IGP path.  This document specifies a solution that allows IGPs themselves to compute constraint-based paths over the network.  This document also specifies a way of using Segment Routing (SR) Prefix-SIDs and SRv6 locators to steer packets along the constraint-based paths. ",
+    "abstract": "IGP protocols historically compute the best paths over the network\\nbased on the IGP metric assigned to the links.  Many network\\ndeployments use RSVP-TE or Segment Routing - Traffic Engineering (SR-\\nTE) to steer traffic over a path that is computed using different\\nmetrics or constraints than the shortest IGP path.  This document\\nspecifies a solution that allows IGPs themselves to compute\\nconstraint-based paths over the network.  This document also\\nspecifies a way of using Segment Routing (SR) Prefix-SIDs and SRv6\\nlocators to steer packets along the constraint-based paths.",
     "authors": [
         {
             "author": "Peter Psenak",

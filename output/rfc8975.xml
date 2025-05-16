@@ -1,5 +1,5 @@
 {
-    "abstract": "This document is a product of the Coding for Efficient Network Communications Research Group (NWCRG).  It conforms to the directions found in the NWCRG taxonomy (RFC 8406).  The objective is to contribute to a larger deployment of Network Coding techniques in and above the network layer in satellite communication systems.  This document also identifies open research issues related to the deployment of Network Coding in satellite communication systems. ",
+    "abstract": "This document is a product of the Coding for Efficient Network\\nCommunications Research Group (NWCRG).  It conforms to the directions\\nfound in the NWCRG taxonomy (RFC 8406).\\n\\nThe objective is to contribute to a larger deployment of Network\\nCoding techniques in and above the network layer in satellite\\ncommunication systems.  This document also identifies open research\\nissues related to the deployment of Network Coding in satellite\\ncommunication systems.",
     "authors": [
         {
             "author": "Nicolas Kuhn",

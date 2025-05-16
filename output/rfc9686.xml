@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a method to inform a DHCPv6 server that a device has one or more self-generated or statically configured addresses. ",
+    "abstract": "This document defines a method to inform a DHCPv6 server that a\\ndevice has one or more self-generated or statically configured\\naddresses.",
     "authors": [
         {
             "author": "Warren Kumari",

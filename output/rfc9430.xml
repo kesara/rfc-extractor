@@ -1,5 +1,5 @@
 {
-    "abstract": "This document updates \"Datagram Transport Layer Security (DTLS) Profile for Authentication and Authorization for Constrained Environments (ACE)\" (RFC 9202) by specifying that the profile applies to TLS as well as DTLS. ",
+    "abstract": "This document updates \"Datagram Transport Layer Security (DTLS)\\nProfile for Authentication and Authorization for Constrained\\nEnvironments (ACE)\" (RFC 9202) by specifying that the profile applies\\nto TLS as well as DTLS.",
     "authors": [
         {
             "author": "Olaf Bergmann",

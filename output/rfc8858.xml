@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a new Session Description Protocol (SDP) media- level attribute, 'rtcp-mux-only', that can be used by an endpoint to indicate exclusive support of RTP and RTP Control Protocol (RTCP) multiplexing.  The document also updates RFC 5761 by clarifying that an offerer can use a mechanism to indicate that it is not able to send and receive RTCP on separate ports. ",
+    "abstract": "This document defines a new Session Description Protocol (SDP) media-\\nlevel attribute, 'rtcp-mux-only', that can be used by an endpoint to\\nindicate exclusive support of RTP and RTP Control Protocol (RTCP)\\nmultiplexing.  The document also updates RFC 5761 by clarifying that\\nan offerer can use a mechanism to indicate that it is not able to\\nsend and receive RTCP on separate ports.",
     "authors": [
         {
             "author": "Christer Holmberg",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines how to convert contact information between the JSContact and vCard data formats.  It defines conversion rules for every JSContact and vCard element registered at IANA at the time of publication.  It also defines new JSContact properties as well as vCard properties and parameters, to support converting arbitrary or unknown JSContact and vCard elements. ",
+    "abstract": "This document defines how to convert contact information between the\\nJSContact and vCard data formats.  It defines conversion rules for\\nevery JSContact and vCard element registered at IANA at the time of\\npublication.  It also defines new JSContact properties as well as\\nvCard properties and parameters, to support converting arbitrary or\\nunknown JSContact and vCard elements.",
     "authors": [
         {
             "author": "Mario Loffredo",

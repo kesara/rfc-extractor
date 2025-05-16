@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes how to produce digital signatures and hash functions using the GOST R 34.10-2012 and GOST R 34.11-2012 algorithms for DNSKEY, RRSIG, and DS resource records, for use in the Domain Name System Security Extensions (DNSSEC). ",
+    "abstract": "This document describes how to produce digital signatures and hash\\nfunctions using the GOST R 34.10-2012 and GOST R 34.11-2012\\nalgorithms for DNSKEY, RRSIG, and DS resource records, for use in the\\nDomain Name System Security Extensions (DNSSEC).",
     "authors": [
         {
             "author": "Boris Makarenko",

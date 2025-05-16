@@ -1,5 +1,5 @@
 {
-    "abstract": "The widely deployed Extension Mechanisms for DNS (EDNS(0)) feature in the DNS enables a DNS receiver to indicate its received UDP message size capacity, which supports the sending of large UDP responses by a DNS server.  Large DNS/UDP messages are more likely to be fragmented, and IP fragmentation has exposed weaknesses in application protocols. It is possible to avoid IP fragmentation in DNS by limiting the response size where possible and signaling the need to upgrade from UDP to TCP transport where necessary.  This document describes techniques to avoid IP fragmentation in DNS. ",
+    "abstract": "The widely deployed Extension Mechanisms for DNS (EDNS(0)) feature in\\nthe DNS enables a DNS receiver to indicate its received UDP message\\nsize capacity, which supports the sending of large UDP responses by a\\nDNS server.  Large DNS/UDP messages are more likely to be fragmented,\\nand IP fragmentation has exposed weaknesses in application protocols.\\nIt is possible to avoid IP fragmentation in DNS by limiting the\\nresponse size where possible and signaling the need to upgrade from\\nUDP to TCP transport where necessary.  This document describes\\ntechniques to avoid IP fragmentation in DNS.",
     "authors": [
         {
             "author": "Kazunori Fujiwara",

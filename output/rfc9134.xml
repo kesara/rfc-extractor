@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies a Real-Time Transport Protocol (RTP) payload format to be used for transporting video encoded with JPEG XS (ISO/ IEC 21122).  JPEG XS is a low-latency, lightweight image coding system.  Compared to an uncompressed video use case, it allows higher resolutions and video frame rates while offering visually lossless quality, reduced power consumption, and encoding-decoding latency confined to a fraction of a video frame. ",
+    "abstract": "This document specifies a Real-Time Transport Protocol (RTP) payload\\nformat to be used for transporting video encoded with JPEG XS (ISO/\\nIEC 21122).  JPEG XS is a low-latency, lightweight image coding\\nsystem.  Compared to an uncompressed video use case, it allows higher\\nresolutions and video frame rates while offering visually lossless\\nquality, reduced power consumption, and encoding-decoding latency\\nconfined to a fraction of a video frame.",
     "authors": [
         {
             "author": "Tim Bruylants",

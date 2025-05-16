@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes an RTP payload format for the Essential Video Coding (EVC) standard, published as ISO/IEC International Standard 23094-1.  EVC was developed by the MPEG.  The RTP payload format allows for the packetization of one or more Network Abstraction Layer (NAL) units in each RTP packet payload and the fragmentation of a NAL unit into multiple RTP packets.  The payload format has broad applicability in videoconferencing, Internet video streaming, and high-bitrate entertainment-quality video, among other applications. ",
+    "abstract": "This document describes an RTP payload format for the Essential Video\\nCoding (EVC) standard, published as ISO/IEC International Standard\\n23094-1.  EVC was developed by the MPEG.  The RTP payload format\\nallows for the packetization of one or more Network Abstraction Layer\\n(NAL) units in each RTP packet payload and the fragmentation of a NAL\\nunit into multiple RTP packets.  The payload format has broad\\napplicability in videoconferencing, Internet video streaming, and\\nhigh-bitrate entertainment-quality video, among other applications.",
     "authors": [
         {
             "author": "Shuai Zhao",

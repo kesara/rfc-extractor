@@ -1,5 +1,5 @@
 {
-    "abstract": "The Static Context Header Compression and fragmentation (SCHC) specification (RFC 8724) describes generic header compression and fragmentation techniques for Low-Power Wide Area Network (LPWAN) technologies.  SCHC is a generic mechanism designed for great flexibility so that it can be adapted for any of the LPWAN technologies.  This document defines a profile of SCHC (RFC 8724) for use in LoRaWAN networks and provides elements such as efficient parameterization and modes of operation. ",
+    "abstract": "The Static Context Header Compression and fragmentation (SCHC)\\nspecification (RFC 8724) describes generic header compression and\\nfragmentation techniques for Low-Power Wide Area Network (LPWAN)\\ntechnologies.  SCHC is a generic mechanism designed for great\\nflexibility so that it can be adapted for any of the LPWAN\\ntechnologies.\\n\\nThis document defines a profile of SCHC (RFC 8724) for use in LoRaWAN\\nnetworks and provides elements such as efficient parameterization and\\nmodes of operation.",
     "authors": [
         {
             "author": "Olivier Gimenez",

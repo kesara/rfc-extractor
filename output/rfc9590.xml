@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines an extension to the Internet Message Access Protocol (IMAP) LIST command that allows the client to request mailbox annotations (metadata), along with other information typically returned by the LIST command. ",
+    "abstract": "This document defines an extension to the Internet Message Access\\nProtocol (IMAP) LIST command that allows the client to request\\nmailbox annotations (metadata), along with other information\\ntypically returned by the LIST command.",
     "authors": [
         {
             "author": "Kenneth Murchison",

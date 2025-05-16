@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes Oblivious HTTP, a protocol for forwarding encrypted HTTP messages.  Oblivious HTTP allows a client to make multiple requests to an origin server without that server being able to link those requests to the client or to identify the requests as having come from the same client, while placing only limited trust in the nodes used to forward the messages. ",
+    "abstract": "This document describes Oblivious HTTP, a protocol for forwarding\\nencrypted HTTP messages.  Oblivious HTTP allows a client to make\\nmultiple requests to an origin server without that server being able\\nto link those requests to the client or to identify the requests as\\nhaving come from the same client, while placing only limited trust in\\nthe nodes used to forward the messages.",
     "authors": [
         {
             "author": "Martin Thomson",

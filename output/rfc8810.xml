@@ -1,5 +1,5 @@
 {
-    "abstract": "This document updates RFC 5492 by making a change to the registration procedures for BGP Capability Codes.  Specifically, the range formerly designated \"Private Use\" is divided into three new ranges: \"First Come First Served\", \"Experimental Use\", and \"Reserved\". ",
+    "abstract": "This document updates RFC 5492 by making a change to the registration\\nprocedures for BGP Capability Codes.  Specifically, the range\\nformerly designated \"Private Use\" is divided into three new ranges:\\n\"First Come First Served\", \"Experimental Use\", and \"Reserved\".",
     "authors": [
         {
             "author": "John Scudder",

@@ -1,5 +1,5 @@
 {
-    "abstract": "The MD5 and SHA-1 hashing algorithms are increasingly vulnerable to attack, and this document deprecates their use in TLS 1.2 and DTLS 1.2 digital signatures.  However, this document does not deprecate SHA-1 with Hashed Message Authentication Code (HMAC), as used in record protection.  This document updates RFC 5246. ",
+    "abstract": "The MD5 and SHA-1 hashing algorithms are increasingly vulnerable to\\nattack, and this document deprecates their use in TLS 1.2 and DTLS\\n1.2 digital signatures.  However, this document does not deprecate\\nSHA-1 with Hashed Message Authentication Code (HMAC), as used in\\nrecord protection.  This document updates RFC 5246.",
     "authors": [
         {
             "author": "Loganaden Velvindron",

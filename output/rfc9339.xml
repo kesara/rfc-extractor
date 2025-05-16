@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the extensions to OSPF that enable a router to use Link-Local Signaling (LLS) to signal the metric that receiving OSPF neighbor(s) should use for a link to the signaling router.  When used on the link to the signaling router, the signaling of this reverse metric (RM) allows a router to influence the amount of traffic flowing towards itself.  In certain use cases, this enables routers to maintain symmetric metrics on both sides of a link between them. ",
+    "abstract": "This document specifies the extensions to OSPF that enable a router\\nto use Link-Local Signaling (LLS) to signal the metric that receiving\\nOSPF neighbor(s) should use for a link to the signaling router.  When\\nused on the link to the signaling router, the signaling of this\\nreverse metric (RM) allows a router to influence the amount of\\ntraffic flowing towards itself.  In certain use cases, this enables\\nrouters to maintain symmetric metrics on both sides of a link between\\nthem.",
     "authors": [
         {
             "author": "Ketan Talaulikar",

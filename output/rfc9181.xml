@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a common YANG module that is meant to be reused by various VPN-related modules such as Layer 3 VPN and Layer 2 VPN network models. ",
+    "abstract": "This document defines a common YANG module that is meant to be reused\\nby various VPN-related modules such as Layer 3 VPN and Layer 2 VPN\\nnetwork models.",
     "authors": [
         {
             "author": "Samier Barguil",

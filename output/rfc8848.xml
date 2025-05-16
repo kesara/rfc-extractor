@@ -1,5 +1,5 @@
 {
-    "abstract": "This document is about Controlling Multiple Streams for Telepresence (CLUE) signaling.  It specifies how the CLUE protocol and the CLUE data channel are used in conjunction with each other and with existing signaling mechanisms, such as SIP and the Session Description Protocol (SDP), to produce a telepresence call. ",
+    "abstract": "This document is about Controlling Multiple Streams for Telepresence\\n(CLUE) signaling.  It specifies how the CLUE protocol and the CLUE\\ndata channel are used in conjunction with each other and with\\nexisting signaling mechanisms, such as SIP and the Session\\nDescription Protocol (SDP), to produce a telepresence call.",
     "authors": [
         {
             "author": "Robert Hanton",

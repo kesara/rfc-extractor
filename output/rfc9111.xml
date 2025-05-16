@@ -1,5 +1,5 @@
 {
-    "abstract": "The Hypertext Transfer Protocol (HTTP) is a stateless application- level protocol for distributed, collaborative, hypertext information systems.  This document defines HTTP caches and the associated header fields that control cache behavior or indicate cacheable response messages.  This document obsoletes RFC 7234. ",
+    "abstract": "The Hypertext Transfer Protocol (HTTP) is a stateless application-\\nlevel protocol for distributed, collaborative, hypertext information\\nsystems.  This document defines HTTP caches and the associated header\\nfields that control cache behavior or indicate cacheable response\\nmessages.\\n\\nThis document obsoletes RFC 7234.",
     "authors": [
         {
             "author": "Roy T. Fielding",

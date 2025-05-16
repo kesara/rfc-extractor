@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines the Session Description Protocol (SDP) offer/ answer procedures for negotiating and establishing Binary Floor Control Protocol (BFCP) streams.  This document obsoletes RFC 4583. ",
+    "abstract": "This document defines the Session Description Protocol (SDP) offer/\\nanswer procedures for negotiating and establishing Binary Floor\\nControl Protocol (BFCP) streams.\\n\\nThis document obsoletes RFC 4583.",
     "authors": [
         {
             "author": "Gonzalo Camarillo",

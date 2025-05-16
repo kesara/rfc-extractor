@@ -1,5 +1,5 @@
 {
-    "abstract": "The key to the extensibility of the Intermediate System to Intermediate System (IS-IS) protocol has been the handling of unsupported and/or invalid Type-Length-Value (TLV) tuples.  Although there are explicit statements in existing specifications, deployment experience has shown that there are inconsistencies in the behavior when a TLV that is disallowed in a particular Protocol Data Unit (PDU) is received.  This document discusses such cases and makes the correct behavior explicit in order to ensure that interoperability is maximized.  This document updates RFCs 5305 and 6232. ",
+    "abstract": "The key to the extensibility of the Intermediate System to\\nIntermediate System (IS-IS) protocol has been the handling of\\nunsupported and/or invalid Type-Length-Value (TLV) tuples.  Although\\nthere are explicit statements in existing specifications, deployment\\nexperience has shown that there are inconsistencies in the behavior\\nwhen a TLV that is disallowed in a particular Protocol Data Unit\\n(PDU) is received.\\n\\nThis document discusses such cases and makes the correct behavior\\nexplicit in order to ensure that interoperability is maximized.\\n\\nThis document updates RFCs 5305 and 6232.",
     "authors": [
         {
             "author": "Les Ginsberg",

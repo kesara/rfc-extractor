@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies an extension to \"The JSON Meta Application Protocol (JMAP) for Mail\" (RFC 8621) for returning the S/MIME signature verification status. ",
+    "abstract": "This document specifies an extension to \"The JSON Meta Application\\nProtocol (JMAP) for Mail\" (RFC 8621) for returning the S/MIME\\nsignature verification status.",
     "authors": [
         {
             "author": "Alexey Melnikov",

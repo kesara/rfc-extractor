@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes extensions to the Locator/ID Separation Protocol (LISP) data plane, via changes to the LISP header, to support multiprotocol encapsulation and allow the introduction of new protocol capabilities. ",
+    "abstract": "This document describes extensions to the Locator/ID Separation\\nProtocol (LISP) data plane, via changes to the LISP header, to\\nsupport multiprotocol encapsulation and allow the introduction of new\\nprotocol capabilities.",
     "authors": [
         {
             "author": "Fabio Maino",

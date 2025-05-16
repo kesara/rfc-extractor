@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a YANG data model to describe microwave and millimeter-wave radio links in a network topology. ",
+    "abstract": "This document defines a YANG data model to describe microwave and\\nmillimeter-wave radio links in a network topology.",
     "authors": [
         {
             "author": "Scott Mansfield",

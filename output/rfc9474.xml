@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies an RSA-based blind signature protocol.  RSA blind signatures were first introduced by Chaum for untraceable payments.  A signature that is output from this protocol can be verified as an RSA-PSS signature.  This document is a product of the Crypto Forum Research Group (CFRG) in the IRTF. ",
+    "abstract": "This document specifies an RSA-based blind signature protocol.  RSA\\nblind signatures were first introduced by Chaum for untraceable\\npayments.  A signature that is output from this protocol can be\\nverified as an RSA-PSS signature.\\n\\nThis document is a product of the Crypto Forum Research Group (CFRG)\\nin the IRTF.",
     "authors": [
         {
             "author": "Frank Denis",

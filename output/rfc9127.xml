@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a YANG data model that can be used to configure and manage Bidirectional Forwarding Detection (BFD).  The YANG modules in this document conform to the Network Management Datastore Architecture (NMDA) (RFC 8342). ",
+    "abstract": "This document defines a YANG data model that can be used to configure\\nand manage Bidirectional Forwarding Detection (BFD).\\n\\nThe YANG modules in this document conform to the Network Management\\nDatastore Architecture (NMDA) (RFC 8342).",
     "authors": [
         {
             "author": "Reshad Rahman",

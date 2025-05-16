@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines an extension to the Dynamic Link Exchange Protocol (DLEP) that enables a modem to use DLEP messages to pause and resume data traffic coming from its peer router. ",
+    "abstract": "This document defines an extension to the Dynamic Link Exchange\\nProtocol (DLEP) that enables a modem to use DLEP messages to pause\\nand resume data traffic coming from its peer router.",
     "authors": [
         {
             "author": "Bow-Nan Cheng",

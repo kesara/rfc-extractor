@@ -1,5 +1,5 @@
 {
-    "abstract": "This document provides a RESTCONF binding to the dynamic subscription capability of both subscribed notifications and YANG-Push. ",
+    "abstract": "This document provides a RESTCONF binding to the dynamic subscription\\ncapability of both subscribed notifications and YANG-Push.",
     "authors": [
         {
             "author": "Eric Voit",

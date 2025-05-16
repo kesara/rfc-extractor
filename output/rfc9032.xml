@@ -1,5 +1,5 @@
 {
-    "abstract": "In the Time-Slotted Channel Hopping (TSCH) mode of IEEE Std 802.15.4, opportunities for broadcasts are limited to specific times and specific channels.  Routers in a TSCH network transmit Enhanced Beacon (EB) frames to announce the presence of the network.  This document provides a mechanism by which additional information critical for new nodes (pledges) and long-sleeping nodes may be carried within the EB in order to conserve use of broadcast opportunities. ",
+    "abstract": "In the Time-Slotted Channel Hopping (TSCH) mode of IEEE Std 802.15.4,\\nopportunities for broadcasts are limited to specific times and\\nspecific channels.  Routers in a TSCH network transmit Enhanced\\nBeacon (EB) frames to announce the presence of the network.  This\\ndocument provides a mechanism by which additional information\\ncritical for new nodes (pledges) and long-sleeping nodes may be\\ncarried within the EB in order to conserve use of broadcast\\nopportunities.",
     "authors": [
         {
             "author": "Diego Dujovne",

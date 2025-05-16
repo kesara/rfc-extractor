@@ -1,5 +1,5 @@
 {
-    "abstract": "This document analyzes the timeline of the specification and implementation of different types of \"transient numeric identifiers\" used in IETF protocols and how the security and privacy properties of such protocols have been affected as a result of it.  It provides empirical evidence that advice in this area is warranted.  This document is a product of the Privacy Enhancements and Assessments Research Group (PEARG) in the IRTF. ",
+    "abstract": "This document analyzes the timeline of the specification and\\nimplementation of different types of \"transient numeric identifiers\"\\nused in IETF protocols and how the security and privacy properties of\\nsuch protocols have been affected as a result of it.  It provides\\nempirical evidence that advice in this area is warranted.  This\\ndocument is a product of the Privacy Enhancements and Assessments\\nResearch Group (PEARG) in the IRTF.",
     "authors": [
         {
             "author": "Fernando Gont",

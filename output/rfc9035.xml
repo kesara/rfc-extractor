@@ -1,5 +1,5 @@
 {
-    "abstract": "This document updates RFC 8138 by defining a bit in the Routing Protocol for Low-Power and Lossy Networks (RPL) Destination-Oriented Directed Acyclic Graph (DODAG) Configuration option to indicate whether compression is used within the RPL Instance and to specify the behavior of nodes compliant with RFC 8138 when the bit is set and unset. ",
+    "abstract": "This document updates RFC 8138 by defining a bit in the Routing\\nProtocol for Low-Power and Lossy Networks (RPL) Destination-Oriented\\nDirected Acyclic Graph (DODAG) Configuration option to indicate\\nwhether compression is used within the RPL Instance and to specify\\nthe behavior of nodes compliant with RFC 8138 when the bit is set and\\nunset.",
     "authors": [
         {
             "author": "Pascal Thubert",

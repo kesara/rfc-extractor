@@ -1,5 +1,5 @@
 {
-    "abstract": "The Application-Layer Traffic Optimization (ALTO) protocol (RFC 7285) provides network-related information, called network information resources, to client applications so that clients can make informed decisions in utilizing network resources.  This document presents a mechanism to allow an ALTO server to push updates to ALTO clients to achieve two benefits: (1) updates can be incremental, in that if only a small section of an information resource changes, the ALTO server can send just the changes and (2) updates can be immediate, in that the ALTO server can send updates as soon as they are available. ",
+    "abstract": "The Application-Layer Traffic Optimization (ALTO) protocol (RFC 7285)\\nprovides network-related information, called network information\\nresources, to client applications so that clients can make informed\\ndecisions in utilizing network resources.  This document presents a\\nmechanism to allow an ALTO server to push updates to ALTO clients to\\nachieve two benefits: (1) updates can be incremental, in that if only\\na small section of an information resource changes, the ALTO server\\ncan send just the changes and (2) updates can be immediate, in that\\nthe ALTO server can send updates as soon as they are available.",
     "authors": [
         {
             "author": "Wendy Roome",

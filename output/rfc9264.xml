@@ -1,5 +1,5 @@
 {
-    "abstract": "This specification defines two formats and associated media types for representing sets of links as standalone documents.  One format is based on JSON, and the other is aligned with the format for representing links in the HTTP \"Link\" header field.  This specification also introduces a link relation type to support the discovery of sets of links. ",
+    "abstract": "This specification defines two formats and associated media types for\\nrepresenting sets of links as standalone documents.  One format is\\nbased on JSON, and the other is aligned with the format for\\nrepresenting links in the HTTP \"Link\" header field.  This\\nspecification also introduces a link relation type to support the\\ndiscovery of sets of links.",
     "authors": [
         {
             "author": "Erik Wilde",

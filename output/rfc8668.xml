@@ -1,5 +1,5 @@
 {
-    "abstract": "There are deployments where the Layer 3 interface on which IS-IS operates is a Layer 2 interface bundle.  Existing IS-IS advertisements only support advertising link attributes of the Layer 3 interface.  If entities external to IS-IS wish to control traffic flows on the individual physical links that comprise the Layer 2 interface bundle, link attribute information about the bundle members is required.  This document introduces the ability for IS-IS to advertise the link attributes of Layer 2 (L2) Bundle Members. ",
+    "abstract": "There are deployments where the Layer 3 interface on which IS-IS\\noperates is a Layer 2 interface bundle.  Existing IS-IS\\nadvertisements only support advertising link attributes of the Layer\\n3 interface.  If entities external to IS-IS wish to control traffic\\nflows on the individual physical links that comprise the Layer 2\\ninterface bundle, link attribute information about the bundle members\\nis required.\\n\\nThis document introduces the ability for IS-IS to advertise the link\\nattributes of Layer 2 (L2) Bundle Members.",
     "authors": [
         {
             "author": "Les Ginsberg",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes loss detection and congestion control mechanisms for QUIC. ",
+    "abstract": "This document describes loss detection and congestion control\\nmechanisms for QUIC.",
     "authors": [
         {
             "author": "Jana Iyengar",

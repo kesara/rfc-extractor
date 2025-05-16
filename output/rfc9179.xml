@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a generic geographical location YANG grouping. The geographical location grouping is intended to be used in YANG data models for specifying a location on or in reference to Earth or any other astronomical object. ",
+    "abstract": "This document defines a generic geographical location YANG grouping.\\nThe geographical location grouping is intended to be used in YANG\\ndata models for specifying a location on or in reference to Earth or\\nany other astronomical object.",
     "authors": [
         {
             "author": "Christian Hopps",

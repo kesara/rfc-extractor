@@ -1,5 +1,5 @@
 {
-    "abstract": "The JSON Meta Application Protocol (JMAP) base protocol (RFC 8620) provides the ability to upload and download arbitrary binary data via HTTP POST and GET on a defined endpoint.  This binary data is called a \"blob\".  This extension adds additional ways to create and access blobs by making inline method calls within a standard JMAP request.  This extension also adds a reverse lookup mechanism to discover where blobs are referenced within other data types. ",
+    "abstract": "The JSON Meta Application Protocol (JMAP) base protocol (RFC 8620)\\nprovides the ability to upload and download arbitrary binary data via\\nHTTP POST and GET on a defined endpoint.  This binary data is called\\na \"blob\".\\n\\nThis extension adds additional ways to create and access blobs by\\nmaking inline method calls within a standard JMAP request.\\n\\nThis extension also adds a reverse lookup mechanism to discover where\\nblobs are referenced within other data types.",
     "authors": [
         {
             "author": "Bron Gondwana",

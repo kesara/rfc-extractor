@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes the specification for using Curve25519 and Curve448 key exchange methods in the Secure Shell (SSH) protocol. ",
+    "abstract": "This document describes the specification for using Curve25519 and\\nCurve448 key exchange methods in the Secure Shell (SSH) protocol.",
     "authors": [
         {
             "author": "Aris Adamantiadis",

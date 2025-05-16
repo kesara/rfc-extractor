@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a YANG data model for the configuration and management of the Routing in Fat Trees (RIFT) Protocol.  The model is based on YANG 1.1, which is defined in RFC 7950 and conforms to the Network Management Datastore Architecture (NMDA) as described in RFC 8342. ",
+    "abstract": "This document defines a YANG data model for the configuration and\\nmanagement of the Routing in Fat Trees (RIFT) Protocol.  The model is\\nbased on YANG 1.1, which is defined in RFC 7950 and conforms to the\\nNetwork Management Datastore Architecture (NMDA) as described in RFC\\n8342.",
     "authors": [
         {
             "author": "Zheng (Sandy) Zhang",

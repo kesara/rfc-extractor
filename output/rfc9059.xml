@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines Path Computation Element Communication Protocol (PCEP) extensions for grouping two unidirectional MPLS-TE Label Switched Paths (LSPs), one in each direction in the network, into an associated bidirectional LSP.  These PCEP extensions can be applied either using a stateful PCE for both PCE-initiated and PCC-initiated LSPs or using a stateless PCE.  The PCEP procedures defined are applicable to the LSPs using RSVP-TE for signaling. ",
+    "abstract": "This document defines Path Computation Element Communication Protocol\\n(PCEP) extensions for grouping two unidirectional MPLS-TE Label\\nSwitched Paths (LSPs), one in each direction in the network, into an\\nassociated bidirectional LSP.  These PCEP extensions can be applied\\neither using a stateful PCE for both PCE-initiated and PCC-initiated\\nLSPs or using a stateless PCE.  The PCEP procedures defined are\\napplicable to the LSPs using RSVP-TE for signaling.",
     "authors": [
         {
             "author": "Rakesh Gandhi",

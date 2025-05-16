@@ -1,5 +1,5 @@
 {
-    "abstract": "The Hypertext Transfer Protocol (HTTP) is a stateless application- level protocol for distributed, collaborative, hypertext information systems.  This document describes the overall architecture of HTTP, establishes common terminology, and defines aspects of the protocol that are shared by all versions.  In this definition are core protocol elements, extensibility mechanisms, and the \"http\" and \"https\" Uniform Resource Identifier (URI) schemes.  This document updates RFC 3864 and obsoletes RFCs 2818, 7231, 7232, 7233, 7235, 7538, 7615, 7694, and portions of 7230. ",
+    "abstract": "The Hypertext Transfer Protocol (HTTP) is a stateless application-\\nlevel protocol for distributed, collaborative, hypertext information\\nsystems.  This document describes the overall architecture of HTTP,\\nestablishes common terminology, and defines aspects of the protocol\\nthat are shared by all versions.  In this definition are core\\nprotocol elements, extensibility mechanisms, and the \"http\" and\\n\"https\" Uniform Resource Identifier (URI) schemes.\\n\\nThis document updates RFC 3864 and obsoletes RFCs 2818, 7231, 7232,\\n7233, 7235, 7538, 7615, 7694, and portions of 7230.",
     "authors": [
         {
             "author": "Roy T. Fielding",

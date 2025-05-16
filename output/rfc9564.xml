@@ -1,5 +1,5 @@
 {
-    "abstract": "The recent advances in artificial intelligence (AI) such as large language models enable the design of the Faster than LIght speed Protocol (FLIP) for Internet.  FLIP provides a way to avoid congestion, enhance security, and deliver faster packets on the Internet by using AI to predict future packets at the receiving peer before they arrive.  This document describes the protocol, its various encapsulations, and some operational considerations. ",
+    "abstract": "The recent advances in artificial intelligence (AI) such as large\\nlanguage models enable the design of the Faster than LIght speed\\nProtocol (FLIP) for Internet.  FLIP provides a way to avoid\\ncongestion, enhance security, and deliver faster packets on the\\nInternet by using AI to predict future packets at the receiving peer\\nbefore they arrive.  This document describes the protocol, its\\nvarious encapsulations, and some operational considerations.",
     "authors": [
         {
             "author": "Marc Blanchet",

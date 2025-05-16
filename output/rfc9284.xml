@@ -1,5 +1,5 @@
 {
-    "abstract": "This document discusses multihoming considerations for DDoS Open Threat Signaling (DOTS).  The goal is to provide some guidance for DOTS clients and client-domain DOTS gateways when multihomed. ",
+    "abstract": "This document discusses multihoming considerations for DDoS Open\\nThreat Signaling (DOTS).  The goal is to provide some guidance for\\nDOTS clients and client-domain DOTS gateways when multihomed.",
     "authors": [
         {
             "author": "Mohamed Boucadair",

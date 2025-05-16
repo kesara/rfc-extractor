@@ -1,5 +1,5 @@
 {
-    "abstract": "The Grant Negotiation and Authorization Protocol (GNAP) defines a mechanism for delegating authorization to a piece of software and conveying the results and artifacts of that delegation to the software.  This delegation can include access to a set of APIs as well as subject information passed directly to the software. ",
+    "abstract": "The Grant Negotiation and Authorization Protocol (GNAP) defines a\\nmechanism for delegating authorization to a piece of software and\\nconveying the results and artifacts of that delegation to the\\nsoftware.  This delegation can include access to a set of APIs as\\nwell as subject information passed directly to the software.",
     "authors": [
         {
             "author": "Justin Richer",

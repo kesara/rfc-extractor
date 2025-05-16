@@ -1,5 +1,5 @@
 {
-    "abstract": "ISO/IEC 19770-2:2015 Software Identification (SWID) tags provide an extensible XML-based structure to identify and describe individual software components, patches, and installation bundles.  SWID tag representations can be too large for devices with network and storage constraints.  This document defines a concise representation of SWID tags: Concise SWID (CoSWID) tags.  CoSWID supports a set of semantics and features that are similar to those for SWID tags, as well as new semantics that allow CoSWIDs to describe additional types of information, all in a more memory-efficient format. ",
+    "abstract": "ISO/IEC 19770-2:2015 Software Identification (SWID) tags provide an\\nextensible XML-based structure to identify and describe individual\\nsoftware components, patches, and installation bundles.  SWID tag\\nrepresentations can be too large for devices with network and storage\\nconstraints.  This document defines a concise representation of SWID\\ntags: Concise SWID (CoSWID) tags.  CoSWID supports a set of semantics\\nand features that are similar to those for SWID tags, as well as new\\nsemantics that allow CoSWIDs to describe additional types of\\ninformation, all in a more memory-efficient format.",
     "authors": [
         {
             "author": "Henk Birkholz",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines the Connectivity Provisioning Negotiation Protocol (CPNP), which is designed to facilitate the dynamic negotiation of service parameters.  CPNP is a generic protocol that can be used for various negotiation purposes that include (but are not necessarily limited to) connectivity provisioning services, storage facilities, Content Delivery Networks, etc. ",
+    "abstract": "This document defines the Connectivity Provisioning Negotiation\\nProtocol (CPNP), which is designed to facilitate the dynamic\\nnegotiation of service parameters.\\n\\nCPNP is a generic protocol that can be used for various negotiation\\npurposes that include (but are not necessarily limited to)\\nconnectivity provisioning services, storage facilities, Content\\nDelivery Networks, etc.",
     "authors": [
         {
             "author": "Mohamed Boucadair",

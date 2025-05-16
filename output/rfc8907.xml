@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes the Terminal Access Controller Access-Control System Plus (TACACS+) protocol, which is widely deployed today to provide Device Administration for routers, network access servers, and other networked computing devices via one or more centralized servers. ",
+    "abstract": "This document describes the Terminal Access Controller Access-Control\\nSystem Plus (TACACS+) protocol, which is widely deployed today to\\nprovide Device Administration for routers, network access servers,\\nand other networked computing devices via one or more centralized\\nservers.",
     "authors": [
         {
             "author": "Thorsten Dahm",

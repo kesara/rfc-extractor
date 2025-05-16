@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the use of the SM2 digital signature algorithm and SM3 hash algorithm for DNS Security (DNSSEC).  This document is an Independent Submission to the RFC series and does not have consensus of the IETF community. ",
+    "abstract": "This document specifies the use of the SM2 digital signature\\nalgorithm and SM3 hash algorithm for DNS Security (DNSSEC).\\n\\nThis document is an Independent Submission to the RFC series and does\\nnot have consensus of the IETF community.",
     "authors": [
         {
             "author": "Cuiling Zhang",

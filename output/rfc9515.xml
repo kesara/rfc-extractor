@@ -1,5 +1,5 @@
 {
-    "abstract": "This document updates RFC 7854, \"BGP Monitoring Protocol (BMP)\", by changing the registration procedures for several registries. Specifically, any BMP registry with a range of 32768-65530 designated \"Specification Required\" has that range redesignated as \"First Come First Served\". ",
+    "abstract": "This document updates RFC 7854, \"BGP Monitoring Protocol (BMP)\", by\\nchanging the registration procedures for several registries.\\nSpecifically, any BMP registry with a range of 32768-65530 designated\\n\"Specification Required\" has that range redesignated as \"First Come\\nFirst Served\".",
     "authors": [
         {
             "author": "John Scudder",

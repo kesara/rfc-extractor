@@ -1,5 +1,5 @@
 {
-    "abstract": "RFC 5033 discusses the principles and guidelines for standardizing new congestion control algorithms.  This document obsoletes RFC 5033 to reflect changes in the congestion control landscape by providing a framework for the development and assessment of congestion control mechanisms, promoting stability across diverse network paths.  This document seeks to ensure that proposed congestion control algorithms operate efficiently and without harm when used in the global Internet.  It emphasizes the need for comprehensive testing and validation to prevent adverse interactions with existing flows. ",
+    "abstract": "RFC 5033 discusses the principles and guidelines for standardizing\\nnew congestion control algorithms.  This document obsoletes RFC 5033\\nto reflect changes in the congestion control landscape by providing a\\nframework for the development and assessment of congestion control\\nmechanisms, promoting stability across diverse network paths.  This\\ndocument seeks to ensure that proposed congestion control algorithms\\noperate efficiently and without harm when used in the global\\nInternet.  It emphasizes the need for comprehensive testing and\\nvalidation to prevent adverse interactions with existing flows.",
     "authors": [
         {
             "author": "Martin Duke",

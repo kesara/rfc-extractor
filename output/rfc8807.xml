@@ -1,5 +1,5 @@
 {
-    "abstract": "The Extensible Provisioning Protocol (EPP) includes a client authentication scheme that is based on a user identifier and password.  The structure of the password field is defined by an XML Schema data type that specifies minimum and maximum password length values, but there are no other provisions for password management other than changing the password.  This document describes an EPP extension that allows longer passwords to be created and adds additional security features to the EPP login command and response. ",
+    "abstract": "The Extensible Provisioning Protocol (EPP) includes a client\\nauthentication scheme that is based on a user identifier and\\npassword.  The structure of the password field is defined by an XML\\nSchema data type that specifies minimum and maximum password length\\nvalues, but there are no other provisions for password management\\nother than changing the password.  This document describes an EPP\\nextension that allows longer passwords to be created and adds\\nadditional security features to the EPP login command and response.",
     "authors": [
         {
             "author": "James Gould",

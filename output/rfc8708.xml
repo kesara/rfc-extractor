@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the conventions for using the Hierarchical Signature System (HSS) / Leighton-Micali Signature (LMS) hash-based signature algorithm with the Cryptographic Message Syntax (CMS).  In addition, the algorithm identifier and public key syntax are provided.  The HSS/LMS algorithm is one form of hash-based digital signature; it is described in RFC 8554. ",
+    "abstract": "This document specifies the conventions for using the Hierarchical\\nSignature System (HSS) / Leighton-Micali Signature (LMS) hash-based\\nsignature algorithm with the Cryptographic Message Syntax (CMS).  In\\naddition, the algorithm identifier and public key syntax are\\nprovided.  The HSS/LMS algorithm is one form of hash-based digital\\nsignature; it is described in RFC 8554.",
     "authors": [
         {
             "author": "Russ Housley",

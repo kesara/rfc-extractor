@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a method for JSON Meta Application Protocol (JMAP) servers to advertise their capability to authenticate Web Push notifications using the Voluntary Application Server Identification (VAPID) protocol. ",
+    "abstract": "This document defines a method for JSON Meta Application Protocol\\n(JMAP) servers to advertise their capability to authenticate Web Push\\nnotifications using the Voluntary Application Server Identification\\n(VAPID) protocol.",
     "authors": [
         {
             "author": "Daniel Gultsch",

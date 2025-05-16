@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes the flow and service information model for Deterministic Networking (DetNet).  These models are defined for IP and MPLS DetNet data planes. ",
+    "abstract": "This document describes the flow and service information model for\\nDeterministic Networking (DetNet).  These models are defined for IP\\nand MPLS DetNet data planes.",
     "authors": [
         {
             "author": "Bal\u00e1zs Varga",

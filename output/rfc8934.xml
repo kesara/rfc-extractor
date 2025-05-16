@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a set of extensions to the stateful PCE Communication Protocol (PCEP) to enable Label Switched Path (LSP) path computation, activation, setup, and deletion based on scheduled time intervals for the LSP and the actual network resource usage in a centralized network environment, as stated in RFC 8413. ",
+    "abstract": "This document defines a set of extensions to the stateful PCE\\nCommunication Protocol (PCEP) to enable Label Switched Path (LSP)\\npath computation, activation, setup, and deletion based on scheduled\\ntime intervals for the LSP and the actual network resource usage in a\\ncentralized network environment, as stated in RFC 8413.",
     "authors": [
         {
             "author": "Huaimo Chen",

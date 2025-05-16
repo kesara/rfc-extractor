@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes an email authentication method compliant with RFC 8601.  The method consists of looking up the sender's IP address in a DNS whitelist.  This document provides information in case the method is seen in the field, suggests a useful practice, and registers the relevant keywords.  This document does not consider blacklists. ",
+    "abstract": "This document describes an email authentication method compliant with\\nRFC 8601.  The method consists of looking up the sender's IP address\\nin a DNS whitelist.  This document provides information in case the\\nmethod is seen in the field, suggests a useful practice, and\\nregisters the relevant keywords.\\n\\nThis document does not consider blacklists.",
     "authors": [
         {
             "author": "Alessandro Vesely",

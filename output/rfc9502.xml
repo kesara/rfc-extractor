@@ -1,5 +1,5 @@
 {
-    "abstract": "This document extends IGP Flexible Algorithm so that it can be used with regular IPv4 and IPv6 forwarding. ",
+    "abstract": "This document extends IGP Flexible Algorithm so that it can be used\\nwith regular IPv4 and IPv6 forwarding.",
     "authors": [
         {
             "author": "William Britto",

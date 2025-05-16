@@ -1,5 +1,5 @@
 {
-    "abstract": "The WebRTC framework specifies protocol support for direct, interactive, rich communication using audio, video, and data between two peers' web browsers.  This document specifies the non-media data transport aspects of the WebRTC framework.  It provides an architectural overview of how the Stream Control Transmission Protocol (SCTP) is used in the WebRTC context as a generic transport service that allows web browsers to exchange generic data from peer to peer. ",
+    "abstract": "The WebRTC framework specifies protocol support for direct,\\ninteractive, rich communication using audio, video, and data between\\ntwo peers' web browsers.  This document specifies the non-media data\\ntransport aspects of the WebRTC framework.  It provides an\\narchitectural overview of how the Stream Control Transmission\\nProtocol (SCTP) is used in the WebRTC context as a generic transport\\nservice that allows web browsers to exchange generic data from peer\\nto peer.",
     "authors": [
         {
             "author": "Randell Jesup",

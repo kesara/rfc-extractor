@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the Simple Certificate Enrolment Protocol (SCEP), a PKI protocol that leverages existing technology by using Cryptographic Message Syntax (CMS, formerly known as PKCS #7) and PKCS #10 over HTTP.  SCEP is the evolution of the enrolment protocol sponsored by Cisco Systems, which enjoys wide support in both client and server implementations, as well as being relied upon by numerous other industry standards that work with certificates. ",
+    "abstract": "This document specifies the Simple Certificate Enrolment Protocol\\n(SCEP), a PKI protocol that leverages existing technology by using\\nCryptographic Message Syntax (CMS, formerly known as PKCS #7) and\\nPKCS #10 over HTTP.  SCEP is the evolution of the enrolment protocol\\nsponsored by Cisco Systems, which enjoys wide support in both client\\nand server implementations, as well as being relied upon by numerous\\nother industry standards that work with certificates.",
     "authors": [
         {
             "author": "Peter Gutmann",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies QUIC version 2, which is identical to QUIC version 1 except for some trivial details.  Its purpose is to combat various ossification vectors and exercise the version negotiation framework.  It also serves as a template for the minimum changes in any future version of QUIC.  Note that \"version 2\" is an informal name for this proposal that indicates it is the second version of QUIC to be published as a Standards Track document.  The protocol specified here uses a version number other than 2 in the wire image, in order to minimize ossification risks. ",
+    "abstract": "This document specifies QUIC version 2, which is identical to QUIC\\nversion 1 except for some trivial details.  Its purpose is to combat\\nvarious ossification vectors and exercise the version negotiation\\nframework.  It also serves as a template for the minimum changes in\\nany future version of QUIC.\\n\\nNote that \"version 2\" is an informal name for this proposal that\\nindicates it is the second version of QUIC to be published as a\\nStandards Track document.  The protocol specified here uses a version\\nnumber other than 2 in the wire image, in order to minimize\\nossification risks.",
     "authors": [
         {
             "author": "Martin Duke",

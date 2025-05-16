@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes how Transport Layer Security (TLS) is used to secure QUIC. ",
+    "abstract": "This document describes how Transport Layer Security (TLS) is used to\\nsecure QUIC.",
     "authors": [
         {
             "author": "Martin Thomson",

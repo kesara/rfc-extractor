@@ -1,5 +1,5 @@
 {
-    "abstract": "Segment Routing over IPv6 (SRv6) uses IPv6 as the underlying data plane.  Thus, Segment Identifiers (SIDs) used by SRv6 can resemble IPv6 addresses and behave like them while exhibiting slightly different behaviors in some situations.  This document explores the characteristics of SRv6 SIDs and focuses on the relationship of SRv6 SIDs to the IPv6 Addressing Architecture.  This document allocates and makes a dedicated prefix available for SRv6 SIDs. ",
+    "abstract": "Segment Routing over IPv6 (SRv6) uses IPv6 as the underlying data\\nplane.  Thus, Segment Identifiers (SIDs) used by SRv6 can resemble\\nIPv6 addresses and behave like them while exhibiting slightly\\ndifferent behaviors in some situations.  This document explores the\\ncharacteristics of SRv6 SIDs and focuses on the relationship of SRv6\\nSIDs to the IPv6 Addressing Architecture.  This document allocates\\nand makes a dedicated prefix available for SRv6 SIDs.",
     "authors": [
         {
             "author": "Suresh Krishnan",

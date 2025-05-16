@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines how to use the Address Family Identifier (AFI) 17 \"Distinguished Name\" in the Locator/ID Separation Protocol (LISP). LISP introduces two new numbering spaces: Endpoint Identifiers (EIDs) and Routing Locators (RLOCs).  Distinguished Names (DNs) can be used in either EID-Records or RLOC-Records in LISP control messages to convey additional information. ",
+    "abstract": "This document defines how to use the Address Family Identifier (AFI)\\n17 \"Distinguished Name\" in the Locator/ID Separation Protocol (LISP).\\nLISP introduces two new numbering spaces: Endpoint Identifiers (EIDs)\\nand Routing Locators (RLOCs).  Distinguished Names (DNs) can be used\\nin either EID-Records or RLOC-Records in LISP control messages to\\nconvey additional information.",
     "authors": [
         {
             "author": "Dino Farinacci",

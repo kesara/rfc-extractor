@@ -1,5 +1,5 @@
 {
-    "abstract": "This document presents a YANG module called \"ietf-keystore\" that enables centralized configuration of both symmetric and asymmetric keys.  The secret value for both key types may be encrypted or hidden.  Asymmetric keys may be associated with certificates. Notifications are sent when certificates are about to expire. ",
+    "abstract": "This document presents a YANG module called \"ietf-keystore\" that\\nenables centralized configuration of both symmetric and asymmetric\\nkeys.  The secret value for both key types may be encrypted or\\nhidden.  Asymmetric keys may be associated with certificates.\\nNotifications are sent when certificates are about to expire.",
     "authors": [
         {
             "author": "Kent Watsen",

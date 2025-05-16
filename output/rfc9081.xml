@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the procedures for interoperation between Multicast Virtual Private Network (MVPN) Source-Active (SA) routes and customer Multicast Source Discovery Protocol (MSDP) SA routes, which is useful for MVPN provider networks offering services to customers with an existing MSDP infrastructure.  Without the procedures described in this document, VPN-specific MSDP sessions are required among the Provider Edge (PE) routers that are customer MSDP peers.  This document updates RFC 6514. ",
+    "abstract": "This document specifies the procedures for interoperation between\\nMulticast Virtual Private Network (MVPN) Source-Active (SA) routes\\nand customer Multicast Source Discovery Protocol (MSDP) SA routes,\\nwhich is useful for MVPN provider networks offering services to\\ncustomers with an existing MSDP infrastructure.  Without the\\nprocedures described in this document, VPN-specific MSDP sessions are\\nrequired among the Provider Edge (PE) routers that are customer MSDP\\npeers.  This document updates RFC 6514.",
     "authors": [
         {
             "author": "Zhaohui Zhang",

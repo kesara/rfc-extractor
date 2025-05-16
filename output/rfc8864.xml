@@ -1,5 +1,5 @@
 {
-    "abstract": "Data channel setup can be done using either the in-band Data Channel Establishment Protocol (DCEP) or some out-of-band non-DCEP protocol. This document specifies how the SDP (Session Description Protocol) offer/answer exchange can be used to achieve an out-of-band non-DCEP negotiation for establishing a data channel. ",
+    "abstract": "Data channel setup can be done using either the in-band Data Channel\\nEstablishment Protocol (DCEP) or some out-of-band non-DCEP protocol.\\nThis document specifies how the SDP (Session Description Protocol)\\noffer/answer exchange can be used to achieve an out-of-band non-DCEP\\nnegotiation for establishing a data channel.",
     "authors": [
         {
             "author": "Keith Drage",

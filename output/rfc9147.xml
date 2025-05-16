@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies version 1.3 of the Datagram Transport Layer Security (DTLS) protocol.  DTLS 1.3 allows client/server applications to communicate over the Internet in a way that is designed to prevent eavesdropping, tampering, and message forgery.  The DTLS 1.3 protocol is based on the Transport Layer Security (TLS) 1.3 protocol and provides equivalent security guarantees with the exception of order protection / non-replayability.  Datagram semantics of the underlying transport are preserved by the DTLS protocol.  This document obsoletes RFC 6347. ",
+    "abstract": "This document specifies version 1.3 of the Datagram Transport Layer\\nSecurity (DTLS) protocol.  DTLS 1.3 allows client/server applications\\nto communicate over the Internet in a way that is designed to prevent\\neavesdropping, tampering, and message forgery.\\n\\nThe DTLS 1.3 protocol is based on the Transport Layer Security (TLS)\\n1.3 protocol and provides equivalent security guarantees with the\\nexception of order protection / non-replayability.  Datagram\\nsemantics of the underlying transport are preserved by the DTLS\\nprotocol.\\n\\nThis document obsoletes RFC 6347.",
     "authors": [
         {
             "author": "Eric Rescorla",

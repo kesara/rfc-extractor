@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies a new parameter called iss.  This parameter is used to explicitly include the issuer identifier of the authorization server in the authorization response of an OAuth authorization flow.  The iss parameter serves as an effective countermeasure to \"mix-up attacks\". ",
+    "abstract": "This document specifies a new parameter called iss.  This parameter\\nis used to explicitly include the issuer identifier of the\\nauthorization server in the authorization response of an OAuth\\nauthorization flow.  The iss parameter serves as an effective\\ncountermeasure to \"mix-up attacks\".",
     "authors": [
         {
             "author": "Karsten Meyer zu Selhausen",

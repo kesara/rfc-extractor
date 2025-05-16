@@ -1,5 +1,5 @@
 {
-    "abstract": "The Personal Assertion Token (PASSporT) format defines a token that can be carried by signaling protocols, including SIP, to cryptographically attest the identity of callers.  However, not all telephone calls use Internet signaling protocols, and some calls use them for only part of their signaling path, while some cannot reliably deliver SIP header fields end-to-end.  This document describes use cases that require the delivery of PASSporT objects outside of the signaling path, and defines architectures and semantics to provide this functionality. ",
+    "abstract": "The Personal Assertion Token (PASSporT) format defines a token that\\ncan be carried by signaling protocols, including SIP, to\\ncryptographically attest the identity of callers.  However, not all\\ntelephone calls use Internet signaling protocols, and some calls use\\nthem for only part of their signaling path, while some cannot\\nreliably deliver SIP header fields end-to-end.  This document\\ndescribes use cases that require the delivery of PASSporT objects\\noutside of the signaling path, and defines architectures and\\nsemantics to provide this functionality.",
     "authors": [
         {
             "author": "Eric Rescorla",

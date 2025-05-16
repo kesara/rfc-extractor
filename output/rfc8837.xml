@@ -1,5 +1,5 @@
 {
-    "abstract": "Networks can provide different forwarding treatments for individual packets based on Differentiated Services Code Point (DSCP) values on a per-hop basis.  This document provides the recommended DSCP values for web browsers to use for various classes of Web Real-Time Communication (WebRTC) traffic. ",
+    "abstract": "Networks can provide different forwarding treatments for individual\\npackets based on Differentiated Services Code Point (DSCP) values on\\na per-hop basis.  This document provides the recommended DSCP values\\nfor web browsers to use for various classes of Web Real-Time\\nCommunication (WebRTC) traffic.",
     "authors": [
         {
             "author": "Paul E. Jones",

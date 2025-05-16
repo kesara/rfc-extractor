@@ -1,5 +1,5 @@
 {
-    "abstract": "This document relaxes the packet verification rules defined in \"MAC Authentication for the Babel Routing Protocol\" (RFC 8967) in order to make the protocol more robust in the presence of packet reordering. This document updates RFC 8967. ",
+    "abstract": "This document relaxes the packet verification rules defined in \"MAC\\nAuthentication for the Babel Routing Protocol\" (RFC 8967) in order to\\nmake the protocol more robust in the presence of packet reordering.\\nThis document updates RFC 8967.",
     "authors": [
         {
             "author": "Juliusz Chroboczek",

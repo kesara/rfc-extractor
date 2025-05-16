@@ -1,5 +1,5 @@
 {
-    "abstract": "This specification defines a protocol for an HTTP- and JSON-based Security Token Service (STS) by defining how to request and obtain security tokens from OAuth 2.0 authorization servers, including security tokens employing impersonation and delegation. ",
+    "abstract": "This specification defines a protocol for an HTTP- and JSON-based\\nSecurity Token Service (STS) by defining how to request and obtain\\nsecurity tokens from OAuth 2.0 authorization servers, including\\nsecurity tokens employing impersonation and delegation.",
     "authors": [
         {
             "author": "Michael B. Jones",

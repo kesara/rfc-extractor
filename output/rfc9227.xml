@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a set of encryption transforms for use in the Encapsulating Security Payload (ESP) and in the Internet Key Exchange version 2 (IKEv2) protocols, which are parts of the IP Security (IPsec) protocol suite.  The transforms are based on the GOST R 34.12-2015 block ciphers (which are named \"Magma\" and \"Kuznyechik\") in Multilinear Galois Mode (MGM) and the external rekeying approach.  This specification was developed to facilitate implementations that wish to support the GOST algorithms.  This document does not imply IETF endorsement of the cryptographic algorithms used in this document. ",
+    "abstract": "This document defines a set of encryption transforms for use in the\\nEncapsulating Security Payload (ESP) and in the Internet Key Exchange\\nversion 2 (IKEv2) protocols, which are parts of the IP Security\\n(IPsec) protocol suite.  The transforms are based on the GOST R\\n34.12-2015 block ciphers (which are named \"Magma\" and \"Kuznyechik\")\\nin Multilinear Galois Mode (MGM) and the external rekeying approach.\\n\\nThis specification was developed to facilitate implementations that\\nwish to support the GOST algorithms.  This document does not imply\\nIETF endorsement of the cryptographic algorithms used in this\\ndocument.",
     "authors": [
         {
             "author": "Valery Smyslov",

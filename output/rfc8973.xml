@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies mechanisms to configure DDoS Open Threat Signaling (DOTS) clients with their DOTS servers.  The discovery procedure also covers the DOTS signal channel Call Home.  It can be useful to know the appropriate DOTS server for a given location in order to engage mitigation actions.  This is true even in cases where the DOTS client cannot localize the attack: cases where it only knows that some resources are under attack and that help is needed. ",
+    "abstract": "This document specifies mechanisms to configure DDoS Open Threat\\nSignaling (DOTS) clients with their DOTS servers.  The discovery\\nprocedure also covers the DOTS signal channel Call Home.  It can be\\nuseful to know the appropriate DOTS server for a given location in\\norder to engage mitigation actions.  This is true even in cases where\\nthe DOTS client cannot localize the attack: cases where it only knows\\nthat some resources are under attack and that help is needed.",
     "authors": [
         {
             "author": "Mohamed Boucadair",

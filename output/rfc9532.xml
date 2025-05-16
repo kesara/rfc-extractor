@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines the next-hop-aliases HTTP Proxy-Status Parameter.  This parameter carries the list of aliases and canonical names an intermediary received during DNS resolution as part of establishing a connection to the next hop. ",
+    "abstract": "This document defines the next-hop-aliases HTTP Proxy-Status\\nParameter.  This parameter carries the list of aliases and canonical\\nnames an intermediary received during DNS resolution as part of\\nestablishing a connection to the next hop.",
     "authors": [
         {
             "author": "Tommy Pauly",

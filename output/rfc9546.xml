@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines format and usage principles of the Deterministic Networking (DetNet) service Associated Channel over a DetNet network with the MPLS data plane.  The DetNet service Associated Channel can be used to carry test packets of active Operations, Administration, and Maintenance (OAM) protocols that are used to detect DetNet failures and measure performance metrics. ",
+    "abstract": "This document defines format and usage principles of the\\nDeterministic Networking (DetNet) service Associated Channel over a\\nDetNet network with the MPLS data plane.  The DetNet service\\nAssociated Channel can be used to carry test packets of active\\nOperations, Administration, and Maintenance (OAM) protocols that are\\nused to detect DetNet failures and measure performance metrics.",
     "authors": [
         {
             "author": "Greg Mirsky",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the updated format of the Nonce extension in the Online Certificate Status Protocol (OCSP) request and response messages.  OCSP is used to check the status of a certificate, and the Nonce extension is used to cryptographically bind an OCSP response message to a particular OCSP request message.  This document updates RFC 6960. ",
+    "abstract": "This document specifies the updated format of the Nonce extension in\\nthe Online Certificate Status Protocol (OCSP) request and response\\nmessages.  OCSP is used to check the status of a certificate, and the\\nNonce extension is used to cryptographically bind an OCSP response\\nmessage to a particular OCSP request message.  This document updates\\nRFC 6960.",
     "authors": [
         {
             "author": "Mohit Sahni",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This memo defines application/multipart-core, an application- independent media type that can be used to combine representations of zero or more different media types (each with a Constrained Application Protocol (CoAP) Content-Format identifier) into a single representation, with minimal framing overhead. ",
+    "abstract": "This memo defines application/multipart-core, an application-\\nindependent media type that can be used to combine representations of\\nzero or more different media types (each with a Constrained\\nApplication Protocol (CoAP) Content-Format identifier) into a single\\nrepresentation, with minimal framing overhead.",
     "authors": [
         {
             "author": "Thomas Fossati",

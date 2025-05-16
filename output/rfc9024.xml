@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the Deterministic Networking data plane when Time-Sensitive Networking (TSN) networks are interconnected over a DetNet MPLS network. ",
+    "abstract": "This document specifies the Deterministic Networking data plane when\\nTime-Sensitive Networking (TSN) networks are interconnected over a\\nDetNet MPLS network.",
     "authors": [
         {
             "author": "Bal\u00e1zs Varga",

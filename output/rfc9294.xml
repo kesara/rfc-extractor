@@ -1,5 +1,5 @@
 {
-    "abstract": "Extensions have been defined for link-state routing protocols that enable distribution of application-specific link attributes for existing as well as newer applications such as Segment Routing (SR). This document defines extensions to the Border Gateway Protocol - Link State (BGP-LS) to enable the advertisement of these application- specific attributes as a part of the topology information from the network. ",
+    "abstract": "Extensions have been defined for link-state routing protocols that\\nenable distribution of application-specific link attributes for\\nexisting as well as newer applications such as Segment Routing (SR).\\nThis document defines extensions to the Border Gateway Protocol -\\nLink State (BGP-LS) to enable the advertisement of these application-\\nspecific attributes as a part of the topology information from the\\nnetwork.",
     "authors": [
         {
             "author": "Ketan Talaulikar",

@@ -1,5 +1,5 @@
 {
-    "abstract": "To aid debugging, HTTP caches often append header fields to a response, explaining how they handled the request in an ad hoc manner.  This specification defines a standard mechanism to do so that is aligned with HTTP's caching model. ",
+    "abstract": "To aid debugging, HTTP caches often append header fields to a\\nresponse, explaining how they handled the request in an ad hoc\\nmanner.  This specification defines a standard mechanism to do so\\nthat is aligned with HTTP's caching model.",
     "authors": [
         {
             "author": "Mark Nottingham",

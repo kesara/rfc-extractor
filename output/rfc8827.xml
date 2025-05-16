@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines the security architecture for WebRTC, a protocol suite intended for use with real-time applications that can be deployed in browsers -- \"real-time communication on the Web\". ",
+    "abstract": "This document defines the security architecture for WebRTC, a\\nprotocol suite intended for use with real-time applications that can\\nbe deployed in browsers -- \"real-time communication on the Web\".",
     "authors": [
         {
             "author": "Eric Rescorla",

@@ -1,5 +1,5 @@
 {
-    "abstract": "This document explains the problems associated with the use of No- Path Destination Advertisement Object (NPDAO) messaging in RFC 6550 and also discusses the requirements for an optimized route invalidation messaging scheme.  Further, this document specifies a new proactive route invalidation message called the \"Destination Cleanup Object\" (DCO), which fulfills requirements for optimized route invalidation messaging. ",
+    "abstract": "This document explains the problems associated with the use of No-\\nPath Destination Advertisement Object (NPDAO) messaging in RFC 6550\\nand also discusses the requirements for an optimized route\\ninvalidation messaging scheme.  Further, this document specifies a\\nnew proactive route invalidation message called the \"Destination\\nCleanup Object\" (DCO), which fulfills requirements for optimized\\nroute invalidation messaging.",
     "authors": [
         {
             "author": "Rahul Arvind Jadhav",

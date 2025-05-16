@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines two YANG modules.  The first module is the initial version of the IANA-maintained YANG module for Maximum Segment Identifier (SID) Depth (MSD) Types, which includes identities for both the MPLS data plane and Segment Routing over IPv6 (SRv6) data plane.  The second module augments the IETF MPLS YANG data model to provide support for MPLS MSDs as defined in RFCs 8476 and 8491. ",
+    "abstract": "This document defines two YANG modules.  The first module is the\\ninitial version of the IANA-maintained YANG module for Maximum\\nSegment Identifier (SID) Depth (MSD) Types, which includes identities\\nfor both the MPLS data plane and Segment Routing over IPv6 (SRv6)\\ndata plane.  The second module augments the IETF MPLS YANG data model\\nto provide support for MPLS MSDs as defined in RFCs 8476 and 8491.",
     "authors": [
         {
             "author": "Yingzhen Qu",

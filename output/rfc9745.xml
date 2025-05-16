@@ -1,5 +1,5 @@
 {
-    "abstract": "The Deprecation HTTP response header field is used to signal to consumers of a resource (identified by a URI) that the resource will be or has been deprecated.  Additionally, the deprecation link relation can be used to link to a resource that provides further information about planned or existing deprecation.  It may also provide ways in which client application developers can best manage deprecation. ",
+    "abstract": "The Deprecation HTTP response header field is used to signal to\\nconsumers of a resource (identified by a URI) that the resource will\\nbe or has been deprecated.  Additionally, the deprecation link\\nrelation can be used to link to a resource that provides further\\ninformation about planned or existing deprecation.  It may also\\nprovide ways in which client application developers can best manage\\ndeprecation.",
     "authors": [
         {
             "author": "Sanjay Dalal",

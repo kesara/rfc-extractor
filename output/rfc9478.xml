@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a new Traffic Selector Type (TS Type) for the Internet Key Exchange Protocol version 2 (IKEv2) to add support for negotiating Mandatory Access Control (MAC) security labels as a Traffic Selector of the Security Policy Database (SPD).  Security Labels for IPsec are also known as \"Labeled IPsec\".  The new TS Type, TS_SECLABEL, consists of a variable length opaque field that specifies the security label. ",
+    "abstract": "This document defines a new Traffic Selector Type (TS Type) for the\\nInternet Key Exchange Protocol version 2 (IKEv2) to add support for\\nnegotiating Mandatory Access Control (MAC) security labels as a\\nTraffic Selector of the Security Policy Database (SPD).  Security\\nLabels for IPsec are also known as \"Labeled IPsec\".  The new TS Type,\\nTS_SECLABEL, consists of a variable length opaque field that\\nspecifies the security label.",
     "authors": [
         {
             "author": "Paul Wouters",

@@ -1,5 +1,5 @@
 {
-    "abstract": "The SIP Reason header field as defined in RFC 3326 allows only one Reason value per protocol value.  Experience with more recently defined protocols shows it is useful to allow multiple values with the same protocol value.  This document updates RFC 3326 to allow multiple values for an indicated registered protocol when that protocol defines what the presence of multiple values means. ",
+    "abstract": "The SIP Reason header field as defined in RFC 3326 allows only one\\nReason value per protocol value.  Experience with more recently\\ndefined protocols shows it is useful to allow multiple values with\\nthe same protocol value.  This document updates RFC 3326 to allow\\nmultiple values for an indicated registered protocol when that\\nprotocol defines what the presence of multiple values means.",
     "authors": [
         {
             "author": "Robert Sparks",

@@ -1,5 +1,5 @@
 {
-    "abstract": "There are some circumstances where a Geolocation header field may contain more than one locationValue.  Knowing the identity of the node adding the locationValue allows the recipient more freedom in selecting the value to look at first rather than relying solely on the order of the locationValues.  This document defines the \"loc-src\" parameter so that the entity adding the locationValue to the Geolocation header field can identify itself using its hostname. This document updates RFC 6442. ",
+    "abstract": "There are some circumstances where a Geolocation header field may\\ncontain more than one locationValue.  Knowing the identity of the\\nnode adding the locationValue allows the recipient more freedom in\\nselecting the value to look at first rather than relying solely on\\nthe order of the locationValues.  This document defines the \"loc-src\"\\nparameter so that the entity adding the locationValue to the\\nGeolocation header field can identify itself using its hostname.\\nThis document updates RFC 6442.",
     "authors": [
         {
             "author": "James Winterbottom",

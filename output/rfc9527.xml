@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines DHCPv6 options so that a Homenet Naming Authority (HNA) can automatically set the appropriate configuration and outsource the authoritative naming service for the home network. In most cases, the outsourcing mechanism is transparent for the end user. ",
+    "abstract": "This document defines DHCPv6 options so that a Homenet Naming\\nAuthority (HNA) can automatically set the appropriate configuration\\nand outsource the authoritative naming service for the home network.\\nIn most cases, the outsourcing mechanism is transparent for the end\\nuser.",
     "authors": [
         {
             "author": "Daniel Migault",

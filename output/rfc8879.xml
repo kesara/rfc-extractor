@@ -1,5 +1,5 @@
 {
-    "abstract": "In TLS handshakes, certificate chains often take up the majority of the bytes transmitted.  This document describes how certificate chains can be compressed to reduce the amount of data transmitted and avoid some round trips. ",
+    "abstract": "In TLS handshakes, certificate chains often take up the majority of\\nthe bytes transmitted.\\n\\nThis document describes how certificate chains can be compressed to\\nreduce the amount of data transmitted and avoid some round trips.",
     "authors": [
         {
             "author": "Alessandro Ghedini",

@@ -1,5 +1,5 @@
 {
-    "abstract": "In situ Operations, Administration, and Maintenance (IOAM) collects operational and telemetry information in the packet while the packet traverses a path between two points in the network.  This document discusses the data fields and associated data types for IOAM.  IOAM- Data-Fields can be encapsulated into a variety of protocols, such as Network Service Header (NSH), Segment Routing, Generic Network Virtualization Encapsulation (Geneve), or IPv6.  IOAM can be used to complement OAM mechanisms based on, e.g., ICMP or other types of probe packets. ",
+    "abstract": "In situ Operations, Administration, and Maintenance (IOAM) collects\\noperational and telemetry information in the packet while the packet\\ntraverses a path between two points in the network.  This document\\ndiscusses the data fields and associated data types for IOAM.  IOAM-\\nData-Fields can be encapsulated into a variety of protocols, such as\\nNetwork Service Header (NSH), Segment Routing, Generic Network\\nVirtualization Encapsulation (Geneve), or IPv6.  IOAM can be used to\\ncomplement OAM mechanisms based on, e.g., ICMP or other types of\\nprobe packets.",
     "authors": [
         {
             "author": "Frank Brockners",

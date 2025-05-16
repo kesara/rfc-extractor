@@ -1,5 +1,5 @@
 {
-    "abstract": "The Drone Remote Identification Protocol (DRIP), plus trust policies and periodic access to registries, augments Unmanned Aircraft System (UAS) Remote Identification (RID), enabling local real-time assessment of trustworthiness of received RID messages and observed UAS, even by Observers lacking Internet access.  This document defines DRIP message types and formats to be sent in Broadcast RID Authentication Messages to verify that attached and recently detached messages were signed by the registered owner of the DRIP Entity Tag (DET) claimed. ",
+    "abstract": "The Drone Remote Identification Protocol (DRIP), plus trust policies\\nand periodic access to registries, augments Unmanned Aircraft System\\n(UAS) Remote Identification (RID), enabling local real-time\\nassessment of trustworthiness of received RID messages and observed\\nUAS, even by Observers lacking Internet access.  This document\\ndefines DRIP message types and formats to be sent in Broadcast RID\\nAuthentication Messages to verify that attached and recently detached\\nmessages were signed by the registered owner of the DRIP Entity Tag\\n(DET) claimed.",
     "authors": [
         {
             "author": "Adam Wiethuechter",

@@ -1,5 +1,5 @@
 {
-    "abstract": "RFC 6374 describes methods of making loss and delay measurements on Label Switched Paths (LSPs) primarily as they are used in MPLS Transport Profile (MPLS-TP) networks.  This document describes a method of extending the performance measurements (specified in RFC 6374) from flows carried over MPLS-TP to flows carried over generic MPLS LSPs.  In particular, it extends the technique to allow loss and delay measurements to be made on multipoint-to-point LSPs and introduces some additional techniques to allow more sophisticated measurements to be made in both MPLS-TP and generic MPLS networks. ",
+    "abstract": "RFC 6374 describes methods of making loss and delay measurements on\\nLabel Switched Paths (LSPs) primarily as they are used in MPLS\\nTransport Profile (MPLS-TP) networks.  This document describes a\\nmethod of extending the performance measurements (specified in RFC\\n6374) from flows carried over MPLS-TP to flows carried over generic\\nMPLS LSPs.  In particular, it extends the technique to allow loss and\\ndelay measurements to be made on multipoint-to-point LSPs and\\nintroduces some additional techniques to allow more sophisticated\\nmeasurements to be made in both MPLS-TP and generic MPLS networks.",
     "authors": [
         {
             "author": "Stewart Bryant",

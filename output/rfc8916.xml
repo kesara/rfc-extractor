@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a YANG data model for the configuration and management of Multicast Source Discovery Protocol (MSDP) protocol operations. ",
+    "abstract": "This document defines a YANG data model for the configuration and\\nmanagement of Multicast Source Discovery Protocol (MSDP) protocol\\noperations.",
     "authors": [
         {
             "author": "Xufeng Liu",

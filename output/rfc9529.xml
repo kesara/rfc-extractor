@@ -1,5 +1,5 @@
 {
-    "abstract": "This document contains example traces of Ephemeral Diffie-Hellman Over COSE (EDHOC). ",
+    "abstract": "This document contains example traces of Ephemeral Diffie-Hellman\\nOver COSE (EDHOC).",
     "authors": [
         {
             "author": "G\u00f6ran Selander",

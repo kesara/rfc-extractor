@@ -1,5 +1,5 @@
 {
-    "abstract": "YANG (RFC 7950) is a data modeling language used to model configuration data, state data, parameters and results of Remote Procedure Call (RPC) operations or actions, and notifications.  This document defines encoding rules for YANG in the Concise Binary Object Representation (CBOR) (RFC 8949). ",
+    "abstract": "YANG (RFC 7950) is a data modeling language used to model\\nconfiguration data, state data, parameters and results of Remote\\nProcedure Call (RPC) operations or actions, and notifications.\\n\\nThis document defines encoding rules for YANG in the Concise Binary\\nObject Representation (CBOR) (RFC 8949).",
     "authors": [
         {
             "author": "Michel Veillette",

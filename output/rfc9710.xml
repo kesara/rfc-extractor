@@ -1,5 +1,5 @@
 {
-    "abstract": "This document provides simple fixes to the IANA \"IP Flow Information Export (IPFIX) Entities\" registry.  Specifically, this document provides updates to fix shortcomings in the description of some Information Elements (IEs), to ensure a consistent structure when citing an existing IANA registry, and to fix broken pointers, orphaned section references, etc.  The updates are also meant to bring some consistency among the entries of the registry. ",
+    "abstract": "This document provides simple fixes to the IANA \"IP Flow Information\\nExport (IPFIX) Entities\" registry.  Specifically, this document\\nprovides updates to fix shortcomings in the description of some\\nInformation Elements (IEs), to ensure a consistent structure when\\nciting an existing IANA registry, and to fix broken pointers,\\norphaned section references, etc.  The updates are also meant to\\nbring some consistency among the entries of the registry.",
     "authors": [
         {
             "author": "Mohamed Boucadair",

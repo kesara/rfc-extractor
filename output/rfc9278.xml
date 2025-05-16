@@ -1,5 +1,5 @@
 {
-    "abstract": "This specification registers a kind of URI that represents a JSON Web Key (JWK) Thumbprint value.  JWK Thumbprints are defined in RFC 7638. This enables JWK Thumbprints to be used, for instance, as key identifiers in contexts requiring URIs. ",
+    "abstract": "This specification registers a kind of URI that represents a JSON Web\\nKey (JWK) Thumbprint value.  JWK Thumbprints are defined in RFC 7638.\\nThis enables JWK Thumbprints to be used, for instance, as key\\nidentifiers in contexts requiring URIs.",
     "authors": [
         {
             "author": "Michael B. Jones",

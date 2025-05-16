@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes GREASE (Generate Random Extensions And Sustain Extensibility), a mechanism to prevent extensibility failures in the TLS ecosystem.  It reserves a set of TLS protocol values that may be advertised to ensure peers correctly handle unknown values. ",
+    "abstract": "This document describes GREASE (Generate Random Extensions And\\nSustain Extensibility), a mechanism to prevent extensibility failures\\nin the TLS ecosystem.  It reserves a set of TLS protocol values that\\nmay be advertised to ensure peers correctly handle unknown values.",
     "authors": [
         {
             "author": "David Benjamin",

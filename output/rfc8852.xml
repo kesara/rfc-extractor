@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines and registers two new Real-time Transport Control Protocol (RTCP) Stream Identifier Source Description (SDES) items.  One, named RtpStreamId, is used for unique identification of RTP streams.  The other, RepairedRtpStreamId, can be used to identify which stream is to be repaired using a redundancy RTP stream. ",
+    "abstract": "This document defines and registers two new Real-time Transport\\nControl Protocol (RTCP) Stream Identifier Source Description (SDES)\\nitems.  One, named RtpStreamId, is used for unique identification of\\nRTP streams.  The other, RepairedRtpStreamId, can be used to identify\\nwhich stream is to be repaired using a redundancy RTP stream.",
     "authors": [
         {
             "author": "Adam Roach",

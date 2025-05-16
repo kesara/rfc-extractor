@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies the format, contents, and semantics of Domain Name Registration Data (DNRD) escrow deposits for a domain name registry. ",
+    "abstract": "This document specifies the format, contents, and semantics of Domain\\nName Registration Data (DNRD) escrow deposits for a domain name\\nregistry.",
     "authors": [
         {
             "author": "Gustavo Lozano",

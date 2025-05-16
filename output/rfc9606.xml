@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies a method for DNS resolvers to publish information about themselves.  DNS clients can use the resolver information to identify the capabilities of DNS resolvers.  How DNS clients use such information is beyond the scope of this document. ",
+    "abstract": "This document specifies a method for DNS resolvers to publish\\ninformation about themselves.  DNS clients can use the resolver\\ninformation to identify the capabilities of DNS resolvers.  How DNS\\nclients use such information is beyond the scope of this document.",
     "authors": [
         {
             "author": "Tirumaleswar Reddy.K",

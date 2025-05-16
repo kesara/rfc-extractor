@@ -1,5 +1,5 @@
 {
-    "abstract": "This memo discusses the rate at which congestion control feedback can be sent using the RTP Control Protocol (RTCP) and the suitability of RTCP for implementing congestion control for unicast multimedia applications. ",
+    "abstract": "This memo discusses the rate at which congestion control feedback can\\nbe sent using the RTP Control Protocol (RTCP) and the suitability of\\nRTCP for implementing congestion control for unicast multimedia\\napplications.",
     "authors": [
         {
             "author": "Colin Perkins",

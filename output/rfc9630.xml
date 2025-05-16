@@ -1,5 +1,5 @@
 {
-    "abstract": "This document specifies two solutions to meet the requirements of on- path telemetry for multicast traffic using IOAM.  While IOAM is advantageous for multicast traffic telemetry, some unique challenges are present.  This document provides the solutions based on the IOAM trace option and direct export option to support the telemetry data correlation and the multicast tree reconstruction without incurring data redundancy. ",
+    "abstract": "This document specifies two solutions to meet the requirements of on-\\npath telemetry for multicast traffic using IOAM.  While IOAM is\\nadvantageous for multicast traffic telemetry, some unique challenges\\nare present.  This document provides the solutions based on the IOAM\\ntrace option and direct export option to support the telemetry data\\ncorrelation and the multicast tree reconstruction without incurring\\ndata redundancy.",
     "authors": [
         {
             "author": "Haoyu Song",

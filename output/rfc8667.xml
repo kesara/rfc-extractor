@@ -1,5 +1,5 @@
 {
-    "abstract": "Segment Routing (SR) allows for a flexible definition of end-to-end paths within IGP topologies by encoding paths as sequences of topological sub-paths, called \"segments\".  These segments are advertised by the link-state routing protocols (IS-IS and OSPF).  This document describes the IS-IS extensions that need to be introduced for Segment Routing operating on an MPLS data plane. ",
+    "abstract": "Segment Routing (SR) allows for a flexible definition of end-to-end\\npaths within IGP topologies by encoding paths as sequences of\\ntopological sub-paths, called \"segments\".  These segments are\\nadvertised by the link-state routing protocols (IS-IS and OSPF).\\n\\nThis document describes the IS-IS extensions that need to be\\nintroduced for Segment Routing operating on an MPLS data plane.",
     "authors": [
         {
             "author": "Stefano Previdi",

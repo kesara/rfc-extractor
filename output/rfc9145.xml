@@ -1,5 +1,5 @@
 {
-    "abstract": "This specification presents an optional method to add integrity protection directly to the Network Service Header (NSH) used for Service Function Chaining (SFC).  Also, this specification allows for the encryption of sensitive metadata (MD) that is carried in the NSH. ",
+    "abstract": "This specification presents an optional method to add integrity\\nprotection directly to the Network Service Header (NSH) used for\\nService Function Chaining (SFC).  Also, this specification allows for\\nthe encryption of sensitive metadata (MD) that is carried in the NSH.",
     "authors": [
         {
             "author": "Mohamed Boucadair",

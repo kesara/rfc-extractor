@@ -1,5 +1,5 @@
 {
-    "abstract": "In situ Operations, Administration, and Maintenance (IOAM) is used for recording and collecting operational and telemetry information while the packet traverses a path between two points in the network. This document outlines how IOAM-Data-Fields are encapsulated with the Network Service Header (NSH). ",
+    "abstract": "In situ Operations, Administration, and Maintenance (IOAM) is used\\nfor recording and collecting operational and telemetry information\\nwhile the packet traverses a path between two points in the network.\\nThis document outlines how IOAM-Data-Fields are encapsulated with the\\nNetwork Service Header (NSH).",
     "authors": [
         {
             "author": "Frank Brockners",

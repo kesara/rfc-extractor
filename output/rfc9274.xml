@@ -1,5 +1,5 @@
 {
-    "abstract": "This document creates a new IANA registry for tracking cost modes supported by the Application-Layer Traffic Optimization (ALTO) Protocol.  Also, this document relaxes a constraint that was imposed by the ALTO specification on allowed cost mode values.  This document updates RFC 7285. ",
+    "abstract": "This document creates a new IANA registry for tracking cost modes\\nsupported by the Application-Layer Traffic Optimization (ALTO)\\nProtocol.  Also, this document relaxes a constraint that was imposed\\nby the ALTO specification on allowed cost mode values.\\n\\nThis document updates RFC 7285.",
     "authors": [
         {
             "author": "Mohamed Boucadair",

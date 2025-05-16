@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a binding for the JSON Meta Application Protocol (JMAP) over a WebSocket transport layer.  The WebSocket binding for JMAP provides higher performance than the current HTTP binding for JMAP. ",
+    "abstract": "This document defines a binding for the JSON Meta Application\\nProtocol (JMAP) over a WebSocket transport layer.  The WebSocket\\nbinding for JMAP provides higher performance than the current HTTP\\nbinding for JMAP.",
     "authors": [
         {
             "author": "Kenneth Murchison",

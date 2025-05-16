@@ -1,5 +1,5 @@
 {
-    "abstract": "The Path Computation Element (PCE) may be used for computing services that traverse multi-area and multi-Autonomous System (multi-AS) Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Traffic-Engineered (TE) networks.  This document examines the applicability of the PCE architecture, protocols, and protocol extensions for computing multi-area and multi-AS paths in MPLS and GMPLS networks. ",
+    "abstract": "The Path Computation Element (PCE) may be used for computing services\\nthat traverse multi-area and multi-Autonomous System (multi-AS)\\nMultiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS)\\nTraffic-Engineered (TE) networks.\\n\\nThis document examines the applicability of the PCE architecture,\\nprotocols, and protocol extensions for computing multi-area and\\nmulti-AS paths in MPLS and GMPLS networks.",
     "authors": [
         {
             "author": "Daniel King",

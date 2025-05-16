@@ -1,5 +1,5 @@
 {
-    "abstract": "Network nodes may discard packets if they are unable to process protocol headers of packets due to processing constraints or limits. When such packets are dropped, the sender receives no indication, so it cannot take action to address the cause of discarded packets. This specification defines several new ICMPv6 errors that can be sent by a node that discards packets because it is unable to process the protocol headers.  A node that receives such an ICMPv6 error may use the information to diagnose packet loss and may modify what it sends in future packets to avoid subsequent packet discards. ",
+    "abstract": "Network nodes may discard packets if they are unable to process\\nprotocol headers of packets due to processing constraints or limits.\\nWhen such packets are dropped, the sender receives no indication, so\\nit cannot take action to address the cause of discarded packets.\\nThis specification defines several new ICMPv6 errors that can be sent\\nby a node that discards packets because it is unable to process the\\nprotocol headers.  A node that receives such an ICMPv6 error may use\\nthe information to diagnose packet loss and may modify what it sends\\nin future packets to avoid subsequent packet discards.",
     "authors": [
         {
             "author": "Tom Herbert",

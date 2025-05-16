@@ -1,5 +1,5 @@
 {
-    "abstract": "When split-horizon DNS is deployed by a network, certain domain names can be resolved authoritatively by a network-provided DNS resolver. DNS clients that are not configured to use this resolver by default can use it for these specific domains only.  This specification defines a mechanism for domain owners to inform DNS clients about local resolvers that are authorized to answer authoritatively for certain subdomains. ",
+    "abstract": "When split-horizon DNS is deployed by a network, certain domain names\\ncan be resolved authoritatively by a network-provided DNS resolver.\\nDNS clients that are not configured to use this resolver by default\\ncan use it for these specific domains only.  This specification\\ndefines a mechanism for domain owners to inform DNS clients about\\nlocal resolvers that are authorized to answer authoritatively for\\ncertain subdomains.",
     "authors": [
         {
             "author": "Tirumaleswar Reddy.K",

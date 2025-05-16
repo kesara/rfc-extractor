@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes a data model for the management of the Routing Information Protocol (RIP).  Both RIP version 2 and RIPng are covered.  The data model includes definitions for configuration, operational state, and Remote Procedure Calls (RPCs).  The YANG data model in this document conforms to the Network Management Datastore Architecture (NMDA). ",
+    "abstract": "This document describes a data model for the management of the\\nRouting Information Protocol (RIP).  Both RIP version 2 and RIPng are\\ncovered.  The data model includes definitions for configuration,\\noperational state, and Remote Procedure Calls (RPCs).\\n\\nThe YANG data model in this document conforms to the Network\\nManagement Datastore Architecture (NMDA).",
     "authors": [
         {
             "author": "Xufeng Liu",

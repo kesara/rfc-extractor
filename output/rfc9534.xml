@@ -1,5 +1,5 @@
 {
-    "abstract": "This document extends Simple Two-way Active Measurement Protocol (STAMP) to implement performance measurement on every member link of a Link Aggregation Group (LAG).  Knowing the measured metrics of each member link of a LAG enables operators to enforce a performance-based traffic steering policy across the member links. ",
+    "abstract": "This document extends Simple Two-way Active Measurement Protocol\\n(STAMP) to implement performance measurement on every member link of\\na Link Aggregation Group (LAG).  Knowing the measured metrics of each\\nmember link of a LAG enables operators to enforce a performance-based\\ntraffic steering policy across the member links.",
     "authors": [
         {
             "author": "Zhenqiang Li",

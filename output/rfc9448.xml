@@ -1,5 +1,5 @@
 {
-    "abstract": "This document defines a profile of the Automated Certificate Management Environment (ACME) Authority Token for the automated and authorized creation of certificates for Voice over IP (VoIP) telephone providers to support Secure Telephone Identity (STI) using the TNAuthList defined by STI certificates. ",
+    "abstract": "This document defines a profile of the Automated Certificate\\nManagement Environment (ACME) Authority Token for the automated and\\nauthorized creation of certificates for Voice over IP (VoIP)\\ntelephone providers to support Secure Telephone Identity (STI) using\\nthe TNAuthList defined by STI certificates.",
     "authors": [
         {
             "author": "Chris Wendt",

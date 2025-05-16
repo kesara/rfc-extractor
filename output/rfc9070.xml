@@ -1,5 +1,5 @@
 {
-    "abstract": "This document describes a YANG data model for the Multiprotocol Label Switching (MPLS) Label Distribution Protocol (LDP).  The model also serves as the base model to define the Multipoint LDP (mLDP) model.  The YANG modules in this document conform to the Network Management Datastore Architecture (NMDA). ",
+    "abstract": "This document describes a YANG data model for the Multiprotocol Label\\nSwitching (MPLS) Label Distribution Protocol (LDP).  The model also\\nserves as the base model to define the Multipoint LDP (mLDP) model.\\n\\nThe YANG modules in this document conform to the Network Management\\nDatastore Architecture (NMDA).",
     "authors": [
         {
             "author": "Kamran Raza",

@@ -1,5 +1,5 @@
 {
-    "abstract": "Although the Session Initiation Protocol (SIP) includes a suite of security services that has been expanded by numerous specifications over the years, there is no single place that explains how to use SIP to establish confidential media sessions.  Additionally, existing mechanisms have some feature gaps that need to be identified and resolved in order for them to address the pervasive monitoring threat model.  This specification describes best practices for negotiating confidential media with SIP, including a comprehensive protection solution that binds the media layer to SIP layer identities. ",
+    "abstract": "Although the Session Initiation Protocol (SIP) includes a suite of\\nsecurity services that has been expanded by numerous specifications\\nover the years, there is no single place that explains how to use SIP\\nto establish confidential media sessions.  Additionally, existing\\nmechanisms have some feature gaps that need to be identified and\\nresolved in order for them to address the pervasive monitoring threat\\nmodel.  This specification describes best practices for negotiating\\nconfidential media with SIP, including a comprehensive protection\\nsolution that binds the media layer to SIP layer identities.",
     "authors": [
         {
             "author": "Jon Peterson",
