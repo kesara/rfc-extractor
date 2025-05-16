@@ -21,7 +21,10 @@ def main():
             e=abstract_element, width=MAX_WIDTH, joiners=base_joiners
         )
         for line in abstract_lines[2:]:
-            abstract += line.text.strip() + " "
+            if abstract:
+                abstract += "\\n" + line.text.strip()
+            else:
+                abstract = line.text.strip()
         extract["abstract"] = abstract
 
         # authors
