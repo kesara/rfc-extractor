@@ -32,7 +32,7 @@ source = "https://github.com/kesara/rfc-extractor"
 issues = "https://github.com/kesara/rfc-extractor/issues"
 
 [project.scripts]
-extractor = "extractor:main"
+extractor = "src.extractor:main"
 
 [build-system]
 requires = ["setuptools"]
